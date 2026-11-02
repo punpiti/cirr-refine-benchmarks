@@ -1,0 +1,793 @@
+method,reference,target,depth,replicate,status,returncode,wall_s,worker_method_s,method_peak_rss_kb,method_rss_self_kb,method_rss_child_kb,peak_rss_kb,theta_len,f1,identity_pct,error,load1_before,started_utc,host
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,1,0,completed,0,14.178,10.651,163136.0,163136.0,149696.0,3344904,16471.0,0.9996356570318192,99.92109256449166,,1.05517578125,2026-10-28T13:39:54+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,1,0,completed,0,9.241,0.556,163284.0,163284.0,163284.0,3345200,16471.0,0.9993926141885324,99.87253414264036,,1.0419921875,2026-10-28T13:40:08+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,1,0,completed,0,16.672,7.65,163012.0,163012.0,163012.0,3345280,16471.0,0.747129059244049,57.29282090161544,,1.03515625,2026-10-28T13:40:18+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,1,0,no_output_or_error,0,1.8,0.518,,,,163152,,,,"no contig produced for rt_Saimiri_sciureus_1_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = ",1.02685546875,2026-10-28T13:40:34+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,1,0,no_output_or_error,0,3.88,2.697,,,,163148,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:40:39,668 - INFO: 110 candidates in all 110 reads
+2026-10-28 20:40:39,668 - INFO: Pre-grouping reads ...
+2026-10-28 20:40:39,668 - INFO: Setting '--pre-w 41'
+2026-10-28 20:40:39,668 - INFO: 0/0 used/duplicated
+2026-10-28 20:40:39,668 - INFO: 0 groups made.
+2026-10-28 20:40:39,668 - INFO: Making read i",1.02685546875,2026-10-28T13:40:36+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,1,1,completed,0,15.515,11.668,163148.0,163148.0,149580.0,3344896,16471.0,0.9996963992956462,99.93323216995448,,1.2412109375,2026-10-28T13:40:52+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,1,1,completed,0,9.535,0.594,163108.0,163108.0,163108.0,3345264,16471.0,0.9993926141885324,99.87253414264036,,1.171875,2026-10-28T13:41:07+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,1,1,completed,0,16.537,7.985,163420.0,163420.0,163292.0,3345876,16473.0,0.7644654441819476,60.90827606812071,,1.15771484375,2026-10-28T13:41:17+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,1,1,no_output_or_error,0,1.684,0.494,,,,164016,,,,"no contig produced for rt_Saimiri_sciureus_1_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = ",1.1123046875,2026-10-28T13:41:33+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,1,1,no_output_or_error,0,3.768,2.611,,,,163916,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:41:38,592 - INFO: 109 candidates in all 110 reads
+2026-10-28 20:41:38,592 - INFO: Pre-grouping reads ...
+2026-10-28 20:41:38,592 - INFO: Setting '--pre-w 41'
+2026-10-28 20:41:38,592 - INFO: 1/1 used/duplicated
+2026-10-28 20:41:38,592 - INFO: 0 groups made.
+2026-10-28 20:41:38,592 - INFO: Making read i",1.1123046875,2026-10-28T13:41:35+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,1,2,completed,0,14.739,11.125,163148.0,163148.0,149580.0,3344740,16471.0,0.9996356570318192,99.92109256449166,,1.01904296875,2026-10-28T13:41:50+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,1,2,completed,0,9.501,0.614,163160.0,163160.0,163160.0,3345112,16471.0,0.9993926141885324,99.87253414264036,,1.01416015625,2026-10-28T13:42:05+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,1,2,completed,0,16.032,7.749,163020.0,163020.0,162892.0,3345428,16472.0,0.76520631113443,61.40751879699248,,1.01123046875,2026-10-28T13:42:14+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,1,2,no_output_or_error,0,1.64,0.505,,,,163900,,,,"no contig produced for rt_Saimiri_sciureus_1_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = ",1.00830078125,2026-10-28T13:42:30+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,1,2,no_output_or_error,0,3.659,2.515,,,,163280,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:42:35,261 - INFO: 110 candidates in all 110 reads
+2026-10-28 20:42:35,262 - INFO: Pre-grouping reads ...
+2026-10-28 20:42:35,262 - INFO: Setting '--pre-w 41'
+2026-10-28 20:42:35,262 - INFO: 0/0 used/duplicated
+2026-10-28 20:42:35,262 - INFO: 0 groups made.
+2026-10-28 20:42:35,262 - INFO: Making read i",1.00830078125,2026-10-28T13:42:32+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,2,0,completed,0,15.412,11.697,163284.0,163284.0,149844.0,3344952,16471.0,0.9998178616963148,99.95751138088012,,1.00537109375,2026-10-28T13:42:47+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,2,0,completed,0,9.495,0.615,163412.0,163412.0,163412.0,3345536,16471.0,0.9993926141885324,99.87253414264036,,1.00341796875,2026-10-28T13:43:03+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,2,0,completed,0,24.678,15.522,162844.0,162844.0,162844.0,3345564,16473.0,0.939248575383922,87.79416190189588,,1.0029296875,2026-10-28T13:43:12+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,2,0,no_output_or_error,0,1.708,0.542,,,,163240,,,,"no contig produced for rt_Saimiri_sciureus_2_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = ",1.07470703125,2026-10-28T13:43:37+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,2,0,no_output_or_error,0,3.802,2.676,,,,162900,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:43:42,012 - INFO: 218 candidates in all 220 reads
+2026-10-28 20:43:42,012 - INFO: Pre-grouping reads ...
+2026-10-28 20:43:42,012 - INFO: Setting '--pre-w 41'
+2026-10-28 20:43:42,012 - INFO: 2/2 used/duplicated
+2026-10-28 20:43:42,012 - INFO: 0 groups made.
+2026-10-28 20:43:42,012 - INFO: Making read i",1.14892578125,2026-10-28T13:43:38+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,2,1,completed,0,14.723,11.124,163564.0,163564.0,149868.0,3345212,16471.0,0.9997571341833636,99.9453717754173,,1.115234375,2026-10-28T13:43:54+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,2,1,completed,0,9.249,0.567,163032.0,163032.0,163032.0,3345032,16471.0,0.999483769092952,99.8907435508346,,1.08935546875,2026-10-28T13:44:09+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,2,1,completed,0,23.947,14.959,163116.0,163116.0,162988.0,3345012,16472.0,0.9324779678589944,86.91188017152867,,1.0751953125,2026-10-28T13:44:18+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,2,1,no_output_or_error,0,1.588,0.476,,,,163968,,,,"no contig produced for rt_Saimiri_sciureus_2_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = ",1.052734375,2026-10-28T13:44:42+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,2,1,no_output_or_error,0,3.634,2.546,,,,163164,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:44:46,797 - INFO: 219 candidates in all 220 reads
+2026-10-28 20:44:46,797 - INFO: Pre-grouping reads ...
+2026-10-28 20:44:46,798 - INFO: Setting '--pre-w 41'
+2026-10-28 20:44:46,798 - INFO: 1/1 used/duplicated
+2026-10-28 20:44:46,798 - INFO: 0 groups made.
+2026-10-28 20:44:46,798 - INFO: Making read i",1.04833984375,2026-10-28T13:44:43+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,2,2,completed,0,14.677,11.136,163188.0,163188.0,149620.0,3344844,16471.0,0.9998178616963148,99.96357897292704,,1.037109375,2026-10-28T13:44:58+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,2,2,completed,0,9.192,0.578,163284.0,163284.0,163284.0,3345532,16471.0,0.9994230010021562,99.87860394537178,,1.02783203125,2026-10-28T13:45:13+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,2,2,completed,0,23.929,15.002,163032.0,163032.0,163032.0,3345552,16473.0,0.9137902614314444,83.36240601503759,,1.025390625,2026-10-28T13:45:22+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,2,2,no_output_or_error,0,1.54,0.472,,,,162776,,,,"no contig produced for rt_Saimiri_sciureus_2_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = ",1.078125,2026-10-28T13:45:46+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,2,2,no_output_or_error,0,3.614,2.503,,,,163156,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:45:51,050 - INFO: 217 candidates in all 220 reads
+2026-10-28 20:45:51,050 - INFO: Pre-grouping reads ...
+2026-10-28 20:45:51,050 - INFO: Setting '--pre-w 41'
+2026-10-28 20:45:51,051 - INFO: 3/3 used/duplicated
+2026-10-28 20:45:51,051 - INFO: 0 groups made.
+2026-10-28 20:45:51,051 - INFO: Making read i",1.07177734375,2026-10-28T13:45:48+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,4,0,completed,0,15.614,11.927,163344.0,163344.0,149776.0,3345232,16471.0,0.9999089391409924,99.98178948646353,,1.0556640625,2026-10-28T13:46:04+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,4,0,completed,0,9.411,0.734,163240.0,163240.0,163240.0,3345324,16471.0,0.9995749073905388,99.90895295902884,,1.04248046875,2026-10-28T13:46:20+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,4,0,completed,0,39.198,30.059,163552.0,163552.0,163552.0,3346300,16474.0,0.9897589992027964,97.58162031438935,,1.1162109375,2026-10-28T13:46:29+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,4,0,completed,0,9.113,7.918,163224.0,163224.0,163224.0,224116,311.0,0.0370568960381292,1.8878232366152723,,1.15576171875,2026-10-28T13:47:08+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,4,0,no_output_or_error,0,4.01,2.861,,,,163040,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:47:21,018 - INFO: 433 candidates in all 440 reads
+2026-10-28 20:47:21,018 - INFO: Pre-grouping reads ...
+2026-10-28 20:47:21,018 - INFO: Setting '--pre-w 41'
+2026-10-28 20:47:21,018 - INFO: 7/7 used/duplicated
+2026-10-28 20:47:21,018 - INFO: 0 groups made.
+2026-10-28 20:47:21,018 - INFO: Making read i",1.13134765625,2026-10-28T13:47:17+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,4,1,completed,0,15.694,12.007,163412.0,163412.0,149844.0,3345040,16471.0,0.9999089391409924,99.98178948646353,,1.1015625,2026-10-28T13:47:35+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,4,1,completed,0,9.246,0.719,163416.0,163416.0,163416.0,3345648,16471.0,0.9996052831334448,99.91502276176024,,1.146484375,2026-10-28T13:47:51+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,4,1,completed,0,39.294,30.011,163032.0,163032.0,163032.0,3345792,16474.0,0.984653312788906,96.1251504211793,,1.123046875,2026-10-28T13:48:00+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,4,1,completed,0,11.569,10.351,163276.0,163276.0,163276.0,217044,274.0,0.0327203248149032,1.6632269029986646,,1.0615234375,2026-10-28T13:48:39+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,4,1,no_output_or_error,0,4.288,3.166,,,,163608,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:48:54,383 - INFO: 433 candidates in all 440 reads
+2026-10-28 20:48:54,384 - INFO: Pre-grouping reads ...
+2026-10-28 20:48:54,384 - INFO: Setting '--pre-w 41'
+2026-10-28 20:48:54,384 - INFO: 7/7 used/duplicated
+2026-10-28 20:48:54,384 - INFO: 1 groups made.
+2026-10-28 20:48:54,384 - INFO: Making read i",1.05126953125,2026-10-28T13:48:51+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,4,2,completed,0,15.625,12.082,163028.0,163028.0,149460.0,3344720,16471.0,0.9999089391409924,99.98178948646353,,1.03564453125,2026-10-28T13:49:09+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,4,2,completed,0,9.309,0.7,163500.0,163500.0,163500.0,3345784,16472.0,0.9996356570318192,99.92109256449166,,1.02734375,2026-10-28T13:49:24+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,4,2,completed,0,39.35,30.161,163288.0,163288.0,163160.0,3345864,16474.0,0.9925083325688774,98.39335515945191,,1.0224609375,2026-10-28T13:49:34+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,4,2,completed,0,27.956,26.671,162964.0,162964.0,162964.0,238468,387.0,0.0459047506079117,2.349156246206143,,1.009765625,2026-10-28T13:50:13+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,4,2,no_output_or_error,0,3.783,2.707,,,,164960,,,,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:50:44,422 - INFO: 434 candidates in all 440 reads
+2026-10-28 20:50:44,422 - INFO: Pre-grouping reads ...
+2026-10-28 20:50:44,423 - INFO: Setting '--pre-w 41'
+2026-10-28 20:50:44,423 - INFO: 6/6 used/duplicated
+2026-10-28 20:50:44,423 - INFO: 0 groups made.
+2026-10-28 20:50:44,423 - INFO: Making read i",1.13623046875,2026-10-28T13:50:41+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,8,0,completed,0,17.778,14.099,163668.0,163668.0,149844.0,3345356,16471.0,0.9999089391409924,99.98178948646353,,1.0966796875,2026-10-28T13:51:02+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,8,0,completed,0,10.292,1.804,533180.0,163800.0,533180.0,3346224,16474.0,0.9999089391409924,99.97572078907436,,1.068359375,2026-10-28T13:51:19+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,8,0,completed,0,69.073,59.919,163428.0,163428.0,163428.0,3346024,16474.0,0.998236546062633,99.29833051052503,,1.2177734375,2026-10-28T13:51:30+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,8,0,completed,0,7.068,5.877,163532.0,163532.0,163404.0,218864,283.0,0.0337769290445783,1.7178584436081097,,1.06591796875,2026-10-28T13:52:39+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,8,0,no_output_or_error,0,5.765,4.693,,,,163424,,,,"no scaffold produced; stdout tail:
+ 1 reads2026-10-28 20:52:50,585 - INFO: 859 candidates in all 879 reads
+2026-10-28 20:52:50,585 - INFO: Pre-grouping reads ...
+2026-10-28 20:52:50,585 - INFO: Setting '--pre-w 41'
+2026-10-28 20:52:50,585 - INFO: 19/19 used/duplicated
+2026-10-28 20:52:50,587 - INFO: 1 groups made.
+2026-10-28 20:52:50,587 - INFO: Making read i",1.060546875,2026-10-28T13:52:46+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,17.83,14.147,163664.0,163664.0,149840.0,3345332,16471.0,0.9999089391409924,99.98178948646353,,1.0390625,2026-10-28T13:53:08+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,9.94,1.499,528128.0,163428.0,528128.0,3345896,16474.0,0.9999696482229034,99.98786039453718,,1.02978515625,2026-10-28T13:53:26+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,75.149,65.668,163548.0,163548.0,163420.0,3345984,16474.0,0.9988149138533532,99.52764488584752,,1.24658203125,2026-10-28T13:53:36+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,54.988,53.343,163024.0,163024.0,163024.0,412060,1286.0,0.1448198198198198,7.806240135971834,,1.06787109375,2026-10-28T13:54:51+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,12.306,6.732,163232.0,163232.0,163104.0,2029456,9658.0,0.7391703658349915,58.62571324511351,,1.025390625,2026-10-28T13:55:46+00:00,think
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,8,2,completed,0,18.03,14.281,163452.0,163452.0,149372.0,3345124,16471.0,0.9999089391409924,99.98178948646353,,1.01416015625,2026-10-28T13:56:15+00:00,think
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,8,2,completed,0,9.969,1.461,508992.0,163416.0,508992.0,3345736,16472.0,0.9997571341833636,99.9453717754173,,1.00927734375,2026-10-28T13:56:33+00:00,think
+MIA,Saimiri_boliviensis,Saimiri_sciureus,8,2,completed,0,69.636,60.245,163592.0,163592.0,163592.0,3346212,16474.0,0.998053764748814,99.22602491232314,,1.00732421875,2026-10-28T13:56:43+00:00,think
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,8,2,completed,0,153.713,151.011,163672.0,163672.0,163544.0,909932,3860.0,0.3796596832890724,23.43086075027316,,1.068359375,2026-10-28T13:57:53+00:00,think
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,8,2,no_output_or_error,0,5.876,4.754,,,,163880,,,,"no scaffold produced; stdout tail:
+ 1 reads2026-10-28 21:00:31,313 - INFO: 858 candidates in all 879 reads
+2026-10-28 21:00:31,314 - INFO: Pre-grouping reads ...
+2026-10-28 21:00:31,314 - INFO: Setting '--pre-w 41'
+2026-10-28 21:00:31,314 - INFO: 21/21 used/duplicated
+2026-10-28 21:00:31,315 - INFO: 0 groups made.
+2026-10-28 21:00:31,315 - INFO: Making read i",1.02294921875,2026-10-28T14:00:27+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,1,0,completed,0,13.918,10.424,163404.0,163404.0,149964.0,3342588,16569.0,0.9353631957320842,84.30280286149876,,1.015625,2026-10-28T14:00:44+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,1,0,completed,0,8.977,0.59,162888.0,162888.0,162888.0,3342572,16569.0,0.9442240072260396,88.29029922779922,,1.0126953125,2026-10-28T14:00:58+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,1,0,completed,0,15.984,7.708,163268.0,163268.0,163268.0,3341392,16560.0,0.7734512611025748,61.953650336215176,,1.01025390625,2026-10-28T14:01:07+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,1,0,no_output_or_error,0,1.601,0.475,,,,163412,,,,"no contig produced for rt_Gorilla_gorilla_1_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.08154296875,2026-10-28T14:01:23+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,1,0,no_output_or_error,0,3.636,2.466,,,,163124,,,,"no scaffold produced; stdout tail:
+ad index finished.
+
+2026-10-28 21:01:27,796 - INFO: Extending ...
+2026-10-28 21:01:27,796 - INFO: Adding initial words ...
+2026-10-28 21:01:27,798 - INFO: AW 6546
+2026-10-28 21:01:27,798 - INFO: Round 1: 1/110 AI 0 AW 65462026-10-28 21:01:27,800 - INFO: Round 1: 110/110 AI 55 AW 7722
+2026-10-28 21:01:27,8",1.07470703125,2026-10-28T14:01:24+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,1,1,completed,0,13.744,10.361,163168.0,163168.0,149600.0,3169876,15669.0,0.9252241305704246,85.49493232991442,,1.05712890625,2026-10-28T14:01:38+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,1,1,completed,0,8.966,0.581,163028.0,163028.0,163028.0,3342816,16569.0,0.944155886053489,88.27823359073359,,1.1220703125,2026-10-28T14:01:52+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,1,1,completed,0,15.8,7.674,162768.0,162768.0,162768.0,3343772,16575.0,0.7805350622252031,61.44189593476858,,1.02880859375,2026-10-28T14:02:01+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,1,1,no_output_or_error,0,1.57,0.471,,,,163276,,,,"no contig produced for rt_Gorilla_gorilla_1_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.1025390625,2026-10-28T14:02:17+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,1,1,no_output_or_error,0,3.514,2.425,,,,163120,,,,"no scaffold produced; stdout tail:
+ad index finished.
+
+2026-10-28 21:02:21,973 - INFO: Extending ...
+2026-10-28 21:02:21,973 - INFO: Adding initial words ...
+2026-10-28 21:02:21,976 - INFO: AW 7518
+2026-10-28 21:02:21,976 - INFO: Round 1: 1/110 AI 0 AW 75182026-10-28 21:02:21,977 - INFO: Round 1: 110/110 AI 59 AW 8434
+2026-10-28 21:02:21,9",1.09423828125,2026-10-28T14:02:19+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,1,2,completed,0,13.764,10.291,163148.0,163148.0,149708.0,3342352,16569.0,0.9355017075947308,84.32625776943826,,1.0791015625,2026-10-28T14:02:33+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,1,2,completed,0,8.924,0.574,162900.0,162900.0,162900.0,3342772,16569.0,0.9441218221706026,88.27220077220078,,1.0615234375,2026-10-28T14:02:47+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,1,2,completed,0,15.818,7.643,162800.0,162800.0,162800.0,3341924,16565.0,0.7961450746707864,64.95798319327731,,1.05126953125,2026-10-28T14:02:55+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,1,2,no_output_or_error,0,1.575,0.485,,,,164132,,,,"no contig produced for rt_Gorilla_gorilla_1_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.0390625,2026-10-28T14:03:11+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,1,2,no_output_or_error,0,3.574,2.469,,,,163688,,,,"no scaffold produced; stdout tail:
+ad index finished.
+
+2026-10-28 21:03:16,356 - INFO: Extending ...
+2026-10-28 21:03:16,356 - INFO: Adding initial words ...
+2026-10-28 21:03:16,358 - INFO: AW 7774
+2026-10-28 21:03:16,358 - INFO: Round 1: 1/110 AI 0 AW 77742026-10-28 21:03:16,360 - INFO: Round 1: 110/110 AI 56 AW 8456
+2026-10-28 21:03:16,3",1.0390625,2026-10-28T14:03:13+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,2,0,completed,0,14.377,11.065,163416.0,163416.0,149848.0,3170088,15669.0,0.9298280034006932,86.28997997208229,,1.02734375,2026-10-28T14:03:29+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,2,0,completed,0,8.915,0.63,163152.0,163152.0,163152.0,3341876,16565.0,0.9459241843537636,88.61332367849384,,1.0224609375,2026-10-28T14:03:43+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,2,0,completed,0,24.18,15.255,163072.0,163072.0,163072.0,3343120,16570.0,0.8860449285228046,75.62165930745991,,1.0185546875,2026-10-28T14:03:52+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,2,0,no_output_or_error,0,1.609,0.471,,,,163532,,,,"no contig produced for rt_Gorilla_gorilla_2_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.06884765625,2026-10-28T14:04:16+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,2,0,no_output_or_error,0,3.652,2.54,,,,163228,,,,"no scaffold produced; stdout tail:
+/218 AI 1 AW 111342026-10-28 21:04:21,259 - INFO: Round 1: 218/218 AI 143 AW 13856
+2026-10-28 21:04:21,259 - INFO: Round 2: 1/218 AI 143 AW 138562026-10-28 21:04:21,260 - INFO: Round 2: 218/218 AI 156 AW 14852
+2026-10-28 21:04:21,261 - INFO: R",1.06884765625,2026-10-28T14:04:18+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,2,1,completed,0,14.033,10.723,163044.0,163044.0,149476.0,3169736,15669.0,0.9273025237627008,85.85300722218851,,1.04833984375,2026-10-28T14:04:34+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,2,1,completed,0,8.89,0.593,163380.0,163380.0,163380.0,3343068,16569.0,0.9449387491940684,88.41698841698842,,1.04052734375,2026-10-28T14:04:48+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,2,1,completed,0,24.102,15.152,163028.0,163028.0,163028.0,3343092,16570.0,0.9026287553648068,79.52732644017725,,1.03369140625,2026-10-28T14:04:57+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,2,1,no_output_or_error,0,1.574,0.484,,,,163652,,,,"no contig produced for rt_Gorilla_gorilla_2_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.02099609375,2026-10-28T14:05:21+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,2,1,no_output_or_error,0,3.56,2.466,,,,163796,,,,"no scaffold produced; stdout tail:
+ AI 127 AW 132242026-10-28 21:05:26,220 - INFO: Round 3: 216/216 AI 135 AW 13714
+2026-10-28 21:05:26,220 - INFO: Round 4: 1/216 AI 135 AW 137142026-10-28 21:05:26,221 - INFO: Round 4: 216/216 AI 144 AW 14234
+2026-10-28 21:05:26,221 - INFO: R",1.02099609375,2026-10-28T14:05:23+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,2,2,completed,0,14.193,10.739,163152.0,163152.0,149840.0,3342316,16569.0,0.9395029325038076,85.00645009968336,,1.01416015625,2026-10-28T14:05:39+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,2,2,completed,0,8.932,0.588,162976.0,162976.0,162976.0,3342744,16569.0,0.9452787624879148,88.4773166023166,,1.01025390625,2026-10-28T14:05:53+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,2,2,completed,0,24.033,15.426,162896.0,162896.0,162896.0,3342844,16570.0,0.9097934710193204,81.93436131277375,,1.00927734375,2026-10-28T14:06:02+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,2,2,no_output_or_error,0,1.575,0.479,,,,163932,,,,"no contig produced for rt_Gorilla_gorilla_2_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.1357421875,2026-10-28T14:06:26+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,2,2,no_output_or_error,0,3.595,2.48,,,,163032,,,,"no scaffold produced; stdout tail:
+.
+
+2026-10-28 21:06:31,474 - INFO: Extending ...
+2026-10-28 21:06:31,474 - INFO: Adding initial words ...
+2026-10-28 21:06:31,479 - INFO: AW 11666
+2026-10-28 21:06:31,479 - INFO: Round 1: 1/217 AI 0 AW 116662026-10-28 21:06:31,482 - INFO: Round 1: 217/217 AI 135 AW 14044
+2026-10-28 21:06:31,482 - INFO: R",1.1357421875,2026-10-28T14:06:28+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,4,0,completed,0,15.403,11.785,163412.0,163412.0,149972.0,3342580,16569.0,0.9437128840691972,85.72768851882256,,1.08837890625,2026-10-28T14:06:48+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,4,0,completed,0,8.967,0.662,163660.0,163660.0,163660.0,3343280,16569.0,0.9543435892520528,90.105580693816,,1.06787109375,2026-10-28T14:07:04+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,4,0,completed,0,39.495,30.077,163100.0,163100.0,163100.0,3341836,16565.0,0.9783355185115814,94.05197767240864,,1.06201171875,2026-10-28T14:07:13+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,4,0,no_output_or_error,0,1.614,0.504,,,,163404,,,,"no contig produced for rt_Gorilla_gorilla_4_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.0302734375,2026-10-28T14:07:52+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,4,0,no_output_or_error,0,4.094,2.999,,,,163352,,,,"no scaffold produced; stdout tail:
+ AI 392 AW 262622026-10-28 21:07:57,374 - INFO: Round 5: 427/427 AI 402 AW 26664
+2026-10-28 21:07:57,374 - INFO: Round 6: 1/427 AI 402 AW 266642026-10-28 21:07:57,375 - INFO: Round 6: 427/427 AI 408 AW 26872
+2026-10-28 21:07:57,375 - INFO: R",1.02783203125,2026-10-28T14:07:54+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,4,1,completed,0,15.384,11.718,163408.0,163408.0,149968.0,3342704,16569.0,0.9429281999935404,85.59282279817052,,1.01904296875,2026-10-28T14:08:15+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,4,1,completed,0,9.018,0.635,163276.0,163276.0,163276.0,3342968,16569.0,0.952133960874716,89.70197876447877,,1.01416015625,2026-10-28T14:08:30+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,4,1,completed,0,39.107,30.194,162900.0,162900.0,162900.0,3335864,16533.0,0.9880650547275988,96.64307748140084,,1.01123046875,2026-10-28T14:08:39+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,4,1,no_output_or_error,0,1.601,0.473,,,,163608,,,,"no contig produced for rt_Gorilla_gorilla_4_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.05810546875,2026-10-28T14:09:18+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,4,1,no_output_or_error,0,3.717,2.599,,,,163196,,,,"no scaffold produced; stdout tail:
+ AI 368 AW 246922026-10-28 21:09:23,542 - INFO: Round 3: 435/435 AI 401 AW 26342
+2026-10-28 21:09:23,542 - INFO: Round 4: 1/435 AI 401 AW 263422026-10-28 21:09:23,542 - INFO: Round 4: 435/435 AI 414 AW 27152
+2026-10-28 21:09:23,543 - INFO: R",1.05322265625,2026-10-28T14:09:20+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,4,2,completed,0,15.282,11.611,163228.0,163228.0,149660.0,3342512,16569.0,0.9429964796692828,85.60455025214026,,1.03369140625,2026-10-28T14:09:44+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,4,2,completed,0,9.167,0.669,163408.0,163408.0,163408.0,3342432,16566.0,0.9532399411501312,89.93361496680748,,1.025390625,2026-10-28T14:09:59+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,4,2,completed,0,38.957,30.262,163288.0,163288.0,163288.0,3334700,16526.0,0.9897830045991912,97.01682197749,,1.02294921875,2026-10-28T14:10:08+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,4,2,no_output_or_error,0,1.563,0.475,,,,163404,,,,"no contig produced for rt_Gorilla_gorilla_4_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = r",1.01025390625,2026-10-28T14:10:47+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,4,2,no_output_or_error,0,3.683,2.591,,,,162960,,,,"no scaffold produced; stdout tail:
+ AI 328 AW 223362026-10-28 21:10:52,339 - INFO: Round 2: 429/429 AI 372 AW 24272
+2026-10-28 21:10:52,339 - INFO: Round 3: 1/429 AI 372 AW 242722026-10-28 21:10:52,340 - INFO: Round 3: 429/429 AI 378 AW 24508
+2026-10-28 21:10:52,340 - INFO: R",1.00927734375,2026-10-28T14:10:49+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,8,0,completed,0,17.061,13.375,163420.0,163420.0,149596.0,3170004,15669.0,0.9341843879245776,87.04861321842569,,1.00439453125,2026-10-28T14:11:19+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,8,0,completed,0,9.434,1.305,445568.0,163800.0,445568.0,3342012,16562.0,0.9760660764008384,94.17411253320454,,1.0029296875,2026-10-28T14:11:36+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,8,0,completed,0,68.503,59.809,163668.0,163668.0,163668.0,3334164,16522.0,0.99619678567047,98.28723597409672,,1.001953125,2026-10-28T14:11:46+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,8,0,completed,0,53.258,51.224,163404.0,163404.0,163404.0,616708,2358.0,0.2518961649396432,14.409679784893669,,1.0,2026-10-28T14:12:54+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,8,0,no_output_or_error,0,6.367,5.308,,,,163404,,,,"no scaffold produced; stdout tail:
+ AI 735 AW 286682026-10-28 21:13:51,788 - INFO: Round 2: 847/847 AI 820 AW 30976
+2026-10-28 21:13:51,789 - INFO: Round 3: 1/847 AI 820 AW 309762026-10-28 21:13:51,790 - INFO: Round 3: 847/847 AI 841 AW 31328
+2026-10-28 21:13:51,790 - INFO: R",1.0,2026-10-28T14:13:47+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,17.028,13.376,163668.0,163668.0,149972.0,3170236,15669.0,0.93390664191016,87.00006069065971,,1.0,2026-10-28T14:14:20+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,9.519,1.466,519488.0,163668.0,519488.0,3341880,16562.0,0.9765463756332478,94.26467036947597,,1.0,2026-10-28T14:14:37+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,68.51,59.78,163336.0,163336.0,163208.0,3333276,16520.0,0.99595042336483,98.25665859564164,,1.5888671875,2026-10-28T14:14:47+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,21.308,19.882,163032.0,163032.0,163032.0,309020,756.0,0.0883177570093458,4.619897335614764,,1.41015625,2026-10-28T14:15:55+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,11.406,6.197,163408.0,163408.0,163408.0,1876796,8927.0,0.7059428255110514,54.552676607186505,,1.29296875,2026-10-28T14:16:17+00:00,think
+SRSC,Homo_sapiens,Gorilla_gorilla,8,2,completed,0,16.717,13.102,163440.0,163440.0,149744.0,3169948,15669.0,0.9336982373831167,86.96364629483523,,1.2109375,2026-10-28T14:16:53+00:00,think
+Pilon,Homo_sapiens,Gorilla_gorilla,8,2,completed,0,9.439,1.365,444800.0,163848.0,444800.0,3341528,16560.0,0.9763543100212688,94.23413632795992,,1.150390625,2026-10-28T14:17:10+00:00,think
+MIA,Homo_sapiens,Gorilla_gorilla,8,2,completed,0,69.633,60.967,163416.0,163416.0,163416.0,3334364,16524.0,0.9987150461971488,98.77753570564028,,1.201171875,2026-10-28T14:17:19+00:00,think
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,8,2,completed,0,64.56,62.411,163156.0,163156.0,163156.0,656880,2569.0,0.271378017218613,15.699095575653876,,1.06103515625,2026-10-28T14:18:29+00:00,think
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,8,2,no_output_or_error,0,5.528,4.446,,,,163812,,,,"no scaffold produced; stdout tail:
+.
+
+2026-10-28 21:19:37,948 - INFO: Extending ...
+2026-10-28 21:19:37,948 - INFO: Adding initial words ...
+2026-10-28 21:19:37,959 - INFO: AW 17982
+2026-10-28 21:19:37,959 - INFO: Round 1: 1/850 AI 0 AW 179822026-10-28 21:19:37,976 - INFO: Round 1: 850/850 AI 750 AW 30052
+2026-10-28 21:19:37,976 - INFO: R",1.0205078125,2026-10-28T14:19:34+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,1,0,completed,0,14.066,10.229,163276.0,163276.0,149836.0,3459156,16569.0,0.8314506130320981,68.01712965571646,,1.013671875,2026-10-28T14:19:52+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,1,0,completed,0,9.092,0.559,162912.0,162912.0,162912.0,3459176,16569.0,0.8393651228022166,70.82082659893788,,1.009765625,2026-10-28T14:20:06+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,1,0,completed,0,17.17,8.36,162768.0,162768.0,162768.0,3466480,16605.0,0.0,0.0,,1.0078125,2026-10-28T14:20:15+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,1,0,no_output_or_error,0,44.315,43.116,,,,163148,,,,"no contig produced for rt_Varecia_variegata_1_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.0732421875,2026-10-28T14:20:33+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,1,0,no_output_or_error,0,2.423,1.317,,,,163304,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:21:19,434 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:21:19,435 - INFO: Mean error rate = 0.0006
+2026-10-28 21:21:19,435 - INFO: Counting read lengths ...
+2026-10-28 21:21:19,435 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:21:19,435 - INFO: Reads used = 114
+2026-10-28 21:21:19,435 - INFO: Pre-r",1.03271484375,2026-10-28T14:21:17+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,1,1,completed,0,13.98,10.135,163356.0,163356.0,149916.0,3459220,16569.0,0.8306451612903226,67.90826101656711,,0.9580078125,2026-10-28T14:21:33+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,1,1,completed,0,9.101,0.568,162900.0,162900.0,162900.0,3459200,16569.0,0.8393651228022166,70.82082659893788,,0.9677734375,2026-10-28T14:21:47+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,1,1,completed,0,17.384,8.533,163284.0,163284.0,163284.0,3462652,16584.0,0.0,0.0,,0.97314453125,2026-10-28T14:21:56+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,1,1,no_output_or_error,0,44.129,43.027,,,,164136,,,,"no contig produced for rt_Varecia_variegata_1_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",0.97998046875,2026-10-28T14:22:13+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,1,1,no_output_or_error,0,2.44,1.323,,,,163844,,,,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 21:22:59,844 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:22:59,845 - INFO: Mean error rate = 0.0006
+2026-10-28 21:22:59,845 - INFO: Counting read lengths ...
+2026-10-28 21:22:59,845 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:22:59,845 - INFO: Reads used = 114
+2026-10-28 21:22:59,845 - INFO: Pre-re",1.0712890625,2026-10-28T14:22:57+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,1,2,completed,0,14.47,10.469,163280.0,163280.0,149840.0,3459232,16569.0,0.8315310971830016,68.0245661482984,,1.228515625,2026-10-28T14:23:13+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,1,2,completed,0,9.266,0.559,162888.0,162888.0,162888.0,3459456,16569.0,0.8393651228022166,70.82082659893788,,1.17724609375,2026-10-28T14:23:28+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,1,2,completed,0,17.359,8.929,163408.0,163408.0,163280.0,3470328,16622.0,0.0,0.0,,1.37060546875,2026-10-28T14:23:37+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,1,2,no_output_or_error,0,44.673,43.567,,,,163024,,,,"no contig produced for rt_Varecia_variegata_1_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.2646484375,2026-10-28T14:23:54+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,1,2,no_output_or_error,0,2.419,1.333,,,,163688,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:24:41,571 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:24:41,571 - INFO: Mean error rate = 0.0006
+2026-10-28 21:24:41,571 - INFO: Counting read lengths ...
+2026-10-28 21:24:41,572 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:24:41,572 - INFO: Reads used = 114
+2026-10-28 21:24:41,572 - INFO: Pre-r",1.197265625,2026-10-28T14:24:39+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,2,0,completed,0,14.137,10.279,163060.0,163060.0,149876.0,3459188,16569.0,0.8314506130320981,68.01329727293216,,1.615234375,2026-10-28T14:24:58+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,2,0,completed,0,9.419,0.57,163408.0,163408.0,163408.0,3459744,16569.0,0.8393651228022166,70.82082659893788,,1.552734375,2026-10-28T14:25:12+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,2,0,completed,0,25.498,16.636,163152.0,163152.0,163024.0,3471660,16630.0,0.0,0.0,,1.54150390625,2026-10-28T14:25:22+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,2,0,no_output_or_error,0,44.825,43.708,,,,163404,,,,"no contig produced for rt_Varecia_variegata_2_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.35546875,2026-10-28T14:25:47+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,2,0,no_output_or_error,0,2.361,1.292,,,,163584,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:26:34,338 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:26:34,339 - INFO: Mean error rate = 0.0006
+2026-10-28 21:26:34,339 - INFO: Counting read lengths ...
+2026-10-28 21:26:34,339 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:26:34,339 - INFO: Reads used = 227
+2026-10-28 21:26:34,339 - INFO: Pre-r",1.16552734375,2026-10-28T14:26:32+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,2,1,completed,0,14.106,10.324,163156.0,163156.0,149716.0,3458992,16569.0,0.8326567123099153,68.19385742462666,,1.11767578125,2026-10-28T14:26:51+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,2,1,completed,0,9.086,0.582,163280.0,163280.0,163280.0,3459720,16569.0,0.8396032831737346,70.85546063264835,,1.0908203125,2026-10-28T14:27:05+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,2,1,completed,0,25.479,16.78,163288.0,163288.0,163288.0,3470604,16624.0,0.0,0.0,,1.08349609375,2026-10-28T14:27:14+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,2,1,no_output_or_error,0,44.219,43.097,,,,163404,,,,"no contig produced for rt_Varecia_variegata_2_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.0498046875,2026-10-28T14:27:40+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,2,1,no_output_or_error,0,2.401,1.314,,,,163428,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:28:26,292 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:28:26,293 - INFO: Mean error rate = 0.0006
+2026-10-28 21:28:26,293 - INFO: Counting read lengths ...
+2026-10-28 21:28:26,293 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:28:26,293 - INFO: Reads used = 227
+2026-10-28 21:28:26,293 - INFO: Pre-r",1.02392578125,2026-10-28T14:28:24+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,2,2,completed,0,14.434,10.532,162896.0,162896.0,149456.0,3458780,16569.0,0.8320941759603471,68.12263991433241,,1.0166015625,2026-10-28T14:28:43+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,2,2,completed,0,9.414,0.59,163192.0,163192.0,163192.0,3459416,16569.0,0.8393651228022166,70.82082659893788,,1.01220703125,2026-10-28T14:28:58+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,2,2,completed,0,25.911,16.923,163124.0,163124.0,163124.0,3473428,16639.0,0.0,0.0,,1.009765625,2026-10-28T14:29:07+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,2,2,no_output_or_error,0,44.566,43.477,,,,163280,,,,"no contig produced for rt_Varecia_variegata_2_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.14111328125,2026-10-28T14:29:33+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,2,2,no_output_or_error,0,2.389,1.303,,,,163272,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:30:19,878 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:30:19,878 - INFO: Mean error rate = 0.0006
+2026-10-28 21:30:19,878 - INFO: Counting read lengths ...
+2026-10-28 21:30:19,879 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:30:19,879 - INFO: Reads used = 227
+2026-10-28 21:30:19,879 - INFO: Pre-r",1.06494140625,2026-10-28T14:30:17+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,4,0,completed,0,14.672,10.578,163412.0,163412.0,149844.0,3459360,16569.0,0.8349414552072246,68.51893597835888,,1.0419921875,2026-10-28T14:30:41+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,4,0,completed,0,9.268,0.749,162928.0,162928.0,162928.0,3459360,16569.0,0.8396826482456741,70.86700531055183,,1.43310546875,2026-10-28T14:30:55+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,4,0,completed,0,42.473,33.623,163288.0,163288.0,163288.0,3479540,16669.0,0.0,0.0,,1.36572265625,2026-10-28T14:31:05+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,4,0,no_output_or_error,0,46.82,45.702,,,,164568,,,,"no contig produced for rt_Varecia_variegata_4_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.2353515625,2026-10-28T14:31:47+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,4,0,no_output_or_error,0,2.441,1.34,,,,163144,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:32:36,444 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:32:36,445 - INFO: Mean error rate = 0.0006
+2026-10-28 21:32:36,445 - INFO: Counting read lengths ...
+2026-10-28 21:32:36,446 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:32:36,446 - INFO: Reads used = 453
+2026-10-28 21:32:36,446 - INFO: Pre-r",1.2578125,2026-10-28T14:32:34+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,4,1,completed,0,14.639,10.835,163284.0,163284.0,149716.0,3459232,16569.0,0.8332187070151306,68.28044862762779,,1.2431640625,2026-10-28T14:32:59+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,4,1,completed,0,9.227,0.582,163376.0,163376.0,163376.0,3459604,16569.0,0.8396032831737346,70.85546063264835,,1.18896484375,2026-10-28T14:33:14+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,4,1,completed,0,42.037,33.257,163312.0,163312.0,163312.0,3472508,16633.0,0.0,0.0,,1.15966796875,2026-10-28T14:33:23+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,4,1,no_output_or_error,0,46.712,45.56,,,,163248,,,,"no contig produced for rt_Varecia_variegata_4_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          =",1.0732421875,2026-10-28T14:34:05+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,4,1,no_output_or_error,0,2.458,1.361,,,,162876,,,,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 21:34:54,013 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:34:54,015 - INFO: Mean error rate = 0.0006
+2026-10-28 21:34:54,015 - INFO: Counting read lengths ...
+2026-10-28 21:34:54,016 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:34:54,016 - INFO: Reads used = 453
+2026-10-28 21:34:54,016 - INFO: Pre-r",1.07763671875,2026-10-28T14:34:52+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,4,2,completed,0,14.599,10.682,163396.0,163396.0,149828.0,3459480,16569.0,0.8328976334617502,68.23151487826871,,1.05029296875,2026-10-28T14:35:16+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,4,2,completed,0,9.361,0.587,163412.0,163412.0,163412.0,3459808,16569.0,0.8400396567638714,70.91895636111752,,1.03857421875,2026-10-28T14:35:31+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,4,2,completed,0,42.198,33.334,163628.0,163628.0,163628.0,3472696,16633.0,0.0,0.0,,1.0322265625,2026-10-28T14:35:40+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,4,2,completed,0,57.597,56.319,163020.0,163020.0,162892.0,234272,354.0,0.0408799584271609,2.086648983200708,,1.01513671875,2026-10-28T14:36:22+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,4,2,no_output_or_error,0,2.44,1.349,,,,163164,,,,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 21:37:22,282 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:37:22,284 - INFO: Mean error rate = 0.0006
+2026-10-28 21:37:22,284 - INFO: Counting read lengths ...
+2026-10-28 21:37:22,284 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:37:22,285 - INFO: Reads used = 453
+2026-10-28 21:37:22,285 - INFO: Pre-re",1.0419921875,2026-10-28T14:37:20+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,8,0,completed,0,15.204,11.218,163408.0,163408.0,149840.0,3459376,16569.0,0.8347413970739749,68.49461759567153,,1.0244140625,2026-10-28T14:37:53+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,8,0,completed,0,9.606,0.704,163788.0,163788.0,163788.0,3460308,16571.0,0.8431245524907088,71.38980310641492,,1.166015625,2026-10-28T14:38:08+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,8,0,completed,0,75.101,66.188,163408.0,163408.0,163408.0,3471128,16626.0,0.7711419361848538,57.55527923447045,,1.14013671875,2026-10-28T14:38:18+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,8,0,completed,0,58.945,57.055,163660.0,163660.0,163660.0,502220,1699.0,0.1820617231033004,10.014736221632774,,0.9921875,2026-10-28T14:39:33+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,8,0,no_output_or_error,0,2.495,1.401,,,,163568,,,,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 21:40:34,210 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:40:34,213 - INFO: Mean error rate = 0.0006
+2026-10-28 21:40:34,213 - INFO: Counting read lengths ...
+2026-10-28 21:40:34,214 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:40:34,214 - INFO: Reads used = 905
+2026-10-28 21:40:34,214 - INFO: Pre-re",1.3193359375,2026-10-28T14:40:32+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,8,1,completed,0,15.311,11.285,163148.0,163148.0,149452.0,3459136,16569.0,0.835141444658061,68.55870582267065,,1.17626953125,2026-10-28T14:41:05+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,8,1,completed,0,9.6,0.682,163284.0,163284.0,163284.0,3461212,16577.0,0.8447001940821954,71.62076332351752,,1.13671875,2026-10-28T14:41:21+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,8,1,no_output_or_error,0,70.112,68.973,,,,163852,,,,"MIA exited -11; stdout tail:
+
+stderr tail:
+Starting assembly of /tmp/mia_qn7qpf8e/reads.fasta
+using /tmp/mia_qn7qpf8e/reference.fasta
+as reference at Wed Oct 28 21:41:31 2026
+
+Starting to align sequences to the reference...
+
+Repeat and score filtering
+Repeat and score filtering
+Generating new assembly consensus
+Starting assembly iteration 2
+Repeat and score filtering
+Starting assembly iteration 3
+",1.115234375,2026-10-28T14:41:30+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,8,1,completed,0,85.151,82.479,163532.0,163532.0,163532.0,856032,3477.0,0.3401819782800117,20.495137046861185,,1.0869140625,2026-10-28T14:42:40+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,8,1,no_output_or_error,0,2.471,1.352,,,,163404,,,,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 21:44:07,911 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:44:07,913 - INFO: Mean error rate = 0.0006
+2026-10-28 21:44:07,913 - INFO: Counting read lengths ...
+2026-10-28 21:44:07,914 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:44:07,914 - INFO: Reads used = 905
+2026-10-28 21:44:07,914 - INFO: Pre-re",1.0185546875,2026-10-28T14:44:05+00:00,think
+SRSC,Homo_sapiens,Varecia_variegata,8,2,completed,0,15.121,11.236,163408.0,163408.0,149840.0,3459308,16569.0,0.835141444658061,68.55097785041988,,1.134765625,2026-10-28T14:44:39+00:00,think
+Pilon,Homo_sapiens,Varecia_variegata,8,2,completed,0,9.496,0.663,163444.0,163444.0,163444.0,3460208,16572.0,0.8426115431846091,71.31062355658199,,1.10400390625,2026-10-28T14:44:54+00:00,think
+MIA,Homo_sapiens,Varecia_variegata,8,2,completed,0,77.535,68.581,163160.0,163160.0,163160.0,3478488,16665.0,0.7842195786154509,59.19294639476389,,1.08740234375,2026-10-28T14:45:03+00:00,think
+NOVOPlasty,Homo_sapiens,Varecia_variegata,8,2,completed,0,26.78,25.391,163156.0,163156.0,163028.0,279296,580.0,0.0661157024793388,3.418803418803418,,1.0205078125,2026-10-28T14:46:21+00:00,think
+GetOrganelle,Homo_sapiens,Varecia_variegata,8,2,no_output_or_error,0,2.684,1.499,,,,163536,,,,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 21:46:50,190 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 21:46:50,193 - INFO: Mean error rate = 0.0006
+2026-10-28 21:46:50,193 - INFO: Counting read lengths ...
+2026-10-28 21:46:50,194 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 21:46:50,194 - INFO: Reads used = 905
+2026-10-28 21:46:50,194 - INFO: Pre-re",1.0703125,2026-10-28T14:46:47+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,1,0,completed,0,4.311,0.366,170684.0,170684.0,149632.0,3350980,16471.0,0.9996356570318192,99.92109256449166,,0.50927734375,2026-10-29T17:07:23+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,1,0,completed,0,3.582,0.421,183888.0,183888.0,149836.0,3356148,16471.0,0.9996356570318192,99.92109256449166,,0.548828125,2026-10-29T17:07:27+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,1,1,completed,0,3.467,0.359,170788.0,170788.0,149832.0,3351480,16473.0,0.9997571341833636,99.9453717754173,,0.61865234375,2026-10-29T17:07:35+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,1,1,completed,0,3.521,0.402,179112.0,179112.0,150096.0,3356088,16473.0,0.9997571341833636,99.9453717754173,,0.6494140625,2026-10-29T17:07:38+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,1,2,completed,0,4.258,0.434,170552.0,170552.0,149576.0,3351096,16472.0,0.9996660290858306,99.92716236722306,,0.7578125,2026-10-29T17:07:46+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,1,2,completed,0,3.871,0.593,184448.0,184448.0,149824.0,3355136,16472.0,0.9996660290858306,99.92716236722306,,0.77734375,2026-10-29T17:07:50+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,2,0,completed,0,3.945,0.678,170676.0,170676.0,149964.0,3351464,16473.0,0.9998785818358428,99.96965098634294,,0.79541015625,2026-10-29T17:07:58+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,2,0,completed,0,3.791,0.643,171224.0,171224.0,150092.0,3351916,16473.0,0.9998785818358428,99.96965098634294,,0.81201171875,2026-10-29T17:08:02+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,2,1,completed,0,4.525,0.665,170608.0,170608.0,149660.0,3351012,16471.0,0.999787498861601,99.9575088017482,,0.84130859375,2026-10-29T17:08:09+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,2,1,completed,0,3.822,0.648,171024.0,171024.0,149968.0,3351420,16471.0,0.999787498861601,99.9575088017482,,0.8544921875,2026-10-29T17:08:14+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,2,2,completed,0,4.623,0.816,170400.0,170400.0,149708.0,3351120,16473.0,0.9998178616963148,99.96357897292704,,0.8662109375,2026-10-29T17:08:21+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,2,2,completed,0,4.074,0.776,176680.0,176680.0,149556.0,3353576,16473.0,0.9998178616963148,99.96357897292704,,0.876953125,2026-10-29T17:08:26+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,4,0,completed,0,4.942,1.195,175056.0,175056.0,149844.0,3351676,16474.0,1.0,100.0,,0.896484375,2026-10-29T17:08:34+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,4,0,completed,0,5.202,1.27,175256.0,175256.0,149712.0,3352060,16474.0,1.0,100.0,,0.90478515625,2026-10-29T17:08:39+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,4,1,completed,0,5.141,1.288,175036.0,175036.0,149764.0,3351688,16474.0,1.0,100.0,,0.919921875,2026-10-29T17:08:49+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,4,1,completed,0,5.24,1.383,175216.0,175216.0,149592.0,3351752,16474.0,1.0,100.0,,0.9267578125,2026-10-29T17:08:55+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,4,2,completed,0,5.155,1.204,175064.0,175064.0,149964.0,3351624,16474.0,1.0,100.0,,0.9384765625,2026-10-29T17:09:05+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,4,2,completed,0,5.054,1.269,175216.0,175216.0,149596.0,3352016,16474.0,1.0,100.0,,0.94384765625,2026-10-29T17:09:11+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,8,0,completed,0,6.366,2.536,175420.0,175420.0,150088.0,3351932,16474.0,1.0,100.0,,0.953125,2026-10-29T17:09:21+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,8,0,completed,0,6.276,2.384,175532.0,175532.0,149484.0,3352568,16474.0,1.0,100.0,,1.1171875,2026-10-29T17:09:27+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,6.235,2.382,175392.0,175392.0,150088.0,3352004,16474.0,1.0,100.0,,1.09033203125,2026-10-29T17:09:40+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,8,1,completed,0,6.163,2.373,175928.0,175928.0,149956.0,3352932,16474.0,1.0,100.0,,1.0830078125,2026-10-29T17:09:46+00:00,think
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,8,2,completed,0,6.371,2.509,175420.0,175420.0,150092.0,3351924,16474.0,1.0,100.0,,1.06396484375,2026-10-29T17:09:59+00:00,think
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,8,2,completed,0,6.225,2.407,175696.0,175696.0,149912.0,3352516,16474.0,1.0,100.0,,1.05859375,2026-10-29T17:10:05+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,1,0,completed,0,3.447,0.372,170436.0,170436.0,149844.0,3346736,16560.0,0.964827935222672,89.49128674529132,,1.04931640625,2026-10-29T17:10:18+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,1,0,completed,0,3.942,0.684,187336.0,187336.0,149972.0,3343372,16500.0,0.964827935222672,89.80745451333686,,1.044921875,2026-10-29T17:10:21+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,1,1,completed,0,3.43,0.362,170808.0,170808.0,149968.0,3347676,16563.0,0.966266582438408,89.7547236239878,,1.03759765625,2026-10-29T17:10:29+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,1,1,completed,0,3.62,0.434,181280.0,181280.0,149816.0,3352060,16563.0,0.966266582438408,89.7547236239878,,1.03759765625,2026-10-29T17:10:32+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,1,2,completed,0,4.192,0.47,170192.0,170192.0,149836.0,3347240,16564.0,0.9651225296442688,89.52833509327702,,1.51220703125,2026-10-29T17:10:40+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,1,2,completed,0,4.147,0.519,177472.0,177472.0,149812.0,3350580,16564.0,0.9651225296442688,89.52833509327702,,1.55126953125,2026-10-29T17:10:44+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,2,0,completed,0,3.891,0.643,170388.0,170388.0,149716.0,3347484,16565.0,0.974204670114402,91.17094919629238,,1.58740234375,2026-10-29T17:10:52+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,2,0,completed,0,3.815,0.677,180928.0,180928.0,149844.0,3354376,16565.0,0.974204670114402,91.17094919629238,,1.5400390625,2026-10-29T17:10:56+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,2,1,completed,0,5.095,1.006,171344.0,171344.0,149716.0,3348192,16564.0,0.9758097324362384,91.48037317373702,,1.45654296875,2026-10-29T17:11:05+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,2,1,completed,0,5.044,1.058,183920.0,183920.0,149964.0,3354604,16564.0,0.9758097324362384,91.48037317373702,,1.419921875,2026-10-29T17:11:10+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,2,2,completed,0,5.074,0.977,171084.0,171084.0,149460.0,3346392,16556.0,0.9760340404230022,91.56442618139124,,1.35498046875,2026-10-29T17:11:20+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,2,2,completed,0,5.008,1.031,183540.0,183540.0,150096.0,3354988,16556.0,0.9760340404230022,91.56442618139124,,1.326171875,2026-10-29T17:11:26+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,4,0,completed,0,6.509,2.662,171416.0,171416.0,149764.0,3347552,16560.0,0.9844540292301486,93.09818651329304,,1.275390625,2026-10-29T17:11:36+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,4,0,completed,0,6.351,2.535,188436.0,188436.0,149372.0,3338504,16500.0,0.9844540292301486,93.42717474527358,,1.41357421875,2026-10-29T17:11:42+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,4,1,completed,0,6.178,2.359,171620.0,171620.0,149968.0,3346360,16552.0,0.9834762082246242,92.95989665903352,,1.3212890625,2026-10-29T17:11:55+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,4,1,completed,0,5.864,1.902,188024.0,188024.0,149972.0,3333052,16469.0,0.9834762082246242,93.41515223035168,,1.29541015625,2026-10-29T17:12:02+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,4,2,completed,0,7.749,3.865,171432.0,171432.0,149716.0,3329732,16468.0,0.9841703395617356,93.55048091107572,,1.2294921875,2026-10-29T17:12:14+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,4,2,completed,0,6.584,2.712,188740.0,188740.0,149772.0,3333760,16468.0,0.9841703395617356,93.55048091107572,,1.2109375,2026-10-29T17:12:22+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,8,0,completed,0,9.916,5.986,171544.0,171544.0,149672.0,3329976,16468.0,0.9851153559910693,93.7275033929309,,1.29931640625,2026-10-29T17:12:36+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,8,0,completed,0,8.796,4.894,186960.0,186960.0,149972.0,3333620,16468.0,0.9851153559910693,93.7275033929309,,1.4072265625,2026-10-29T17:12:46+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,9.768,5.909,171324.0,171324.0,149712.0,3329832,16468.0,0.98492649339371,93.69209889655988,,1.353515625,2026-10-29T17:13:05+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,8,1,completed,0,8.608,4.734,187624.0,187624.0,149716.0,3333432,16468.0,0.98492649339371,93.69209889655988,,1.66748046875,2026-10-29T17:13:15+00:00,think
+ASEM,Homo_sapiens,Gorilla_gorilla,8,2,completed,0,8.44,4.565,171560.0,171560.0,149712.0,3345988,16551.0,0.9851153559910693,93.27069876688198,,1.47705078125,2026-10-29T17:13:33+00:00,think
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,8,2,completed,0,8.544,4.706,190564.0,190564.0,149848.0,3332116,16468.0,0.9851153559910693,93.7275033929309,,1.4384765625,2026-10-29T17:13:42+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,1,0,completed,0,4.917,0.885,175836.0,175836.0,149592.0,3469676,16589.0,0.8524368383670985,71.02119026149684,,1.3134765625,2026-10-29T17:14:00+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,1,0,completed,0,4.039,0.709,193660.0,193660.0,149588.0,3479276,16591.0,0.8583445491251682,71.92398782000677,,1.2880859375,2026-10-29T17:14:05+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,1,1,completed,0,4.211,0.903,174968.0,174968.0,149772.0,3466524,16571.0,0.8526696648970344,71.11913357400722,,1.2431640625,2026-10-29T17:14:14+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,1,1,completed,0,4.102,0.729,205792.0,205792.0,149848.0,3480544,16575.0,0.8703179623772266,73.81678527052976,,1.2236328125,2026-10-29T17:14:18+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,1,2,completed,0,3.923,0.618,171620.0,171620.0,149972.0,3465228,16564.0,0.8502202643171807,70.74381097389049,,1.20556640625,2026-10-29T17:14:28+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,1,2,completed,0,5.177,1.235,197996.0,197996.0,149836.0,3478352,16567.0,0.8613329753674743,72.44552331489217,,1.18896484375,2026-10-29T17:14:31+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,2,0,completed,0,5.695,1.717,175064.0,175064.0,149860.0,3466944,16573.0,0.8644578313253012,72.83853138570865,,1.240234375,2026-10-29T17:14:41+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,2,0,completed,0,5.765,1.703,227068.0,227068.0,149976.0,3505304,16599.0,0.9122559548616676,80.4887707190134,,1.220703125,2026-10-29T17:14:47+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,2,1,completed,0,6.041,1.901,174584.0,174584.0,149412.0,3470496,16594.0,0.870205114544486,73.73737373737374,,1.1708984375,2026-10-29T17:14:59+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,2,1,completed,0,6.209,2.089,235008.0,235008.0,149980.0,3503968,16613.0,0.9154893562615868,81.04697226938313,,1.3173828125,2026-10-29T17:15:05+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,2,2,completed,0,5.805,1.846,175072.0,175072.0,149740.0,3471776,16598.0,0.8819323162091804,75.50640410765672,,1.26806640625,2026-10-29T17:15:18+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,2,2,completed,0,6.024,1.991,240548.0,240548.0,149968.0,3507832,16584.0,0.9145873320537428,80.89067451335445,,1.2265625,2026-10-29T17:15:24+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,4,0,completed,0,8.115,4.119,174804.0,174804.0,149452.0,3473300,16607.0,0.907140786549425,79.5863004408274,,1.19091796875,2026-10-29T17:15:36+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,4,0,completed,0,5.99,2.132,271384.0,271384.0,149344.0,3493520,16586.0,0.9503804986698016,87.27345037213794,,1.1611328125,2026-10-29T17:15:44+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,4,1,completed,0,7.878,3.698,175816.0,175816.0,149580.0,3473696,16607.0,0.9079849377232788,79.74447396687206,,1.12451171875,2026-10-29T17:15:59+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,4,1,completed,0,8.065,3.996,301444.0,301444.0,149712.0,3483092,16585.0,0.958723338959644,88.78026599977265,,1.1142578125,2026-10-29T17:16:06+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,4,2,completed,0,7.525,3.489,175020.0,175020.0,149972.0,3471400,16596.0,0.9041759519426412,79.06687754179846,,1.1494140625,2026-10-29T17:16:23+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,4,2,completed,0,7.05,3.027,274232.0,274232.0,149592.0,3477260,16581.0,0.958723338959644,88.79540674208403,,1.13720703125,2026-10-29T17:16:31+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,8,0,completed,0,11.655,7.267,175008.0,175008.0,149708.0,3475916,16619.0,0.9274876722720952,83.04182939944529,,1.18017578125,2026-10-29T17:16:47+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,8,0,completed,0,7.879,3.965,466088.0,466088.0,149836.0,3477412,16597.0,0.9652648592601628,90.04836415362732,,1.1396484375,2026-10-29T17:16:58+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,8,1,completed,0,11.409,7.278,176124.0,176124.0,149844.0,3476076,16619.0,0.930664985817838,83.61175604507616,,1.09912109375,2026-10-29T17:17:19+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,8,1,completed,0,8.042,4.067,464848.0,464848.0,150108.0,3477652,16597.0,0.9622901183594824,89.4931452301041,,1.08349609375,2026-10-29T17:17:31+00:00,think
+ASEM,Homo_sapiens,Varecia_variegata,8,2,completed,0,11.125,7.003,175084.0,175084.0,149588.0,3475604,16617.0,0.9250411861614496,82.64364562694594,,1.1220703125,2026-10-29T17:17:53+00:00,think
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,8,2,completed,0,8.082,4.105,313536.0,313536.0,149852.0,3476460,16597.0,0.9653910657112365,90.07112375533428,,1.09423828125,2026-10-29T17:18:04+00:00,think

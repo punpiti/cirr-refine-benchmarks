@@ -1,0 +1,2 @@
+43751e522a83b79de11347669d35a6f9ea52abdb8da17dfc66e4e3614dad3f39  chrMT_sequences_2534.20160505.fasta.gz (https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/MT/, downloaded 2026-10-28)
+aa1b315fc442073477eb88decbbd495b09f390cc41fde50fe6916f319196daf5  truth/NA07000_1000G_phase3_chrMT.fasta (NA07000 record extracted verbatim)

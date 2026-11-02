@@ -1,0 +1,14 @@
+{
+  "primary_accuracy": "Completed outputs only; report F1 and identity with output counts.",
+  "secondary_utility": "failure_zero_utility_f1 assigns zero utility to no output; raw scores remain missing.",
+  "pairing": "Identical reference/target/depth/replicate; mean technical replicates within ordered pair before species sensitivity.",
+  "uncertainty": "Leave-one-species-out removes every dyad containing that species in either role. Min/max are sensitivity, not confidence limits.",
+  "carry_over": "Same-policy unchanged-reference baseline; exact unchanged output count; net matched/mismatched/missing-base changes. Alignment may change; these are not counts of individually corrected sites or causal mechanisms.",
+  "normalization": "fixed for CIRR/Hybrid/SRSC; strand+origin for external tools including MITObim.",
+  "old_new": "Both species present in frozen phase1_species.SPECIES vs expanded-panel pair; Saimiri sciureus is absent from new panel.",
+  "runtime": "Observed parallel-grid times are descriptive; timeout is censored. Controlled runtime must use the separate experiment.",
+  "scope_limits": [
+    "No new method runs, no empirical/read-length MITObim rows invented.",
+    "Acceptance does not by itself verify algorithm/figure prose or approve final scientific claims."
+  ]
+}

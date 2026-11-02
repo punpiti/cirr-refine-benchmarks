@@ -1,0 +1,10 @@
+{
+  "main/snapshot/data/NA07000_chrM.bam": {
+    "sha256": "d265d1b08d8e668928d5be8389ea435e305309622efb8e2ea1a7663eceeb54f3",
+    "reason": "Public empirical BAM omitted; retrieve NA07000 chrM input using the bundled extraction script and compare this hash."
+  },
+  "followup/snapshot/data/NA07000_chrM.bam": {
+    "sha256": "d265d1b08d8e668928d5be8389ea435e305309622efb8e2ea1a7663eceeb54f3",
+    "reason": "Same public empirical input as main snapshot."
+  }
+}

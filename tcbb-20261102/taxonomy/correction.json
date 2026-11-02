@@ -1,0 +1,15 @@
+{
+  "species": "Mus musculus",
+  "previous_family_label": "Muroidea",
+  "family": "Muridae",
+  "source": "https://www.mammaldiversity.org/taxon/1003372/",
+  "ordered_pairs_checked": 870,
+  "changed_tiers": 0,
+  "tier_counts": {
+    "same-family": 124,
+    "same-order": 468,
+    "different-order": 270,
+    "same-genus": 8
+  },
+  "frozen_snapshots_modified": false
+}

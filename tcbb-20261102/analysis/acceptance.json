@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "rows": 167040,
+  "main_completed": 131184,
+  "assemblies_checked": 132920,
+  "source_files_sha256": {
+    "/home/benchmark/research-work/tcbb-postprocess-20261102/source/panel30-export-20261101/results.csv": "6cd201a5a7a5c42af787bb76f36f631233defde4df3e92466fa6c6e7fa2fcd1b",
+    "/home/benchmark/research-work/tcbb-refresh-20261102/mitobim_scored.csv": "e88740fd9e40e0c34ab4717b4ad073b971acb3adce1c2caa98468e0362b1e029",
+    "/home/benchmark/research-work/tcbb-refresh-20261102/mitobim_scored.audit.json": "9a7448ca9d34f70d853da11b5a34a2f0df4bcdee50c9deac2d1061b4e83dc0a8",
+    "/home/benchmark/research-work/tcbb-postprocess-20261102/source/genome-live-handoff-20261030/snapshot.json": "ad97b480a37638304ae12ef9139928e569bf538e9e73f7b767b3bbcd3189bb07",
+    "/home/benchmark/research-work/tcbb-postprocess-20261102/source/mitobim-inputs/manifest.json": "e666104394c2818b16ee97021f8752ef603e4c0fb09361d7540d6dbcaedbdd80",
+    "/home/benchmark/research-work/followup-20261101/followup_snapshot.json": "5c55bb33f745c8ef2fe79626b945907697b77bc5a3e9157717160c01c3230f32",
+    "/home/benchmark/research-work/mitobim-run/results.jsonl": "5370c808a7d3c60271cc39b8857035d682cb0c805e5c64325ff855e748480926",
+    "/home/benchmark/research-work/followup-20261101/work-mixed_orientation/plan.json": "973135ff8b46d95c697ab40171c29db19c3a567d21f2c6a199273eb0ba95579d",
+    "/home/benchmark/research-work/followup-20261101/work-mixed_orientation/jobs.jsonl": "fb49d2a08ab92f365b70e5886720d1df356cd88e7f11b56c8cde73de01797872",
+    "/home/benchmark/research-work/followup-20261101/work-mixed_orientation/results.jsonl": "798ae4d545d6a1b359c6b53fd9d49680c8218e375eb8fe1d57c5b0a08f7fbccd",
+    "/home/benchmark/research-work/followup-20261101/work-high_depth/plan.json": "6fdefc55192a079ba1078debdb7188c3354e482fd237e7c52481596b8f3c71d6",
+    "/home/benchmark/research-work/followup-20261101/work-high_depth/jobs.jsonl": "53fb2e529e9b7e7b0f4fadd144638750fd6abc4d7e328e119724baef9ad64487",
+    "/home/benchmark/research-work/followup-20261101/work-high_depth/results.jsonl": "bd6c110cc579f17a0b4a49c1c61bd1d49cd9ce4aca7e4f39fe74c50d87a5984e"
+  },
+  "method_counts": {
+    "ASEM": 20880,
+    "ASEM_Hybrid": 20880,
+    "SRSC": 20880,
+    "Pilon": 20880,
+    "MIA": 20880,
+    "NOVOPlasty": 20880,
+    "GetOrganelle": 20880,
+    "MITObim": 20880
+  },
+  "followup_rows": {
+    "mixed_orientation": 1440,
+    "high_depth": 576
+  },
+  "analysis_scripts_sha256": {
+    "run_postprocess.py": "dd54960ad6e6d0a1591d338dfafa7851cee1148a7eab0508ea3e825140c59679",
+    "score_mitobim_parallel.py": "506e15498567e0861bd876a7369be6831ce374df9dbf541d6cf452b8dbabc45d",
+    "dispatch_p8.py": "a8dad1af5c6ec37c524e03111d2b5bcb8f69006e7874074308fc44afb93e0612",
+    "check_postprocess.py": "743ef0befa9e478884ea423e7fd01f9011075cff4dd95acdbe47bd45b3d54965",
+    "reference_baseline.py": "6ab5fea6c9c2aa10269ef9a90f52b34b9c917d0bc668b7aa7c17dc10fc9a0cee"
+  },
+  "scope": "Coverage, status/metric consistency, source/input manifests, retained sequence hashes; not scientific claim approval."
+}

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1555"
+  height="820"
+  viewBox="0 0 1555 820"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">ASEM / ASEM-Hybrid pipeline overview</title>
+  <desc id="desc">
+    Overview of the iterative reference-refinement pipeline: per-read alignment
+    with recursive breakpoint recovery, an optional local de novo gap-filling
+    extension, profile HMM construction, and reference sequence estimation,
+    looped until convergence.
+  </desc>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#5B6573"/>
+    </marker>
+    <marker id="arrow-accent" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#B4772F"/>
+    </marker>
+
+    <style>
+      <![CDATA[
+        .figure-bg { fill: #FFFFFF; }
+        .top-section { fill: #F8FAFB; stroke: #CBD2D9; stroke-width: 1.5; }
+        .em-section { fill: #FBFCFD; stroke: #AEB8C2; stroke-width: 1.5; }
+        .phase-section { fill: #F4F7F9; stroke: #BCC7D1; stroke-width: 1.4; }
+        .nested-section { fill: #FFFFFF; stroke: #D0D7DE; stroke-width: 1.3; }
+        .nested-section-ext { fill: #FFFBF5; stroke: #D9B487; stroke-width: 1.4; stroke-dasharray: 6 4; }
+        .process-box { fill: #DDEBF0; stroke: #587D8B; stroke-width: 1.5; }
+        .process-box-emphasis { fill: #D4E6EC; stroke: #4D7482; stroke-width: 1.5; }
+        .decision-diamond { fill: #FFFFFF; stroke: #4D7482; stroke-width: 1.5; }
+        .process-box-ext { fill: #F7E9D6; stroke: #B4772F; stroke-width: 1.5; }
+        .database { fill: #EEF2F4; stroke: #65727E; stroke-width: 1.6; }
+        .database-output { fill: #E2EAED; stroke: #4D6872; stroke-width: 1.6; }
+        .init-box { fill: #EDEFF2; stroke: #5B6573; stroke-width: 1.4; }
+        .connector {
+          fill: none; stroke: #5B6573; stroke-width: 1.7;
+          stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow);
+        }
+        .connector-no-arrow {
+          fill: none; stroke: #5B6573; stroke-width: 1.7;
+          stroke-linecap: round; stroke-linejoin: round;
+        }
+        .connector-ext {
+          fill: none; stroke: #B4772F; stroke-width: 1.7;
+          stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow-accent);
+        }
+        .connector-loop {
+          fill: none; stroke: #5B6573; stroke-width: 1.7; stroke-dasharray: 2 5;
+          stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow);
+        }
+        .section-title {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 26px; font-weight: 700; fill: #20262D;
+        }
+        .phase-title {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 20px; font-weight: 650; fill: #29313A;
+        }
+        .nested-title {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 17px; font-weight: 650; fill: #35404A;
+        }
+        .nested-title-ext {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 17px; font-weight: 650; fill: #8A5A20;
+        }
+        .box-label {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 17px; font-weight: 500; fill: #233039; text-anchor: middle;
+        }
+        .annotation {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 15px; font-weight: 450; fill: #66727D; text-anchor: middle;
+        }
+        .object-label {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 17px; font-weight: 500; fill: #313A42; text-anchor: middle;
+        }
+        .flow-label {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 15px; font-weight: 600; fill: #48535D; text-anchor: middle;
+        }
+        .flow-label-ext {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 15px; font-weight: 600; fill: #8A5A20; text-anchor: middle;
+        }
+        .ext-tag {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 13.5px; font-weight: 700; fill: #8A5A20; text-anchor: middle;
+          letter-spacing: 0.3px;
+        }
+        .loop-label {
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 15px; font-weight: 600; fill: #48535D; text-anchor: middle;
+        }
+      ]]>
+    </style>
+  </defs>
+
+  <!-- No opaque background rect here (unlike phisa2.svg's DNA alignment
+       table, where blank cells rely on real white to read as "no
+       coverage") - every element in this diagram is a self-contained
+       filled shape, so a transparent canvas lets it drop onto slides/dark
+       backgrounds without an ugly white box. -->
+
+  <!-- outer zones. em-section narrowed from 1290 to 1192: M-step zone widened
+       (752-1392) reclaims most of the ~178px of unused padding that used to
+       sit between M-step's own right edge and the em-section frame's right
+       edge; Output zone narrowed from 145 to 100 since its only content (one
+       cylinder) never needed that much width. -->
+  <rect class="top-section" x="20" y="24" width="175" height="766" rx="12"/>
+  <rect class="em-section" x="220" y="24" width="1165" height="766" rx="12"/>
+  <rect class="top-section" x="1405" y="24" width="130" height="766" rx="12"/>
+
+  <text class="section-title" x="40" y="58">Input</text>
+  <!-- Tag merged into the title as a trailing tspan (no explicit x) instead
+       of a separately-positioned text element - a fixed x guessed from one
+       font's rendered width doesn't hold up if the viewer substitutes a
+       different font (which is exactly what happened: this sat right after
+       the title in this renderer but with a large gap in the user's). A
+       tspan with no x always continues immediately after the previous one,
+       regardless of what font actually renders. -->
+  <text class="section-title" x="240" y="58">Iterative refinement loop<tspan dx="8" style="font-family:Inter,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;font-weight:450;fill:#66727D;">(Algorithm 1)</tspan></text>
+  <text class="section-title" x="1420" y="58">Output</text>
+
+  <!-- input data objects (shifted +50 with everything else, so the whole
+       diagram's content sits with a real gap below the title row instead of
+       starting almost immediately under it). -->
+  <g aria-label="Initial reference sequence">
+    <path class="database" d="M62 200 C62 189 148 189 148 200 L148 245 C148 256 62 256 62 245 Z"/>
+    <ellipse class="database" cx="105" cy="200" rx="43" ry="10.5"/>
+    <text class="object-label" x="105" y="278">
+      <tspan x="105" dy="0">Initial</tspan>
+      <tspan x="105" dy="17">reference S</tspan>
+    </text>
+  </g>
+
+  <g aria-label="Sequencing reads">
+    <path class="database" d="M62 480 C62 469 148 469 148 480 L148 525 C148 536 62 536 62 525 Z"/>
+    <ellipse class="database" cx="105" cy="480" rx="43" ry="10.5"/>
+    <text class="object-label" x="105" y="558">
+      <tspan x="105" dy="0">Sequencing</tspan>
+      <tspan x="105" dy="17">reads R</tspan>
+    </text>
+  </g>
+
+  <!-- initialize box -->
+  <rect class="init-box" x="252" y="110" width="150" height="56" rx="8"/>
+  <text class="box-label" x="327" y="133">Initialize</text>
+  <text class="box-label" x="327" y="151">&#920;<tspan dy="-4" style="font-size:0.75em">(0)</tspan><tspan dy="4"> &#8592; S</tspan></text>
+
+  <path class="connector" d="M148 200 H210 V138 H252"/>
+
+  <!-- E-step zone -->
+  <!-- Height cut from 660 to 560 (bottom 850->750) to match the GapFill
+       box's new, smaller footprint - this also now matches the M-step
+       zone's height exactly, so the loop-back path below only needs one
+       descent instead of two. -->
+  <rect class="phase-section" x="252" y="190" width="480" height="560" rx="10"/>
+  <text class="phase-title" x="272" y="220">Per-read alignment + gap-filling (E-step)</text>
+
+  <!-- Read Alignment nested box -->
+  <rect class="nested-section" x="272" y="246" width="440" height="240" rx="9"/>
+  <text class="nested-title" x="290" y="272">Read alignment</text>
+
+  <!-- current-Theta junction: both Initialize (first pass) and the loop-back
+       arrow (later passes) feed into this single point before Read Alignment.
+       Drawn AFTER the nested-section box (not before) so its line/label paint
+       on top instead of being hidden under the box's opaque white fill. -->
+  <rect class="process-box-emphasis" x="330" y="302" width="220" height="130" rx="9"/>
+  <text class="box-label" x="440" y="334">Local-align each read</text>
+  <text class="box-label" x="440" y="354">against current &#920;</text>
+  <text class="annotation" x="440" y="380">(Algorithm 4)</text>
+  <text class="annotation" x="440" y="410">retries unaligned</text>
+  <text class="annotation" x="440" y="426">remainder if long enough</text>
+
+  <!-- current-Theta junction. Drawn after the nested-section box (paint
+       order) so it stays visible on top of the box's opaque fill. -->
+  <!-- Junction moved from x=252 (the E-step zone's own border) to x=245,
+       exactly matching this feed line's own descent - so no final jog is
+       needed here, and the loop-back path below can rise straight into it
+       too instead of zigzagging over from x=258. Also sits with clearer
+       margin outside the "Read alignment" nested box (which starts at 272). -->
+  <circle cx="245" cy="330" r="3.5" fill="#5B6573"/>
+  <path class="connector-no-arrow" d="M327 166 V180 H245 V330"/>
+  <path class="connector" d="M245 330 H330"/>
+  <text class="annotation" x="249" y="318" style="text-anchor:start">current &#920;</text>
+
+  <!-- self-loop arrow on the alignment box (recursive breakpoint recovery) -->
+  <path class="connector-loop" d="M550 320 C 600 295, 600 350, 552 350"/>
+  <text class="annotation" x="640" y="289" style="font-size:13.5px">recursive retry on</text>
+  <text class="annotation" x="640" y="304" style="font-size:13.5px">unaligned remainder</text>
+
+  <!-- reads R enters lower on the box, current-Theta enters higher -
+       vertically separated so the two arrows read as clearly distinct inputs
+       instead of visually merging into one thick line. -->
+  <path class="connector" d="M148 480 H190 V418 H330"/>
+  <text class="annotation" x="234" y="445" style="text-anchor:start">reads R</text>
+
+  <!-- branch: aligned -> H ; unaligned -> gapfill. Ends at y=496, not 506
+       (the GapFill box's own top edge) - same class of bug as the return
+       path below: the H-junction sits in the neutral gap between Read
+       Alignment's bottom (486) and GapFill's top (506), not on either
+       box's border. -->
+  <!-- Junction moved from x=575 to x=440 - directly under this box, where
+       "aligned reads" actually exits - instead of an arbitrary point off to
+       the right. This line is now a single straight drop with an obvious
+       arrowhead, instead of a down-right-down jog whose final segment (a
+       bare 6px stub) made the arrowhead nearly invisible. -->
+  <path class="connector" d="M440 432 V496"/>
+  <!-- labeled right where it leaves the box, mirroring "unplaced reads" on
+       the other branch below - previously this line had no label at its
+       own origin, only the "combined alignment H" tag near where it
+       terminates, so where it came from wasn't self-evident. -->
+  <text class="annotation" x="448" y="462" style="text-anchor:start">aligned reads</text>
+  <text class="flow-label" x="530" y="480">combined alignment H</text>
+
+  <!-- moved from x=240 to x=225 for more separation from the current-Theta
+       descent (x=245) and the loop-back approach (x=258, below) - the
+       original cluster of near-parallel lines here was too tight to label
+       cleanly no matter where the text went. -->
+  <!-- Small dot marks where this line connects to the box (matching the
+       same visual language as the H-junction dots elsewhere) - added for
+       clarity at the box end, but NOT an arrowhead pointing into Algorithm
+       4: the actual data flow here is reads leaving Algo 4 (the ones that
+       failed to align) heading to GapFill, so the arrowhead correctly stays
+       at the far end (282,570), where the line enters the GapFill box. -->
+  <circle cx="330" cy="395" r="3" fill="#B4772F"/>
+  <path class="connector-ext" d="M330 395 H225 V570 H282"/>
+  <!-- Labels for this line and "reads R" below were repeatedly colliding
+       with each other and with both lines' own strokes at their old
+       positions (y~420-455, x~190-245, right where four lines converge).
+       Moved further apart vertically and clear of every line's x-position. -->
+  <text class="flow-label-ext" x="232" y="480" style="text-anchor:start">unplaced reads</text>
+
+  <!-- GapFill extension nested box. Height cut from 320 to 210 so its bottom
+       edge (716) lines up with the M-step column's "Profile HMM
+       construction" box bottom (246+470=716), instead of extending 110px
+       past it into what was otherwise empty space. -->
+  <rect class="nested-section-ext" x="272" y="506" width="440" height="210" rx="9"/>
+  <text class="ext-tag" x="692" y="528" style="text-anchor:end">ASEM-HYBRID ONLY</text>
+  <!-- Same font-independent tspan fix as the "(Algorithm 1)" tag above. -->
+  <text class="nested-title-ext" x="290" y="552">Local de novo gap-filling<tspan dx="8" style="font-family:Inter,'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;font-weight:450;fill:#66727D;">(Algorithm 5)</tspan></text>
+
+  <rect class="process-box-ext" x="300" y="574" width="190" height="90" rx="9"/>
+  <text class="box-label" x="395" y="604">Assemble unplaced +</text>
+  <text class="box-label" x="395" y="622">flank-overlap reads</text>
+  <text class="annotation" x="395" y="652">(overlap order only)</text>
+
+  <path class="connector-ext" d="M490 619 H540"/>
+
+  <rect class="process-box-ext" x="540" y="574" width="150" height="90" rx="9"/>
+  <text class="box-label" x="615" y="604">Anchor contig</text>
+  <text class="box-label" x="615" y="622">back onto &#920;</text>
+  <text class="annotation" x="615" y="652">if long + confident</text>
+
+  <!-- Return path: down clear of both process boxes, left past the
+       "Assemble unplaced reads" box (which the new junction x=440 sits
+       directly above - ascending there directly would cut through that
+       box), then straight up in the clear margin to the left of it, then
+       one turn right into the junction. Four segments, no extra zigzag. -->
+  <path class="connector-ext" d="M615 664 V700 H278 V496 H440"/>
+  <text class="flow-label-ext" x="446" y="694">accepted contigs merged into same H</text>
+
+  <!-- H object dot, in the neutral gap between Read Alignment's bottom (486)
+       and GapFill's top (506) - not sitting on either box's border. -->
+  <circle cx="440" cy="496" r="4" fill="#48535D"/>
+
+  <!-- M-step zone. Height shrunk from 660 to 560 (independent of the E-step
+       zone's height, which stays at 660 because its GapFill box genuinely
+       needs that room) since M-step's own content - Pick-most-probable box
+       and the convergence check - was raised and no longer needs the extra
+       ~100px of empty padding at the bottom. -->
+  <rect class="phase-section" x="752" y="190" width="613" height="560" rx="10"/>
+  <text class="phase-title" x="772" y="220">Structural M-step</text>
+
+  <rect class="nested-section" x="772" y="246" width="340" height="470" rx="9"/>
+  <text class="nested-title" x="790" y="272">Profile-like count construction</text>
+  <text class="annotation" x="790" y="292" style="text-anchor:start">(Algorithm 2)</text>
+
+  <rect class="process-box" x="800" y="306" width="280" height="110" rx="9"/>
+  <text class="box-label" x="940" y="336">Tally A/C/G/T/gap votes</text>
+  <text class="box-label" x="940" y="356">over combined columns</text>
+  <text class="annotation" x="940" y="386">including candidate insertions</text>
+
+  <rect class="process-box" x="800" y="480" width="280" height="110" rx="9"/>
+  <text class="box-label" x="940" y="508">Gap majority: omit column</text>
+  <text class="box-label" x="940" y="528">Otherwise: A/C/G/T plurality</text>
+  <text class="annotation" x="940" y="552">Low support: retain prior /</text>
+  <text class="annotation" x="940" y="570">omit candidate insertion</text>
+
+  <!-- H branches into BOTH boxes - they are two parallel computations over
+       the same combined alignment, not a sequential pipeline. -->
+  <!-- Both branches now start from the relocated junction (440,496) instead
+       of the old (575,496) - same two-branch structure to Profile HMM as
+       before, just re-anchored. -->
+  <path class="connector" d="M440 496 H700 V361 H800"/>
+  <path class="connector" d="M700 496 V535 H800"/>
+
+  <!-- both boxes' outputs merge before "new profile HMM". Merge height
+       dropped from 535 to 475 to match the Pick-most-probable box's new
+       (raised) vertical center. -->
+  <path class="connector-no-arrow" d="M1080 361 H1100 V475"/>
+  <path class="connector" d="M1080 535 H1100 V475 H1170"/>
+    <text class="flow-label" x="1135" y="464" style="font-size:14px">calls P</text>
+
+  <!-- raised from y=460 to y=400 (-60), which is what lets the convergence
+       check, loop-back curve, and output cylinder below all move up too. -->
+  <rect class="process-box-emphasis" x="1170" y="400" width="170" height="150" rx="9"/>
+  <text class="box-label" x="1255" y="440">Concatenate</text>
+  <text class="box-label" x="1255" y="458">calls, drop</text>
+  <text class="box-label" x="1255" y="476">deletions</text>
+  <text class="annotation" x="1255" y="498">(Algorithm 3)</text>
+  <text class="annotation" x="1255" y="530">&#8594; &#920;<tspan dy="-4" style="font-size:0.75em">(t+1)</tspan></text>
+
+  <!-- convergence check: a proper decision diamond instead of a bare label
+       sitting on top of crossing lines - the standard flowchart symbol for
+       a branch point, so "converged?" reads as a decision with two
+       explicit outcomes rather than just an inline waypoint. -->
+  <path class="connector-no-arrow" d="M1255 550 V585"/>
+  <polygon points="1255,585 1310,610 1255,635 1200,610" class="decision-diamond"/>
+  <text class="loop-label" x="1255" y="614">converged?</text>
+
+  <!-- "no" exits the diamond's bottom vertex, straight down clear of both
+       zones (which share bottom edge 750), into a small "update theta" box
+       styled like the Initialize box above (same .init-box/.box-label
+       classes) instead of a bare line label - makes explicit that the loop
+       carries a real state update, not just a re-check. Box is shorter than
+       the Initialize box (34 vs 56) since the corridor between the
+       zones' bottom (750) and the outer frame's bottom (790) only has 40px
+       of clearance. -->
+  <path class="connector-loop" d="M1255 635 V753"/>
+  <text class="loop-label" x="1265" y="655" style="text-anchor:start">no</text>
+  <rect class="init-box" x="1165" y="753" width="180" height="34" rx="8"/>
+  <text class="box-label" x="1255" y="774">&#920;<tspan dy="-4" style="font-size:0.75em">(t)</tspan><tspan dy="4"> &#8592; &#920;</tspan><tspan dy="-4" style="font-size:0.75em">(t+1)</tspan></text>
+  <path class="connector-loop" d="M1165 770 H245 V330"/>
+
+  <!-- "yes" exits the diamond's right vertex. -->
+  <path class="connector" d="M1310 610 H1421"/>
+  <text class="loop-label" x="1340" y="595">yes</text>
+
+  <!-- output -->
+  <g aria-label="Sample-specific reference sequence">
+    <path class="database-output" d="M1429 580 C1429 569 1511 569 1511 580 L1511 625 C1511 636 1429 636 1429 625 Z"/>
+    <ellipse class="database-output" cx="1470" cy="580" rx="41" ry="10.5"/>
+    <text style="font-size:15px" class="object-label" x="1470" y="660">
+      <tspan x="1470" dy="0">Sample-specific</tspan>
+      <tspan x="1470" dy="17">reference &#920;</tspan>
+    </text>
+  </g>
+
+</svg>

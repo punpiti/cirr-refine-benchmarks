@@ -1,0 +1,30 @@
+{
+  "title": "CIRR reference-refinement benchmarks: 30-species grid and strand-aware follow-up (v1.5.0)",
+  "version": "v1.5.0",
+  "publication_date": "2026-11-02",
+  "creators": [
+    {
+      "name": "Piamsa-nga, Punpiti",
+      "affiliation": "Kasetsart University"
+    }
+  ],
+  "description": "<p>Accepted 30-species mitochondrial reference-refinement benchmark: eight methods, 870 ordered pairs and 167,040 main-grid rows, including MITObim. Archives separate forward-only main-grid and strand-aware follow-up source snapshots, reference inputs, accepted results, species-deletion sensitivity, auxiliary results and supplements. The preceding six-species analyses remain under plos-one/. See tcbb-20261102/RELEASE.txt for provenance, checksums and excluded BAM/assembly files.</p>",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "keywords": [
+    "mitochondrial DNA",
+    "reference refinement",
+    "CIRR",
+    "CIRR-Hybrid",
+    "bioinformatics",
+    "benchmark"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/punpiti/asem-refine-benchmarks/tree/v1.5.0",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

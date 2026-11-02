@@ -1,0 +1,1562 @@
+{
+  "main/snapshot.json": {
+    "source_sha256": "ad97b480a37638304ae12ef9139928e569bf538e9e73f7b767b3bbcd3189bb07",
+    "archive_sha256": "ad97b480a37638304ae12ef9139928e569bf538e9e73f7b767b3bbcd3189bb07",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/__init__.py": {
+    "source_sha256": "9879eaf2fb5bef35385fd120bc0269f9a2c7dd71920689c24a4182fb5070b1b1",
+    "archive_sha256": "9879eaf2fb5bef35385fd120bc0269f9a2c7dd71920689c24a4182fb5070b1b1",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/align.py": {
+    "source_sha256": "ce258a746b50f04b038d93840c1f8c405d5e6930c3c259595808934a25192eb6",
+    "archive_sha256": "ce258a746b50f04b038d93840c1f8c405d5e6930c3c259595808934a25192eb6",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/cli.py": {
+    "source_sha256": "628cad3f887dba21c8e60ec279ab796e1211986a6c87d2223480cde528f206cc",
+    "archive_sha256": "628cad3f887dba21c8e60ec279ab796e1211986a6c87d2223480cde528f206cc",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/core.py": {
+    "source_sha256": "d7aa602473468eb511c52f8cd6b4b5a0bd2b19a080ec14ef47a88f2a18f9e8f5",
+    "archive_sha256": "d7aa602473468eb511c52f8cd6b4b5a0bd2b19a080ec14ef47a88f2a18f9e8f5",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/estep.py": {
+    "source_sha256": "532eca880d8f05388641c6bb04b181b6d2a309ad0ddba86a948572480667cb0f",
+    "archive_sha256": "532eca880d8f05388641c6bb04b181b6d2a309ad0ddba86a948572480667cb0f",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/hybrid.py": {
+    "source_sha256": "b6275cd3acbdd37aa2891b0283f804766026b6920d56adac4da6cdd4a8ab690d",
+    "archive_sha256": "b6275cd3acbdd37aa2891b0283f804766026b6920d56adac4da6cdd4a8ab690d",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/ncbi.py": {
+    "source_sha256": "682cf84422ff799e1a9c7f00108e799404cada2d210d2008e755277dcd5141f1",
+    "archive_sha256": "682cf84422ff799e1a9c7f00108e799404cada2d210d2008e755277dcd5141f1",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/novoplasty_config.py": {
+    "source_sha256": "cd3b3dfc623c70d636c35265a8a14f6681ce2d984b662d1ec1d0bbc2a5bc4ae1",
+    "archive_sha256": "cd3b3dfc623c70d636c35265a8a14f6681ce2d984b662d1ec1d0bbc2a5bc4ae1",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/src/asem_refine/seqio.py": {
+    "source_sha256": "49241bfa2e049eaaa77cf680f35e2526e4c000a2eed463d1ae81d3fae5e40c43",
+    "archive_sha256": "49241bfa2e049eaaa77cf680f35e2526e4c000a2eed463d1ae81d3fae5e40c43",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/tests/test_hybrid_boundary.py": {
+    "source_sha256": "1f845e1b650b89cf66411731c70ae08adecf00532b05219377e5e02653edcb34",
+    "archive_sha256": "1f845e1b650b89cf66411731c70ae08adecf00532b05219377e5e02653edcb34",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/tests/test_indel_consensus.py": {
+    "source_sha256": "dd038b3e7185426e30a4250dc88724f5054695aceaa16a7bda2e93563246c470",
+    "archive_sha256": "dd038b3e7185426e30a4250dc88724f5054695aceaa16a7bda2e93563246c470",
+    "path_portability_edit": false
+  },
+  "main/snapshot/package/tests/test_reverse_complement.py": {
+    "source_sha256": "cbbe6d47297ae74ef85272807db3240a73f1abc6ab03ee5c829a9b09e8157695",
+    "archive_sha256": "cbbe6d47297ae74ef85272807db3240a73f1abc6ab03ee5c829a9b09e8157695",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/evaluator_n_fix/nsafe.py": {
+    "source_sha256": "3ac65b152d06e39b2ce60241b1d610ee56c78e812f16a4db25bf59172ed3c9a3",
+    "archive_sha256": "3ac65b152d06e39b2ce60241b1d610ee56c78e812f16a4db25bf59172ed3c9a3",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/panel30_species.py": {
+    "source_sha256": "0447ffb0d52001a9e8b428dd83929045f6c1283f595621d934643048989e3613",
+    "archive_sha256": "0447ffb0d52001a9e8b428dd83929045f6c1283f595621d934643048989e3613",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/preflight_think.py": {
+    "source_sha256": "dfa33aea2946d443fa7d18d0a1daff62dfff810c8b6518edbb00ab3ab25d4dde",
+    "archive_sha256": "dfa33aea2946d443fa7d18d0a1daff62dfff810c8b6518edbb00ab3ab25d4dde",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/prepare_think_run.py": {
+    "source_sha256": "4d9ada55c8fb461b4befa378978709c04d08822e0e563bb04815e03d8b532960",
+    "archive_sha256": "4d9ada55c8fb461b4befa378978709c04d08822e0e563bb04815e03d8b532960",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/resume_io.py": {
+    "source_sha256": "33fa4fd47ac8df44fde40f4f30bfc797c7e2b82cabf2ed6f4bca7b8e04ce9f53",
+    "archive_sha256": "33fa4fd47ac8df44fde40f4f30bfc797c7e2b82cabf2ed6f4bca7b8e04ce9f53",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/run_panel30_grid.py": {
+    "source_sha256": "71645c5da152635a4a12fdc3fb7825a8888cf2d793e98a595e3eba9234a9d6be",
+    "archive_sha256": "71645c5da152635a4a12fdc3fb7825a8888cf2d793e98a595e3eba9234a9d6be",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/run_think_pipeline.py": {
+    "source_sha256": "c63084812827150ae89468b88486ab37caf8cc7d858a78b5e9d9be9e4847d015",
+    "archive_sha256": "c63084812827150ae89468b88486ab37caf8cc7d858a78b5e9d9be9e4847d015",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/status_think_run.py": {
+    "source_sha256": "8b8e1b77769187d82bcbfb20ab19f20cfb438c2cf712b2b56e076719ee1281f3",
+    "archive_sha256": "8b8e1b77769187d82bcbfb20ab19f20cfb438c2cf712b2b56e076719ee1281f3",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/panel30_grid/test_resume_io.py": {
+    "source_sha256": "2d3e83b12b2748fb4e99b0c48996031d94bca9d2cde5523d73f4d6a72eb0508a",
+    "archive_sha256": "2d3e83b12b2748fb4e99b0c48996031d94bca9d2cde5523d73f4d6a72eb0508a",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/read_length_all_methods/make_table_read_length.py": {
+    "source_sha256": "3f622fe440999ede1b9dfade2ff482cbe85c48e8d8e0fe273affe838c3e2d54d",
+    "archive_sha256": "3f622fe440999ede1b9dfade2ff482cbe85c48e8d8e0fe273affe838c3e2d54d",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/read_length_all_methods/run_read_length_all_methods.py": {
+    "source_sha256": "bcb4285f8e3da0ea7738a672fe59e5d7cf85a8c969515a7220d33ce46e2ecc60",
+    "archive_sha256": "bcb4285f8e3da0ea7738a672fe59e5d7cf85a8c969515a7220d33ce46e2ecc60",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/real_reads_all_methods/make_table_real_reads.py": {
+    "source_sha256": "e81c81c4514301666a5c727f7fd8a143408205efc1b6ee858739bd0d869d6845",
+    "archive_sha256": "e81c81c4514301666a5c727f7fd8a143408205efc1b6ee858739bd0d869d6845",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/real_reads_all_methods/run_real_reads_all_methods.py": {
+    "source_sha256": "3c92ef62dd8f67be274a8aa0e7052302695f06bd3fc2c4fe4c11bdd2d71b52bd",
+    "archive_sha256": "3c92ef62dd8f67be274a8aa0e7052302695f06bd3fc2c4fe4c11bdd2d71b52bd",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/runtime_benchmark/make_table_runtime.py": {
+    "source_sha256": "353965dd4cbc1b65edefe21945b74d9adc76ebdeb0ea6c295ad74736d4d526fd",
+    "archive_sha256": "353965dd4cbc1b65edefe21945b74d9adc76ebdeb0ea6c295ad74736d4d526fd",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/runtime_benchmark/run_runtime_benchmark.py": {
+    "source_sha256": "d8a28aa5d1b856a8baabb11e995cc2fcec8c08c44eb63b1ff31b087f0e63dbd8",
+    "archive_sha256": "d8a28aa5d1b856a8baabb11e995cc2fcec8c08c44eb63b1ff31b087f0e63dbd8",
+    "path_portability_edit": false
+  },
+  "main/snapshot/plos-one/analysis/runtime_benchmark/runtime_worker.py": {
+    "source_sha256": "54a9c5751cd226ab517eaee4dffbedf4246cbaed1bda029164b123a4b8ee4516",
+    "archive_sha256": "54a9c5751cd226ab517eaee4dffbedf4246cbaed1bda029164b123a4b8ee4516",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/asem_core.py": {
+    "source_sha256": "9b15fb43264dbdead1be68f337ff1fe3ca7368fee612049d28139d6f018514a6",
+    "archive_sha256": "9b15fb43264dbdead1be68f337ff1fe3ca7368fee612049d28139d6f018514a6",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/asem_hybrid.py": {
+    "source_sha256": "3e28409425be47131fa73136f673c8662ba50fc787c6738a2ac4db93e43af629",
+    "archive_sha256": "3e28409425be47131fa73136f673c8662ba50fc787c6738a2ac4db93e43af629",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/asem_hybrid_boundary.py": {
+    "source_sha256": "714cd962b4c257b2beeae6baac2de41d0070001afc721eb6849e5bd1ca3f0445",
+    "archive_sha256": "714cd962b4c257b2beeae6baac2de41d0070001afc721eb6849e5bd1ca3f0445",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/baseline_ecticon.py": {
+    "source_sha256": "93b7855bccf02d4fb8e4677a83348595b8b1e013cf8d98b751beeed5c9cae12d",
+    "archive_sha256": "93b7855bccf02d4fb8e4677a83348595b8b1e013cf8d98b751beeed5c9cae12d",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/baseline_ieee_access.py": {
+    "source_sha256": "778804f521f9856aebb11d2d7e7f54580559ff09c4c1faef01f010b651de3db2",
+    "archive_sha256": "778804f521f9856aebb11d2d7e7f54580559ff09c4c1faef01f010b651de3db2",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/baseline_ojemb.py": {
+    "source_sha256": "696861fc2060e149dc8cf97de9a614c24274424afe5e14f0181496b7454911ff",
+    "archive_sha256": "696861fc2060e149dc8cf97de9a614c24274424afe5e14f0181496b7454911ff",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/common.py": {
+    "source_sha256": "badfdd7fda9f21b46187ab76f321c66d5959e22a88ef6ba9b8bd078fb429cd5a",
+    "archive_sha256": "badfdd7fda9f21b46187ab76f321c66d5959e22a88ef6ba9b8bd078fb429cd5a",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/ext_getorganelle.py": {
+    "source_sha256": "f91a26d67c375f9f0a22ef15410fca9e92b686d7f93c86983ac91acce29a690a",
+    "archive_sha256": "f91a26d67c375f9f0a22ef15410fca9e92b686d7f93c86983ac91acce29a690a",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/ext_mia.py": {
+    "source_sha256": "09bf35d2cbeb6e227a5f190faa0ef745e8b12b5d1727f4e615c283cc05c72bf0",
+    "archive_sha256": "09bf35d2cbeb6e227a5f190faa0ef745e8b12b5d1727f4e615c283cc05c72bf0",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/ext_novoplasty.py": {
+    "source_sha256": "1d79594568ce89d4e435cd6983a4eabd9c19ad4521cf15fead3d1234de750ea4",
+    "archive_sha256": "1d79594568ce89d4e435cd6983a4eabd9c19ad4521cf15fead3d1234de750ea4",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/ext_pilon.py": {
+    "source_sha256": "0ac76a1dc28d1c98ead7ae241665a63cdf33de6a410d08598802f1fdb0c2b10d",
+    "archive_sha256": "0ac76a1dc28d1c98ead7ae241665a63cdf33de6a410d08598802f1fdb0c2b10d",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/fetch_data.py": {
+    "source_sha256": "17eccc775e0b77cc5ea4362276c477ce952eeff73c33003bd1170067651eb33a",
+    "archive_sha256": "17eccc775e0b77cc5ea4362276c477ce952eeff73c33003bd1170067651eb33a",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/full_panel_species.py": {
+    "source_sha256": "bf4673baf2b0270b5356f7f704406c4d448f51391bb894827b5feb335d924ba6",
+    "archive_sha256": "bf4673baf2b0270b5356f7f704406c4d448f51391bb894827b5feb335d924ba6",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/grid_run_guard.py": {
+    "source_sha256": "29023acc6ffe7e23c0c00293f180bb45299dd10124f776d5d750c0c65ac81c3a",
+    "archive_sha256": "29023acc6ffe7e23c0c00293f180bb45299dd10124f776d5d750c0c65ac81c3a",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_algo_figures.py": {
+    "source_sha256": "c2387b348bc8714fada20ebab1402976fa18a5a47145c413aafbe3e44bdfc051",
+    "archive_sha256": "c2387b348bc8714fada20ebab1402976fa18a5a47145c413aafbe3e44bdfc051",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_computational_cost_table.py": {
+    "source_sha256": "48cd290dc969e413292cbc02273671d113f5652e1f3b6bcebfb966bbd147f9f5",
+    "archive_sha256": "48cd290dc969e413292cbc02273671d113f5652e1f3b6bcebfb966bbd147f9f5",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_depth_iteration_grid_v2.py": {
+    "source_sha256": "a206844a7e373f683bd936179e78c8d17886b614abe18f5627b035efe24bcac1",
+    "archive_sha256": "a206844a7e373f683bd936179e78c8d17886b614abe18f5627b035efe24bcac1",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_external_tools_depth_chart.py": {
+    "source_sha256": "54f7da40f3bf4356f6253d9ddeaa62c109caf3dafde71e6dd04109f4f52d5456",
+    "archive_sha256": "54f7da40f3bf4356f6253d9ddeaa62c109caf3dafde71e6dd04109f4f52d5456",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_external_tools_depth_chart_english.py": {
+    "source_sha256": "f2e79f7ec44fab992f9cb17bccbe4e8aefedba3f3d2d65fb53e12da2afc7755d",
+    "archive_sha256": "f2e79f7ec44fab992f9cb17bccbe4e8aefedba3f3d2d65fb53e12da2afc7755d",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_full_panel_clustermap.py": {
+    "source_sha256": "edb23ffc94f5136aa6d62832d871b4478cbd75393ac9a1a3040d01844b62d443",
+    "archive_sha256": "edb23ffc94f5136aa6d62832d871b4478cbd75393ac9a1a3040d01844b62d443",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_hybrid_comparison_figure.py": {
+    "source_sha256": "d07a1d7751c1463ba73516237a180a0935bb348133050e7aa6b82f9aa24e6e75",
+    "archive_sha256": "d07a1d7751c1463ba73516237a180a0935bb348133050e7aa6b82f9aa24e6e75",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_read_length_figure.py": {
+    "source_sha256": "ad6f1137a3ae121c13e34b1e6418702d9ed24238657bd4c989610bb78b090dea",
+    "archive_sha256": "ad6f1137a3ae121c13e34b1e6418702d9ed24238657bd4c989610bb78b090dea",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_real_wgs_depth_chart.py": {
+    "source_sha256": "47a64f6b0de62c2954fd202316909a344aeaa58a2bf665e784e3c5b54d203714",
+    "archive_sha256": "47a64f6b0de62c2954fd202316909a344aeaa58a2bf665e784e3c5b54d203714",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/make_report.py": {
+    "source_sha256": "c250a6ecc6959b491f22448fcab3fb78f9fd375149b472a51acd504b40fff2eb",
+    "archive_sha256": "c250a6ecc6959b491f22448fcab3fb78f9fd375149b472a51acd504b40fff2eb",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/manuscript_figures/make_vector_figures.py": {
+    "source_sha256": "2b8692d76b652291fd4e0ca252e0b89ccd4bc62b048e3abb2997ed49f23e43c1",
+    "archive_sha256": "2b8692d76b652291fd4e0ca252e0b89ccd4bc62b048e3abb2997ed49f23e43c1",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/manuscript_figures/make_worked_example.py": {
+    "source_sha256": "25ffe046728495c9c6d007c6ecdfdae59273ff5549c16803edbf89093ad0b900",
+    "archive_sha256": "25ffe046728495c9c6d007c6ecdfdae59273ff5549c16803edbf89093ad0b900",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/phase1_species.py": {
+    "source_sha256": "5bc805707190d645da5b8142575d89ab83fb9854be909d711e7682bbb46b9611",
+    "archive_sha256": "5bc805707190d645da5b8142575d89ab83fb9854be909d711e7682bbb46b9611",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/profile_computational_cost.py": {
+    "source_sha256": "9693ae8b6f9ec62eb418a2e01b5eb83eec73a92d0a84777d2002f73cf08e80c4",
+    "archive_sha256": "9693ae8b6f9ec62eb418a2e01b5eb83eec73a92d0a84777d2002f73cf08e80c4",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/rerun_external_successes_normalized.py": {
+    "source_sha256": "bb87dcead8e2f03cdd80acdd2d733ea7c9809cadede793e87e69a0f220bd10fd",
+    "archive_sha256": "bb87dcead8e2f03cdd80acdd2d733ea7c9809cadede793e87e69a0f220bd10fd",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_circular_boundary_diagnostic.py": {
+    "source_sha256": "e9b1dd2b3be0d45a57553f2fdb5a04e8dc91c153a17abe106eae217b88212eee",
+    "archive_sha256": "e9b1dd2b3be0d45a57553f2fdb5a04e8dc91c153a17abe106eae217b88212eee",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_evaluator_endgap_sanity.py": {
+    "source_sha256": "e5e5107c518a65f298fb67e46c640ccb03678b329463067ab42b84aee8bd8109",
+    "archive_sha256": "e5e5107c518a65f298fb67e46c640ccb03678b329463067ab42b84aee8bd8109",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_baseline1.py": {
+    "source_sha256": "d59f5baaef7cf3d3a33c93a7a3c997eb29254fbeeb432e65120fad6642cdd06e",
+    "archive_sha256": "d59f5baaef7cf3d3a33c93a7a3c997eb29254fbeeb432e65120fad6642cdd06e",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_baseline2.py": {
+    "source_sha256": "76bf5efd26f5815ae2531fb33b3662a773fb02431756d388d03418a0cba34fc4",
+    "archive_sha256": "76bf5efd26f5815ae2531fb33b3662a773fb02431756d388d03418a0cba34fc4",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_baseline3.py": {
+    "source_sha256": "af05fe2783c02002cbf6ca97d4e1b6513f0516957539e614c16d852add6af7fc",
+    "archive_sha256": "af05fe2783c02002cbf6ca97d4e1b6513f0516957539e614c16d852add6af7fc",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_baseline_hybrid.py": {
+    "source_sha256": "2bdb0e95b07e1e67f4532531d39e65eadc9a9f09bc17e78fa954b7f3329edc70",
+    "archive_sha256": "2bdb0e95b07e1e67f4532531d39e65eadc9a9f09bc17e78fa954b7f3329edc70",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_ext_getorganelle.py": {
+    "source_sha256": "f954d3df7602188c9a65b2babebc97bd536eee0f210bd0249ba287fa9607de75",
+    "archive_sha256": "f954d3df7602188c9a65b2babebc97bd536eee0f210bd0249ba287fa9607de75",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_ext_mia.py": {
+    "source_sha256": "e2a59679d4caa5852f68eddbf0e3f5c9f83ca114e509fb27ae6b2707717437be",
+    "archive_sha256": "e2a59679d4caa5852f68eddbf0e3f5c9f83ca114e509fb27ae6b2707717437be",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_ext_novoplasty.py": {
+    "source_sha256": "35b1d4a648dec58a0306b22d4dcc08bdbbcea4879fff0eb4b55adb3fee19e318",
+    "archive_sha256": "35b1d4a648dec58a0306b22d4dcc08bdbbcea4879fff0eb4b55adb3fee19e318",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_grid_ext_pilon.py": {
+    "source_sha256": "048e0617e55213b8d9f873fccae9b3b1e325f55b10d0bd42a8d83dd3001e76d4",
+    "archive_sha256": "048e0617e55213b8d9f873fccae9b3b1e325f55b10d0bd42a8d83dd3001e76d4",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_orientation_experiment.py": {
+    "source_sha256": "b9a83a6876e19341b2687202d12a4629ef105c987487932bebf747257925aeb2",
+    "archive_sha256": "b9a83a6876e19341b2687202d12a4629ef105c987487932bebf747257925aeb2",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_parameter_sensitivity.py": {
+    "source_sha256": "8d36736b750f8a555658127669aaa861c6cce50f7095ff808e83be09964c45b2",
+    "archive_sha256": "8d36736b750f8a555658127669aaa861c6cce50f7095ff808e83be09964c45b2",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_read_length_experiment.py": {
+    "source_sha256": "bafc8bfdce4349d2c1fc0ee79e6e5ea38a48ae3d3c0604bbf841d78ea71421ac",
+    "archive_sha256": "bafc8bfdce4349d2c1fc0ee79e6e5ea38a48ae3d3c0604bbf841d78ea71421ac",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_real_wgs_benchmark.py": {
+    "source_sha256": "693c800de93ec8eb33cfe68a9f023fad7ba1b9dd7765e690e8ee2340ba093f47",
+    "archive_sha256": "693c800de93ec8eb33cfe68a9f023fad7ba1b9dd7765e690e8ee2340ba093f47",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_real_wgs_hybrid_benchmark.py": {
+    "source_sha256": "59a96b6198167dd27f63a9652490d776bdc5bca5aee04ace20c7e0691bf7fc21",
+    "archive_sha256": "59a96b6198167dd27f63a9652490d776bdc5bca5aee04ace20c7e0691bf7fc21",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/run_secondary_placement_check.py": {
+    "source_sha256": "e84ef618614086770b6a2ad87d305bc60a27e61f7c64817f95e8f55910fba6c4",
+    "archive_sha256": "e84ef618614086770b6a2ad87d305bc60a27e61f7c64817f95e8f55910fba6c4",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/summarize_normalized_external.py": {
+    "source_sha256": "79655c3135134385398f850ad827c7b08bad422582f3f9b8c56b62f55433fddf",
+    "archive_sha256": "79655c3135134385398f850ad827c7b08bad422582f3f9b8c56b62f55433fddf",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/summarize_post_tie_rule.py": {
+    "source_sha256": "0c03156a7e73e840e4c8dc6699cd53c68caffd857f3a3ba9ebba73d74bcdba49",
+    "archive_sha256": "0c03156a7e73e840e4c8dc6699cd53c68caffd857f3a3ba9ebba73d74bcdba49",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/summarize_real_wgs_hybrid.py": {
+    "source_sha256": "b04cdcfba9f509e465a143f4c7927653d2ced668d7040432bfecdb4c403b3522",
+    "archive_sha256": "b04cdcfba9f509e465a143f4c7927653d2ced668d7040432bfecdb4c403b3522",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/summarize_shared_cross_method.py": {
+    "source_sha256": "8fd1ac92e63d0fdb1443c2055c5f222170718644edbde24a4e514ad92cf4b366",
+    "archive_sha256": "8fd1ac92e63d0fdb1443c2055c5f222170718644edbde24a4e514ad92cf4b366",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/test_asem_hybrid_boundary.py": {
+    "source_sha256": "206224e71d78ea9f3f5fb33b4debfdc4e7419ba3aec209fb3ba7afec365f7e47",
+    "archive_sha256": "206224e71d78ea9f3f5fb33b4debfdc4e7419ba3aec209fb3ba7afec365f7e47",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/test_asem_indels.py": {
+    "source_sha256": "2bece3d419ccbbd6e58b14f969d230ca6368b92782633093ca2c9126e3bba416",
+    "archive_sha256": "2bece3d419ccbbd6e58b14f969d230ca6368b92782633093ca2c9126e3bba416",
+    "path_portability_edit": false
+  },
+  "main/snapshot/scripts/test_common_evaluator.py": {
+    "source_sha256": "3908158fad17b8c577885160809fa10e798f331c8e248efd611424c5b9e6889a",
+    "archive_sha256": "3908158fad17b8c577885160809fa10e798f331c8e248efd611424c5b9e6889a",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/10_Pygathrix_cinerea_NC_018063.fasta": {
+    "source_sha256": "6ece51e92446750330bd524fa5883f6c18c63b2890f74a09b8a617734392a0ef",
+    "archive_sha256": "6ece51e92446750330bd524fa5883f6c18c63b2890f74a09b8a617734392a0ef",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/11_Procolobus_verus_NC_020666.fasta": {
+    "source_sha256": "80b7005ef611476cb8ae1033e549a8a38a359e5db576c533d8e8b78e65920a5e",
+    "archive_sha256": "80b7005ef611476cb8ae1033e549a8a38a359e5db576c533d8e8b78e65920a5e",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/12_Rhinopithecus_strykeri_NC_018059.fasta": {
+    "source_sha256": "ef0993c2461cf6171d7ecbd84b192890d70b4c0302816a5cf9c73f2e8ab56785",
+    "archive_sha256": "ef0993c2461cf6171d7ecbd84b192890d70b4c0302816a5cf9c73f2e8ab56785",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/13_Rhinopithecus_brelichi_NC_018057.fasta": {
+    "source_sha256": "3802ab1e27e9450fc4de3af9abc0a4b8b554d098814f7051f0283947992a1e84",
+    "archive_sha256": "3802ab1e27e9450fc4de3af9abc0a4b8b554d098814f7051f0283947992a1e84",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/14_Simias_concolor_NC_020667.fasta": {
+    "source_sha256": "fc9a55ebbb9c602c3145c4e0f14c26ad82b1164bd769d9c3d8c7fffd47f56901",
+    "archive_sha256": "fc9a55ebbb9c602c3145c4e0f14c26ad82b1164bd769d9c3d8c7fffd47f56901",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/15_Cercocebus_torquatus_NC_023964.fasta": {
+    "source_sha256": "ca6905356d41e6d757d557b3ef9760768fb4c9e611963615bbfef98da39ab509",
+    "archive_sha256": "ca6905356d41e6d757d557b3ef9760768fb4c9e611963615bbfef98da39ab509",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/16_Allenopithecus_nigroviridis_NC_023965.fasta": {
+    "source_sha256": "bb352d1913952aa96dd1e3e65aa601272528ae85736d859fbc193b7fe7dbaab6",
+    "archive_sha256": "bb352d1913952aa96dd1e3e65aa601272528ae85736d859fbc193b7fe7dbaab6",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/17_Macaca_silenus_NC_025221.fasta": {
+    "source_sha256": "c4962a11acbf3c8955a41bcc32a6a02c8611827f21830075a80133dc11c5cae9",
+    "archive_sha256": "c4962a11acbf3c8955a41bcc32a6a02c8611827f21830075a80133dc11c5cae9",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/18_Macaca_arctoides_NC_025201.fasta": {
+    "source_sha256": "6a4033f6220e2a95c8511b9dd1d83f3de896bfdfb9b4a6ef21c0003f2205b4b6",
+    "archive_sha256": "6a4033f6220e2a95c8511b9dd1d83f3de896bfdfb9b4a6ef21c0003f2205b4b6",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/19_Macaca_tonkeana_NC_025222.fasta": {
+    "source_sha256": "16c4a3c4866d17f8e5d90baad1b776d9f15a292c5b08925f776200a0eec15078",
+    "archive_sha256": "16c4a3c4866d17f8e5d90baad1b776d9f15a292c5b08925f776200a0eec15078",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/1_Lagothrix_lagotricha_NC_021951.fasta": {
+    "source_sha256": "6e545ea740d70bce583329e5a96a3277cc424239ea76715546ac55e38c9c24a8",
+    "archive_sha256": "6e545ea740d70bce583329e5a96a3277cc424239ea76715546ac55e38c9c24a8",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/20_Papio_papio_NC_020009.fasta": {
+    "source_sha256": "88d517b394d9bd6e7b6053cbf8a68914185b6525436f01e9039553f9eb3cae6b",
+    "archive_sha256": "88d517b394d9bd6e7b6053cbf8a68914185b6525436f01e9039553f9eb3cae6b",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/21_Homo_sapiens_NC_012920.fasta": {
+    "source_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "archive_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/22_Gorilla_gorilla_NC_001645.fasta": {
+    "source_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "archive_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/23_Cephalopachus_bancanus_NC_002811.fasta": {
+    "source_sha256": "d358a7b9eb099d669b17e6876d5b90c6f0fcf3688bb2510552baa4aac40eb904",
+    "archive_sha256": "d358a7b9eb099d669b17e6876d5b90c6f0fcf3688bb2510552baa4aac40eb904",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/24_Varecia_variegata_NC_012773.fasta": {
+    "source_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "archive_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/25_Lemur_catta_NC_004025.fasta": {
+    "source_sha256": "15a19c953056f71045923292a5e8748e594f89429ed824346bd6d7fe615f2951",
+    "archive_sha256": "15a19c953056f71045923292a5e8748e594f89429ed824346bd6d7fe615f2951",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/26_Galeopterus_variegatus_NC_004031.fasta": {
+    "source_sha256": "7455bdef128993cb6c6147fd7f1f255fd37aa2da751e3865396d49b8f9c5e19e",
+    "archive_sha256": "7455bdef128993cb6c6147fd7f1f255fd37aa2da751e3865396d49b8f9c5e19e",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/27_Oryctolagus_cuniculus_NC_001913.fasta": {
+    "source_sha256": "fd063e5454a6bdb1a0155c30b20eb68ae6c12d6e8ab3ee2d7fe57317860d898b",
+    "archive_sha256": "fd063e5454a6bdb1a0155c30b20eb68ae6c12d6e8ab3ee2d7fe57317860d898b",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/28_Mus_musculus_KF937876.fasta": {
+    "source_sha256": "0eb01ad5094cf671bdc73cec20f3e77cb9a5065c280e8e410666be2b13be27b7",
+    "archive_sha256": "0eb01ad5094cf671bdc73cec20f3e77cb9a5065c280e8e410666be2b13be27b7",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/29_Tupaia_belangeri_AF217811.fasta": {
+    "source_sha256": "e151b7cb65a24df7546a5d3ba364e45e8196247ae0894a707598a14dc6b31f28",
+    "archive_sha256": "e151b7cb65a24df7546a5d3ba364e45e8196247ae0894a707598a14dc6b31f28",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/2_Ateles_belzebuth_NC_019800.fasta": {
+    "source_sha256": "164afb481d8ebf0419cd2c9e409890379240d1ef1465ba45adbca85f862efb28",
+    "archive_sha256": "164afb481d8ebf0419cd2c9e409890379240d1ef1465ba45adbca85f862efb28",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/30_Sphaerias_blanfordi_NC_046933.fasta": {
+    "source_sha256": "2e1b677601f352dffd7df70d1170c3cdd81b0efc886ce2cab2af29852510fdb0",
+    "archive_sha256": "2e1b677601f352dffd7df70d1170c3cdd81b0efc886ce2cab2af29852510fdb0",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/3_Alouatta_seniculus_NC_027825.fasta": {
+    "source_sha256": "05e0bac41d3ed4b0aab86298309014a61365bae1b1c587eb547d768ce6d420dd",
+    "archive_sha256": "05e0bac41d3ed4b0aab86298309014a61365bae1b1c587eb547d768ce6d420dd",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/4_Aotus_azarai_NC_021939.fasta": {
+    "source_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "archive_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/5_Callithrix_penicillata_NC_030788.fasta": {
+    "source_sha256": "d485351301fe7a377993cc365cff79bfe64de423def6375db6397775b4ddaa92",
+    "archive_sha256": "d485351301fe7a377993cc365cff79bfe64de423def6375db6397775b4ddaa92",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/6_Callimico_goeldii_NC_024628.fasta": {
+    "source_sha256": "084acc0279e801b189c06eca6a94379da39561c5892ad0f8000c87f7c95e4918",
+    "archive_sha256": "084acc0279e801b189c06eca6a94379da39561c5892ad0f8000c87f7c95e4918",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/7_Leontopithecus_rosalia_NC_021952.fasta": {
+    "source_sha256": "92aa18175dac3f637e52d9b7b3935256d8d71e9f0030c3e904346eba7fb3c59d",
+    "archive_sha256": "92aa18175dac3f637e52d9b7b3935256d8d71e9f0030c3e904346eba7fb3c59d",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/8_Saguinus_oedipus_NC_021960.fasta": {
+    "source_sha256": "6199991f4139bcaa270b302267227d677f9aa34b180c222e97fce71d58d4d0c2",
+    "archive_sha256": "6199991f4139bcaa270b302267227d677f9aa34b180c222e97fce71d58d4d0c2",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/ieee2021_mtdna_panel/9_Saimiri_boliviensis_NC_021966.fasta": {
+    "source_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "archive_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/phase1_reproduction/Aotus_azarai_NC_021939.fasta": {
+    "source_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "archive_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/phase1_reproduction/Gorilla_gorilla_NC_001645.fasta": {
+    "source_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "archive_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/phase1_reproduction/Homo_sapiens_NC_012920.fasta": {
+    "source_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "archive_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/phase1_reproduction/Saimiri_boliviensis_NC_021966.fasta": {
+    "source_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "archive_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/phase1_reproduction/Saimiri_sciureus_NC_012775.fasta": {
+    "source_sha256": "5d899ac03cc65da6986b2a16eddfb7f75fe53c59d1de1311eb997b195346c8b7",
+    "archive_sha256": "5d899ac03cc65da6986b2a16eddfb7f75fe53c59d1de1311eb997b195346c8b7",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/phase1_reproduction/Varecia_variegata_NC_012773.fasta": {
+    "source_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "archive_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/refs/chimp_NC_001643.fasta": {
+    "source_sha256": "e52fe9f13500456584afdde0822e21880ae5991c41aceb3457f0e942796663db",
+    "archive_sha256": "e52fe9f13500456584afdde0822e21880ae5991c41aceb3457f0e942796663db",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/refs/chrM_for_cram.fasta": {
+    "source_sha256": "0cea8b5e3d8c6de1e8c3bf51c99984a7ce285b45c90d6e49ed90c471df7c1b6b",
+    "archive_sha256": "0cea8b5e3d8c6de1e8c3bf51c99984a7ce285b45c90d6e49ed90c471df7c1b6b",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/refs/chrM_for_cram.fasta.fai": {
+    "source_sha256": "9c7bc6eed38be0f0caea41fb8d0cd52147e999890249a82750547f97b9526a34",
+    "archive_sha256": "9c7bc6eed38be0f0caea41fb8d0cd52147e999890249a82750547f97b9526a34",
+    "path_portability_edit": false
+  },
+  "main/snapshot/data/refs/chrM_rCRS.fasta": {
+    "source_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "archive_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "path_portability_edit": false
+  },
+  "followup/followup_snapshot.json": {
+    "source_sha256": "5c55bb33f745c8ef2fe79626b945907697b77bc5a3e9157717160c01c3230f32",
+    "archive_sha256": "5c55bb33f745c8ef2fe79626b945907697b77bc5a3e9157717160c01c3230f32",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/10_Pygathrix_cinerea_NC_018063.fasta": {
+    "source_sha256": "6ece51e92446750330bd524fa5883f6c18c63b2890f74a09b8a617734392a0ef",
+    "archive_sha256": "6ece51e92446750330bd524fa5883f6c18c63b2890f74a09b8a617734392a0ef",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/11_Procolobus_verus_NC_020666.fasta": {
+    "source_sha256": "80b7005ef611476cb8ae1033e549a8a38a359e5db576c533d8e8b78e65920a5e",
+    "archive_sha256": "80b7005ef611476cb8ae1033e549a8a38a359e5db576c533d8e8b78e65920a5e",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/12_Rhinopithecus_strykeri_NC_018059.fasta": {
+    "source_sha256": "ef0993c2461cf6171d7ecbd84b192890d70b4c0302816a5cf9c73f2e8ab56785",
+    "archive_sha256": "ef0993c2461cf6171d7ecbd84b192890d70b4c0302816a5cf9c73f2e8ab56785",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/13_Rhinopithecus_brelichi_NC_018057.fasta": {
+    "source_sha256": "3802ab1e27e9450fc4de3af9abc0a4b8b554d098814f7051f0283947992a1e84",
+    "archive_sha256": "3802ab1e27e9450fc4de3af9abc0a4b8b554d098814f7051f0283947992a1e84",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/14_Simias_concolor_NC_020667.fasta": {
+    "source_sha256": "fc9a55ebbb9c602c3145c4e0f14c26ad82b1164bd769d9c3d8c7fffd47f56901",
+    "archive_sha256": "fc9a55ebbb9c602c3145c4e0f14c26ad82b1164bd769d9c3d8c7fffd47f56901",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/15_Cercocebus_torquatus_NC_023964.fasta": {
+    "source_sha256": "ca6905356d41e6d757d557b3ef9760768fb4c9e611963615bbfef98da39ab509",
+    "archive_sha256": "ca6905356d41e6d757d557b3ef9760768fb4c9e611963615bbfef98da39ab509",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/16_Allenopithecus_nigroviridis_NC_023965.fasta": {
+    "source_sha256": "bb352d1913952aa96dd1e3e65aa601272528ae85736d859fbc193b7fe7dbaab6",
+    "archive_sha256": "bb352d1913952aa96dd1e3e65aa601272528ae85736d859fbc193b7fe7dbaab6",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/17_Macaca_silenus_NC_025221.fasta": {
+    "source_sha256": "c4962a11acbf3c8955a41bcc32a6a02c8611827f21830075a80133dc11c5cae9",
+    "archive_sha256": "c4962a11acbf3c8955a41bcc32a6a02c8611827f21830075a80133dc11c5cae9",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/18_Macaca_arctoides_NC_025201.fasta": {
+    "source_sha256": "6a4033f6220e2a95c8511b9dd1d83f3de896bfdfb9b4a6ef21c0003f2205b4b6",
+    "archive_sha256": "6a4033f6220e2a95c8511b9dd1d83f3de896bfdfb9b4a6ef21c0003f2205b4b6",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/19_Macaca_tonkeana_NC_025222.fasta": {
+    "source_sha256": "16c4a3c4866d17f8e5d90baad1b776d9f15a292c5b08925f776200a0eec15078",
+    "archive_sha256": "16c4a3c4866d17f8e5d90baad1b776d9f15a292c5b08925f776200a0eec15078",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/1_Lagothrix_lagotricha_NC_021951.fasta": {
+    "source_sha256": "6e545ea740d70bce583329e5a96a3277cc424239ea76715546ac55e38c9c24a8",
+    "archive_sha256": "6e545ea740d70bce583329e5a96a3277cc424239ea76715546ac55e38c9c24a8",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/20_Papio_papio_NC_020009.fasta": {
+    "source_sha256": "88d517b394d9bd6e7b6053cbf8a68914185b6525436f01e9039553f9eb3cae6b",
+    "archive_sha256": "88d517b394d9bd6e7b6053cbf8a68914185b6525436f01e9039553f9eb3cae6b",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/21_Homo_sapiens_NC_012920.fasta": {
+    "source_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "archive_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/22_Gorilla_gorilla_NC_001645.fasta": {
+    "source_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "archive_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/23_Cephalopachus_bancanus_NC_002811.fasta": {
+    "source_sha256": "d358a7b9eb099d669b17e6876d5b90c6f0fcf3688bb2510552baa4aac40eb904",
+    "archive_sha256": "d358a7b9eb099d669b17e6876d5b90c6f0fcf3688bb2510552baa4aac40eb904",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/24_Varecia_variegata_NC_012773.fasta": {
+    "source_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "archive_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/25_Lemur_catta_NC_004025.fasta": {
+    "source_sha256": "15a19c953056f71045923292a5e8748e594f89429ed824346bd6d7fe615f2951",
+    "archive_sha256": "15a19c953056f71045923292a5e8748e594f89429ed824346bd6d7fe615f2951",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/26_Galeopterus_variegatus_NC_004031.fasta": {
+    "source_sha256": "7455bdef128993cb6c6147fd7f1f255fd37aa2da751e3865396d49b8f9c5e19e",
+    "archive_sha256": "7455bdef128993cb6c6147fd7f1f255fd37aa2da751e3865396d49b8f9c5e19e",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/27_Oryctolagus_cuniculus_NC_001913.fasta": {
+    "source_sha256": "fd063e5454a6bdb1a0155c30b20eb68ae6c12d6e8ab3ee2d7fe57317860d898b",
+    "archive_sha256": "fd063e5454a6bdb1a0155c30b20eb68ae6c12d6e8ab3ee2d7fe57317860d898b",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/28_Mus_musculus_KF937876.fasta": {
+    "source_sha256": "0eb01ad5094cf671bdc73cec20f3e77cb9a5065c280e8e410666be2b13be27b7",
+    "archive_sha256": "0eb01ad5094cf671bdc73cec20f3e77cb9a5065c280e8e410666be2b13be27b7",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/29_Tupaia_belangeri_AF217811.fasta": {
+    "source_sha256": "e151b7cb65a24df7546a5d3ba364e45e8196247ae0894a707598a14dc6b31f28",
+    "archive_sha256": "e151b7cb65a24df7546a5d3ba364e45e8196247ae0894a707598a14dc6b31f28",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/2_Ateles_belzebuth_NC_019800.fasta": {
+    "source_sha256": "164afb481d8ebf0419cd2c9e409890379240d1ef1465ba45adbca85f862efb28",
+    "archive_sha256": "164afb481d8ebf0419cd2c9e409890379240d1ef1465ba45adbca85f862efb28",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/30_Sphaerias_blanfordi_NC_046933.fasta": {
+    "source_sha256": "2e1b677601f352dffd7df70d1170c3cdd81b0efc886ce2cab2af29852510fdb0",
+    "archive_sha256": "2e1b677601f352dffd7df70d1170c3cdd81b0efc886ce2cab2af29852510fdb0",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/3_Alouatta_seniculus_NC_027825.fasta": {
+    "source_sha256": "05e0bac41d3ed4b0aab86298309014a61365bae1b1c587eb547d768ce6d420dd",
+    "archive_sha256": "05e0bac41d3ed4b0aab86298309014a61365bae1b1c587eb547d768ce6d420dd",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/4_Aotus_azarai_NC_021939.fasta": {
+    "source_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "archive_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/5_Callithrix_penicillata_NC_030788.fasta": {
+    "source_sha256": "d485351301fe7a377993cc365cff79bfe64de423def6375db6397775b4ddaa92",
+    "archive_sha256": "d485351301fe7a377993cc365cff79bfe64de423def6375db6397775b4ddaa92",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/6_Callimico_goeldii_NC_024628.fasta": {
+    "source_sha256": "084acc0279e801b189c06eca6a94379da39561c5892ad0f8000c87f7c95e4918",
+    "archive_sha256": "084acc0279e801b189c06eca6a94379da39561c5892ad0f8000c87f7c95e4918",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/7_Leontopithecus_rosalia_NC_021952.fasta": {
+    "source_sha256": "92aa18175dac3f637e52d9b7b3935256d8d71e9f0030c3e904346eba7fb3c59d",
+    "archive_sha256": "92aa18175dac3f637e52d9b7b3935256d8d71e9f0030c3e904346eba7fb3c59d",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/8_Saguinus_oedipus_NC_021960.fasta": {
+    "source_sha256": "6199991f4139bcaa270b302267227d677f9aa34b180c222e97fce71d58d4d0c2",
+    "archive_sha256": "6199991f4139bcaa270b302267227d677f9aa34b180c222e97fce71d58d4d0c2",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/ieee2021_mtdna_panel/9_Saimiri_boliviensis_NC_021966.fasta": {
+    "source_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "archive_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/phase1_reproduction/Aotus_azarai_NC_021939.fasta": {
+    "source_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "archive_sha256": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/phase1_reproduction/Gorilla_gorilla_NC_001645.fasta": {
+    "source_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "archive_sha256": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/phase1_reproduction/Homo_sapiens_NC_012920.fasta": {
+    "source_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "archive_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/phase1_reproduction/Saimiri_boliviensis_NC_021966.fasta": {
+    "source_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "archive_sha256": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/phase1_reproduction/Saimiri_sciureus_NC_012775.fasta": {
+    "source_sha256": "5d899ac03cc65da6986b2a16eddfb7f75fe53c59d1de1311eb997b195346c8b7",
+    "archive_sha256": "5d899ac03cc65da6986b2a16eddfb7f75fe53c59d1de1311eb997b195346c8b7",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/phase1_reproduction/Varecia_variegata_NC_012773.fasta": {
+    "source_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "archive_sha256": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/refs/chimp_NC_001643.fasta": {
+    "source_sha256": "e52fe9f13500456584afdde0822e21880ae5991c41aceb3457f0e942796663db",
+    "archive_sha256": "e52fe9f13500456584afdde0822e21880ae5991c41aceb3457f0e942796663db",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/refs/chrM_for_cram.fasta": {
+    "source_sha256": "0cea8b5e3d8c6de1e8c3bf51c99984a7ce285b45c90d6e49ed90c471df7c1b6b",
+    "archive_sha256": "0cea8b5e3d8c6de1e8c3bf51c99984a7ce285b45c90d6e49ed90c471df7c1b6b",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/refs/chrM_for_cram.fasta.fai": {
+    "source_sha256": "9c7bc6eed38be0f0caea41fb8d0cd52147e999890249a82750547f97b9526a34",
+    "archive_sha256": "9c7bc6eed38be0f0caea41fb8d0cd52147e999890249a82750547f97b9526a34",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/data/refs/chrM_rCRS.fasta": {
+    "source_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "archive_sha256": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/pyproject.toml": {
+    "source_sha256": "35eec70db797ce428996672bdbe62e4edf334671667cf028c6cc0d7ca4c518a9",
+    "archive_sha256": "35eec70db797ce428996672bdbe62e4edf334671667cf028c6cc0d7ca4c518a9",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/__init__.py": {
+    "source_sha256": "9879eaf2fb5bef35385fd120bc0269f9a2c7dd71920689c24a4182fb5070b1b1",
+    "archive_sha256": "9879eaf2fb5bef35385fd120bc0269f9a2c7dd71920689c24a4182fb5070b1b1",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/align.py": {
+    "source_sha256": "ce258a746b50f04b038d93840c1f8c405d5e6930c3c259595808934a25192eb6",
+    "archive_sha256": "ce258a746b50f04b038d93840c1f8c405d5e6930c3c259595808934a25192eb6",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/cli.py": {
+    "source_sha256": "628cad3f887dba21c8e60ec279ab796e1211986a6c87d2223480cde528f206cc",
+    "archive_sha256": "628cad3f887dba21c8e60ec279ab796e1211986a6c87d2223480cde528f206cc",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/core.py": {
+    "source_sha256": "d7aa602473468eb511c52f8cd6b4b5a0bd2b19a080ec14ef47a88f2a18f9e8f5",
+    "archive_sha256": "d7aa602473468eb511c52f8cd6b4b5a0bd2b19a080ec14ef47a88f2a18f9e8f5",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/estep.py": {
+    "source_sha256": "532eca880d8f05388641c6bb04b181b6d2a309ad0ddba86a948572480667cb0f",
+    "archive_sha256": "532eca880d8f05388641c6bb04b181b6d2a309ad0ddba86a948572480667cb0f",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/hybrid.py": {
+    "source_sha256": "6ad8b2fcb891964569e5b605d798eacfdb42384bc1161aaa1ac8b3bd2cd0eca2",
+    "archive_sha256": "6ad8b2fcb891964569e5b605d798eacfdb42384bc1161aaa1ac8b3bd2cd0eca2",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/ncbi.py": {
+    "source_sha256": "682cf84422ff799e1a9c7f00108e799404cada2d210d2008e755277dcd5141f1",
+    "archive_sha256": "682cf84422ff799e1a9c7f00108e799404cada2d210d2008e755277dcd5141f1",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/novoplasty_config.py": {
+    "source_sha256": "cd3b3dfc623c70d636c35265a8a14f6681ce2d984b662d1ec1d0bbc2a5bc4ae1",
+    "archive_sha256": "cd3b3dfc623c70d636c35265a8a14f6681ce2d984b662d1ec1d0bbc2a5bc4ae1",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/src/asem_refine/seqio.py": {
+    "source_sha256": "49241bfa2e049eaaa77cf680f35e2526e4c000a2eed463d1ae81d3fae5e40c43",
+    "archive_sha256": "49241bfa2e049eaaa77cf680f35e2526e4c000a2eed463d1ae81d3fae5e40c43",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/tests/test_hybrid_bidirected.py": {
+    "source_sha256": "481ce65a87cb13315ba32bc96b575c10e25718ae935e69721a78bcb0e1937ae1",
+    "archive_sha256": "481ce65a87cb13315ba32bc96b575c10e25718ae935e69721a78bcb0e1937ae1",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/tests/test_hybrid_boundary.py": {
+    "source_sha256": "1f845e1b650b89cf66411731c70ae08adecf00532b05219377e5e02653edcb34",
+    "archive_sha256": "1f845e1b650b89cf66411731c70ae08adecf00532b05219377e5e02653edcb34",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/tests/test_indel_consensus.py": {
+    "source_sha256": "dd038b3e7185426e30a4250dc88724f5054695aceaa16a7bda2e93563246c470",
+    "archive_sha256": "dd038b3e7185426e30a4250dc88724f5054695aceaa16a7bda2e93563246c470",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/package/tests/test_reverse_complement.py": {
+    "source_sha256": "cbbe6d47297ae74ef85272807db3240a73f1abc6ab03ee5c829a9b09e8157695",
+    "archive_sha256": "cbbe6d47297ae74ef85272807db3240a73f1abc6ab03ee5c829a9b09e8157695",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/evaluator_n_fix/nsafe.py": {
+    "source_sha256": "3ac65b152d06e39b2ce60241b1d610ee56c78e812f16a4db25bf59172ed3c9a3",
+    "archive_sha256": "3ac65b152d06e39b2ce60241b1d610ee56c78e812f16a4db25bf59172ed3c9a3",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/.gitignore": {
+    "source_sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
+    "archive_sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/panel30_species.py": {
+    "source_sha256": "0447ffb0d52001a9e8b428dd83929045f6c1283f595621d934643048989e3613",
+    "archive_sha256": "0447ffb0d52001a9e8b428dd83929045f6c1283f595621d934643048989e3613",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/preflight_think.py": {
+    "source_sha256": "dfa33aea2946d443fa7d18d0a1daff62dfff810c8b6518edbb00ab3ab25d4dde",
+    "archive_sha256": "dfa33aea2946d443fa7d18d0a1daff62dfff810c8b6518edbb00ab3ab25d4dde",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/prepare_think_run.py": {
+    "source_sha256": "4d9ada55c8fb461b4befa378978709c04d08822e0e563bb04815e03d8b532960",
+    "archive_sha256": "4d9ada55c8fb461b4befa378978709c04d08822e0e563bb04815e03d8b532960",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/resume_io.py": {
+    "source_sha256": "33fa4fd47ac8df44fde40f4f30bfc797c7e2b82cabf2ed6f4bca7b8e04ce9f53",
+    "archive_sha256": "33fa4fd47ac8df44fde40f4f30bfc797c7e2b82cabf2ed6f4bca7b8e04ce9f53",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/resume_think.sh": {
+    "source_sha256": "37704426b4ea1a965b53721199afda3a397efd89e9b11d55e1ee0c2a37da4c81",
+    "archive_sha256": "37704426b4ea1a965b53721199afda3a397efd89e9b11d55e1ee0c2a37da4c81",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/run_panel30_grid.py": {
+    "source_sha256": "71645c5da152635a4a12fdc3fb7825a8888cf2d793e98a595e3eba9234a9d6be",
+    "archive_sha256": "71645c5da152635a4a12fdc3fb7825a8888cf2d793e98a595e3eba9234a9d6be",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/run_think_pipeline.py": {
+    "source_sha256": "c63084812827150ae89468b88486ab37caf8cc7d858a78b5e9d9be9e4847d015",
+    "archive_sha256": "c63084812827150ae89468b88486ab37caf8cc7d858a78b5e9d9be9e4847d015",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/status_think_run.py": {
+    "source_sha256": "8b8e1b77769187d82bcbfb20ab19f20cfb438c2cf712b2b56e076719ee1281f3",
+    "archive_sha256": "8b8e1b77769187d82bcbfb20ab19f20cfb438c2cf712b2b56e076719ee1281f3",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/panel30_grid/test_resume_io.py": {
+    "source_sha256": "2d3e83b12b2748fb4e99b0c48996031d94bca9d2cde5523d73f4d6a72eb0508a",
+    "archive_sha256": "2d3e83b12b2748fb4e99b0c48996031d94bca9d2cde5523d73f4d6a72eb0508a",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/read_length_all_methods/make_table_read_length.py": {
+    "source_sha256": "3f622fe440999ede1b9dfade2ff482cbe85c48e8d8e0fe273affe838c3e2d54d",
+    "archive_sha256": "3f622fe440999ede1b9dfade2ff482cbe85c48e8d8e0fe273affe838c3e2d54d",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/read_length_all_methods/run_read_length_all_methods.py": {
+    "source_sha256": "bcb4285f8e3da0ea7738a672fe59e5d7cf85a8c969515a7220d33ce46e2ecc60",
+    "archive_sha256": "bcb4285f8e3da0ea7738a672fe59e5d7cf85a8c969515a7220d33ce46e2ecc60",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/real_reads_all_methods/make_table_real_reads.py": {
+    "source_sha256": "e81c81c4514301666a5c727f7fd8a143408205efc1b6ee858739bd0d869d6845",
+    "archive_sha256": "e81c81c4514301666a5c727f7fd8a143408205efc1b6ee858739bd0d869d6845",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/real_reads_all_methods/run_real_reads_all_methods.py": {
+    "source_sha256": "3c92ef62dd8f67be274a8aa0e7052302695f06bd3fc2c4fe4c11bdd2d71b52bd",
+    "archive_sha256": "3c92ef62dd8f67be274a8aa0e7052302695f06bd3fc2c4fe4c11bdd2d71b52bd",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/real_reads_all_methods/truth/NA07000_1000G_phase3_chrMT.fasta": {
+    "source_sha256": "aa1b315fc442073477eb88decbbd495b09f390cc41fde50fe6916f319196daf5",
+    "archive_sha256": "aa1b315fc442073477eb88decbbd495b09f390cc41fde50fe6916f319196daf5",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/real_reads_all_methods/truth/SHA256SUMS.txt": {
+    "source_sha256": "28ad37632bd2408a0fdf8fc59d6a877e7aa4b01fac059ae8a4c3eacc2bf98e8b",
+    "archive_sha256": "28ad37632bd2408a0fdf8fc59d6a877e7aa4b01fac059ae8a4c3eacc2bf98e8b",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/runtime_benchmark/make_table_runtime.py": {
+    "source_sha256": "353965dd4cbc1b65edefe21945b74d9adc76ebdeb0ea6c295ad74736d4d526fd",
+    "archive_sha256": "353965dd4cbc1b65edefe21945b74d9adc76ebdeb0ea6c295ad74736d4d526fd",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/runtime_benchmark/run_runtime_benchmark.py": {
+    "source_sha256": "d8a28aa5d1b856a8baabb11e995cc2fcec8c08c44eb63b1ff31b087f0e63dbd8",
+    "archive_sha256": "d8a28aa5d1b856a8baabb11e995cc2fcec8c08c44eb63b1ff31b087f0e63dbd8",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/runtime_benchmark/runtime_worker.py": {
+    "source_sha256": "54a9c5751cd226ab517eaee4dffbedf4246cbaed1bda029164b123a4b8ee4516",
+    "archive_sha256": "54a9c5751cd226ab517eaee4dffbedf4246cbaed1bda029164b123a4b8ee4516",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/plos-one/analysis/runtime_benchmark/start_when_idle.sh": {
+    "source_sha256": "29574a867777d2ca0ea24953ee77fe38a469ad46aee4cbb82cd07529836d5f53",
+    "archive_sha256": "29574a867777d2ca0ea24953ee77fe38a469ad46aee4cbb82cd07529836d5f53",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/asem_core.py": {
+    "source_sha256": "9b15fb43264dbdead1be68f337ff1fe3ca7368fee612049d28139d6f018514a6",
+    "archive_sha256": "9b15fb43264dbdead1be68f337ff1fe3ca7368fee612049d28139d6f018514a6",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/asem_hybrid.py": {
+    "source_sha256": "7e88a0b6c7c53cfd5a86d0c5eae6682d8cc625283e31f0836ea48aec6d02d136",
+    "archive_sha256": "7e88a0b6c7c53cfd5a86d0c5eae6682d8cc625283e31f0836ea48aec6d02d136",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/asem_hybrid_boundary.py": {
+    "source_sha256": "714cd962b4c257b2beeae6baac2de41d0070001afc721eb6849e5bd1ca3f0445",
+    "archive_sha256": "714cd962b4c257b2beeae6baac2de41d0070001afc721eb6849e5bd1ca3f0445",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/baseline_ecticon.py": {
+    "source_sha256": "93b7855bccf02d4fb8e4677a83348595b8b1e013cf8d98b751beeed5c9cae12d",
+    "archive_sha256": "93b7855bccf02d4fb8e4677a83348595b8b1e013cf8d98b751beeed5c9cae12d",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/baseline_ieee_access.py": {
+    "source_sha256": "b67b10bc11b506f2b75358ab085bda47cb944ed238ef7571da6f9effe8db29d6",
+    "archive_sha256": "b67b10bc11b506f2b75358ab085bda47cb944ed238ef7571da6f9effe8db29d6",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/baseline_ojemb.py": {
+    "source_sha256": "0f53f47f0c82b9a81da6498a1169d7a35a80c05b98ce806ff8d407aae4c72ba7",
+    "archive_sha256": "0f53f47f0c82b9a81da6498a1169d7a35a80c05b98ce806ff8d407aae4c72ba7",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/check_post_tie_rule_status.sh": {
+    "source_sha256": "4260cb33184174c25f9b241ce041c437900a06cb3741016eb72aebd559d814ba",
+    "archive_sha256": "4260cb33184174c25f9b241ce041c437900a06cb3741016eb72aebd559d814ba",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/common.py": {
+    "source_sha256": "9cc7a6cca27962b523182fa8afcecdf97bf41c8c76a02118ab567f3254652aa2",
+    "archive_sha256": "9cc7a6cca27962b523182fa8afcecdf97bf41c8c76a02118ab567f3254652aa2",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/ext_getorganelle.py": {
+    "source_sha256": "f91a26d67c375f9f0a22ef15410fca9e92b686d7f93c86983ac91acce29a690a",
+    "archive_sha256": "f91a26d67c375f9f0a22ef15410fca9e92b686d7f93c86983ac91acce29a690a",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/ext_mia.py": {
+    "source_sha256": "09bf35d2cbeb6e227a5f190faa0ef745e8b12b5d1727f4e615c283cc05c72bf0",
+    "archive_sha256": "09bf35d2cbeb6e227a5f190faa0ef745e8b12b5d1727f4e615c283cc05c72bf0",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/ext_novoplasty.py": {
+    "source_sha256": "1d79594568ce89d4e435cd6983a4eabd9c19ad4521cf15fead3d1234de750ea4",
+    "archive_sha256": "1d79594568ce89d4e435cd6983a4eabd9c19ad4521cf15fead3d1234de750ea4",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/ext_pilon.py": {
+    "source_sha256": "0ac76a1dc28d1c98ead7ae241665a63cdf33de6a410d08598802f1fdb0c2b10d",
+    "archive_sha256": "0ac76a1dc28d1c98ead7ae241665a63cdf33de6a410d08598802f1fdb0c2b10d",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/extract_real_wgs_reads.sh": {
+    "source_sha256": "6285008486412b9bd0304df87629034cc73e0360a3da65f50156cbc079d67f55",
+    "archive_sha256": "6285008486412b9bd0304df87629034cc73e0360a3da65f50156cbc079d67f55",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/fetch_data.py": {
+    "source_sha256": "17eccc775e0b77cc5ea4362276c477ce952eeff73c33003bd1170067651eb33a",
+    "archive_sha256": "17eccc775e0b77cc5ea4362276c477ce952eeff73c33003bd1170067651eb33a",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/full_panel_species.py": {
+    "source_sha256": "bf4673baf2b0270b5356f7f704406c4d448f51391bb894827b5feb335d924ba6",
+    "archive_sha256": "bf4673baf2b0270b5356f7f704406c4d448f51391bb894827b5feb335d924ba6",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/grid_run_guard.py": {
+    "source_sha256": "29023acc6ffe7e23c0c00293f180bb45299dd10124f776d5d750c0c65ac81c3a",
+    "archive_sha256": "29023acc6ffe7e23c0c00293f180bb45299dd10124f776d5d750c0c65ac81c3a",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_algo_figures.py": {
+    "source_sha256": "c2387b348bc8714fada20ebab1402976fa18a5a47145c413aafbe3e44bdfc051",
+    "archive_sha256": "c2387b348bc8714fada20ebab1402976fa18a5a47145c413aafbe3e44bdfc051",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_computational_cost_table.py": {
+    "source_sha256": "48cd290dc969e413292cbc02273671d113f5652e1f3b6bcebfb966bbd147f9f5",
+    "archive_sha256": "48cd290dc969e413292cbc02273671d113f5652e1f3b6bcebfb966bbd147f9f5",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_depth_iteration_grid_v2.py": {
+    "source_sha256": "a206844a7e373f683bd936179e78c8d17886b614abe18f5627b035efe24bcac1",
+    "archive_sha256": "a206844a7e373f683bd936179e78c8d17886b614abe18f5627b035efe24bcac1",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_external_tools_depth_chart.py": {
+    "source_sha256": "54f7da40f3bf4356f6253d9ddeaa62c109caf3dafde71e6dd04109f4f52d5456",
+    "archive_sha256": "54f7da40f3bf4356f6253d9ddeaa62c109caf3dafde71e6dd04109f4f52d5456",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_external_tools_depth_chart_english.py": {
+    "source_sha256": "f2e79f7ec44fab992f9cb17bccbe4e8aefedba3f3d2d65fb53e12da2afc7755d",
+    "archive_sha256": "f2e79f7ec44fab992f9cb17bccbe4e8aefedba3f3d2d65fb53e12da2afc7755d",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_full_panel_clustermap.py": {
+    "source_sha256": "edb23ffc94f5136aa6d62832d871b4478cbd75393ac9a1a3040d01844b62d443",
+    "archive_sha256": "edb23ffc94f5136aa6d62832d871b4478cbd75393ac9a1a3040d01844b62d443",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_hybrid_comparison_figure.py": {
+    "source_sha256": "d07a1d7751c1463ba73516237a180a0935bb348133050e7aa6b82f9aa24e6e75",
+    "archive_sha256": "d07a1d7751c1463ba73516237a180a0935bb348133050e7aa6b82f9aa24e6e75",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_read_length_figure.py": {
+    "source_sha256": "ad6f1137a3ae121c13e34b1e6418702d9ed24238657bd4c989610bb78b090dea",
+    "archive_sha256": "ad6f1137a3ae121c13e34b1e6418702d9ed24238657bd4c989610bb78b090dea",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_real_wgs_depth_chart.py": {
+    "source_sha256": "47a64f6b0de62c2954fd202316909a344aeaa58a2bf665e784e3c5b54d203714",
+    "archive_sha256": "47a64f6b0de62c2954fd202316909a344aeaa58a2bf665e784e3c5b54d203714",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/make_report.py": {
+    "source_sha256": "c250a6ecc6959b491f22448fcab3fb78f9fd375149b472a51acd504b40fff2eb",
+    "archive_sha256": "c250a6ecc6959b491f22448fcab3fb78f9fd375149b472a51acd504b40fff2eb",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/manuscript_figures/fig1_overview.svg": {
+    "source_sha256": "04afb1e900c81e6ce3fb668cb4b6ad89ab1992df7b990446380a118c56aa14e0",
+    "archive_sha256": "04afb1e900c81e6ce3fb668cb4b6ad89ab1992df7b990446380a118c56aa14e0",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/manuscript_figures/make_vector_figures.py": {
+    "source_sha256": "2b8692d76b652291fd4e0ca252e0b89ccd4bc62b048e3abb2997ed49f23e43c1",
+    "archive_sha256": "2b8692d76b652291fd4e0ca252e0b89ccd4bc62b048e3abb2997ed49f23e43c1",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/manuscript_figures/make_worked_example.py": {
+    "source_sha256": "25ffe046728495c9c6d007c6ecdfdae59273ff5549c16803edbf89093ad0b900",
+    "archive_sha256": "25ffe046728495c9c6d007c6ecdfdae59273ff5549c16803edbf89093ad0b900",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/phase1_species.py": {
+    "source_sha256": "5bc805707190d645da5b8142575d89ab83fb9854be909d711e7682bbb46b9611",
+    "archive_sha256": "5bc805707190d645da5b8142575d89ab83fb9854be909d711e7682bbb46b9611",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/profile_computational_cost.py": {
+    "source_sha256": "9693ae8b6f9ec62eb418a2e01b5eb83eec73a92d0a84777d2002f73cf08e80c4",
+    "archive_sha256": "9693ae8b6f9ec62eb418a2e01b5eb83eec73a92d0a84777d2002f73cf08e80c4",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/rerun_external_successes_normalized.py": {
+    "source_sha256": "bb87dcead8e2f03cdd80acdd2d733ea7c9809cadede793e87e69a0f220bd10fd",
+    "archive_sha256": "bb87dcead8e2f03cdd80acdd2d733ea7c9809cadede793e87e69a0f220bd10fd",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_circular_boundary_diagnostic.py": {
+    "source_sha256": "e9b1dd2b3be0d45a57553f2fdb5a04e8dc91c153a17abe106eae217b88212eee",
+    "archive_sha256": "e9b1dd2b3be0d45a57553f2fdb5a04e8dc91c153a17abe106eae217b88212eee",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_evaluator_endgap_sanity.py": {
+    "source_sha256": "e5e5107c518a65f298fb67e46c640ccb03678b329463067ab42b84aee8bd8109",
+    "archive_sha256": "e5e5107c518a65f298fb67e46c640ccb03678b329463067ab42b84aee8bd8109",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_baseline1.py": {
+    "source_sha256": "d59f5baaef7cf3d3a33c93a7a3c997eb29254fbeeb432e65120fad6642cdd06e",
+    "archive_sha256": "d59f5baaef7cf3d3a33c93a7a3c997eb29254fbeeb432e65120fad6642cdd06e",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_baseline2.py": {
+    "source_sha256": "76bf5efd26f5815ae2531fb33b3662a773fb02431756d388d03418a0cba34fc4",
+    "archive_sha256": "76bf5efd26f5815ae2531fb33b3662a773fb02431756d388d03418a0cba34fc4",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_baseline3.py": {
+    "source_sha256": "af05fe2783c02002cbf6ca97d4e1b6513f0516957539e614c16d852add6af7fc",
+    "archive_sha256": "af05fe2783c02002cbf6ca97d4e1b6513f0516957539e614c16d852add6af7fc",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_baseline_hybrid.py": {
+    "source_sha256": "2bdb0e95b07e1e67f4532531d39e65eadc9a9f09bc17e78fa954b7f3329edc70",
+    "archive_sha256": "2bdb0e95b07e1e67f4532531d39e65eadc9a9f09bc17e78fa954b7f3329edc70",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_ext_getorganelle.py": {
+    "source_sha256": "f954d3df7602188c9a65b2babebc97bd536eee0f210bd0249ba287fa9607de75",
+    "archive_sha256": "f954d3df7602188c9a65b2babebc97bd536eee0f210bd0249ba287fa9607de75",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_ext_mia.py": {
+    "source_sha256": "e2a59679d4caa5852f68eddbf0e3f5c9f83ca114e509fb27ae6b2707717437be",
+    "archive_sha256": "e2a59679d4caa5852f68eddbf0e3f5c9f83ca114e509fb27ae6b2707717437be",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_ext_novoplasty.py": {
+    "source_sha256": "35b1d4a648dec58a0306b22d4dcc08bdbbcea4879fff0eb4b55adb3fee19e318",
+    "archive_sha256": "35b1d4a648dec58a0306b22d4dcc08bdbbcea4879fff0eb4b55adb3fee19e318",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_grid_ext_pilon.py": {
+    "source_sha256": "048e0617e55213b8d9f873fccae9b3b1e325f55b10d0bd42a8d83dd3001e76d4",
+    "archive_sha256": "048e0617e55213b8d9f873fccae9b3b1e325f55b10d0bd42a8d83dd3001e76d4",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_orientation_experiment.py": {
+    "source_sha256": "b9a83a6876e19341b2687202d12a4629ef105c987487932bebf747257925aeb2",
+    "archive_sha256": "b9a83a6876e19341b2687202d12a4629ef105c987487932bebf747257925aeb2",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_parameter_sensitivity.py": {
+    "source_sha256": "8d36736b750f8a555658127669aaa861c6cce50f7095ff808e83be09964c45b2",
+    "archive_sha256": "8d36736b750f8a555658127669aaa861c6cce50f7095ff808e83be09964c45b2",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_post_tie_rule_grids.sh": {
+    "source_sha256": "01733cd03a2871703fd74a5588b6aab888c90feac1491624688fd2d48ad21c3c",
+    "archive_sha256": "01733cd03a2871703fd74a5588b6aab888c90feac1491624688fd2d48ad21c3c",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_read_length_experiment.py": {
+    "source_sha256": "bafc8bfdce4349d2c1fc0ee79e6e5ea38a48ae3d3c0604bbf841d78ea71421ac",
+    "archive_sha256": "bafc8bfdce4349d2c1fc0ee79e6e5ea38a48ae3d3c0604bbf841d78ea71421ac",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_real_wgs_benchmark.py": {
+    "source_sha256": "693c800de93ec8eb33cfe68a9f023fad7ba1b9dd7765e690e8ee2340ba093f47",
+    "archive_sha256": "693c800de93ec8eb33cfe68a9f023fad7ba1b9dd7765e690e8ee2340ba093f47",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_real_wgs_hybrid_benchmark.py": {
+    "source_sha256": "59a96b6198167dd27f63a9652490d776bdc5bca5aee04ace20c7e0691bf7fc21",
+    "archive_sha256": "59a96b6198167dd27f63a9652490d776bdc5bca5aee04ace20c7e0691bf7fc21",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_revision_audit_recompute.sh": {
+    "source_sha256": "0ae70eb7a94091cf744ad40da6b8cea652125f13948b309d18ffec0fb957d043",
+    "archive_sha256": "0ae70eb7a94091cf744ad40da6b8cea652125f13948b309d18ffec0fb957d043",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/run_secondary_placement_check.py": {
+    "source_sha256": "e84ef618614086770b6a2ad87d305bc60a27e61f7c64817f95e8f55910fba6c4",
+    "archive_sha256": "e84ef618614086770b6a2ad87d305bc60a27e61f7c64817f95e8f55910fba6c4",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/summarize_normalized_external.py": {
+    "source_sha256": "79655c3135134385398f850ad827c7b08bad422582f3f9b8c56b62f55433fddf",
+    "archive_sha256": "79655c3135134385398f850ad827c7b08bad422582f3f9b8c56b62f55433fddf",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/summarize_post_tie_rule.py": {
+    "source_sha256": "0c03156a7e73e840e4c8dc6699cd53c68caffd857f3a3ba9ebba73d74bcdba49",
+    "archive_sha256": "0c03156a7e73e840e4c8dc6699cd53c68caffd857f3a3ba9ebba73d74bcdba49",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/summarize_real_wgs_hybrid.py": {
+    "source_sha256": "b04cdcfba9f509e465a143f4c7927653d2ced668d7040432bfecdb4c403b3522",
+    "archive_sha256": "b04cdcfba9f509e465a143f4c7927653d2ced668d7040432bfecdb4c403b3522",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/summarize_shared_cross_method.py": {
+    "source_sha256": "8fd1ac92e63d0fdb1443c2055c5f222170718644edbde24a4e514ad92cf4b366",
+    "archive_sha256": "8fd1ac92e63d0fdb1443c2055c5f222170718644edbde24a4e514ad92cf4b366",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/test_asem_hybrid_boundary.py": {
+    "source_sha256": "206224e71d78ea9f3f5fb33b4debfdc4e7419ba3aec209fb3ba7afec365f7e47",
+    "archive_sha256": "206224e71d78ea9f3f5fb33b4debfdc4e7419ba3aec209fb3ba7afec365f7e47",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/test_asem_indels.py": {
+    "source_sha256": "2bece3d419ccbbd6e58b14f969d230ca6368b92782633093ca2c9126e3bba416",
+    "archive_sha256": "2bece3d419ccbbd6e58b14f969d230ca6368b92782633093ca2c9126e3bba416",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/test_common_evaluator.py": {
+    "source_sha256": "3908158fad17b8c577885160809fa10e798f331c8e248efd611424c5b9e6889a",
+    "archive_sha256": "3908158fad17b8c577885160809fa10e798f331c8e248efd611424c5b9e6889a",
+    "path_portability_edit": false
+  },
+  "followup/snapshot/scripts/test_strand_handling.py": {
+    "source_sha256": "daa40fc3d3808b4587a138b450718ffeaa34fc7465610ee5b38806e7078eeede",
+    "archive_sha256": "daa40fc3d3808b4587a138b450718ffeaa34fc7465610ee5b38806e7078eeede",
+    "path_portability_edit": false
+  },
+  "results/main_grid_seven_methods.csv": {
+    "source_sha256": "6cd201a5a7a5c42af787bb76f36f631233defde4df3e92466fa6c6e7fa2fcd1b",
+    "archive_sha256": "6cd201a5a7a5c42af787bb76f36f631233defde4df3e92466fa6c6e7fa2fcd1b",
+    "path_portability_edit": false
+  },
+  "results/mitobim_scored.csv": {
+    "source_sha256": "e88740fd9e40e0c34ab4717b4ad073b971acb3adce1c2caa98468e0362b1e029",
+    "archive_sha256": "e88740fd9e40e0c34ab4717b4ad073b971acb3adce1c2caa98468e0362b1e029",
+    "path_portability_edit": false
+  },
+  "analysis/acceptance.json": {
+    "source_sha256": "260774d0beacd978c89da7bd8a916022649762bf3b201e2699776dcc61e74b99",
+    "archive_sha256": "48ca75c369a5b6121d17738224ae81ebb65e12198e8403a1afd5817e9b267c35",
+    "path_portability_edit": true
+  },
+  "analysis/analysis_contract.json": {
+    "source_sha256": "6ef310c6b0ea0782a31a3ea8421dcdc2066c68c9c0c58accf2c05e6ef16a8c68",
+    "archive_sha256": "6ef310c6b0ea0782a31a3ea8421dcdc2066c68c9c0c58accf2c05e6ef16a8c68",
+    "path_portability_edit": false
+  },
+  "analysis/grid_execution_descriptive.csv": {
+    "source_sha256": "482f99edb78e41452d0d0d0044ced9fead20e7cc3087e474e71c6f5c6ace03ab",
+    "archive_sha256": "482f99edb78e41452d0d0d0044ced9fead20e7cc3087e474e71c6f5c6ace03ab",
+    "path_portability_edit": false
+  },
+  "analysis/high_depth_summary.csv": {
+    "source_sha256": "ba7fae002800ac642abec4033ca9fde5cd00d4e3842f4c1ae8d060fbd16d2a91",
+    "archive_sha256": "ba7fae002800ac642abec4033ca9fde5cd00d4e3842f4c1ae8d060fbd16d2a91",
+    "path_portability_edit": false
+  },
+  "analysis/leave_one_species_out.csv": {
+    "source_sha256": "abbf252036b8c48259fd8b108dc0975811b9f47b0101c08cba99d0b27c066a94",
+    "archive_sha256": "abbf252036b8c48259fd8b108dc0975811b9f47b0101c08cba99d0b27c066a94",
+    "path_portability_edit": false
+  },
+  "analysis/main_by_tier_depth.csv": {
+    "source_sha256": "43b39464172d327428f397cdec297baf4ce6c1dcff5fec51f3c652d47edf58f4",
+    "archive_sha256": "43b39464172d327428f397cdec297baf4ce6c1dcff5fec51f3c652d47edf58f4",
+    "path_portability_edit": false
+  },
+  "analysis/main_overall.csv": {
+    "source_sha256": "0167f10140f3aee038719d8c01d888d23df5b4a7293690e52d121024283473c9",
+    "archive_sha256": "0167f10140f3aee038719d8c01d888d23df5b4a7293690e52d121024283473c9",
+    "path_portability_edit": false
+  },
+  "analysis/mixed_controls.csv": {
+    "source_sha256": "d6cafd690105ccb34498aff91b0ec9b4b5841fe78bf6c24e095b2243a63ea177",
+    "archive_sha256": "d6cafd690105ccb34498aff91b0ec9b4b5841fe78bf6c24e095b2243a63ea177",
+    "path_portability_edit": false
+  },
+  "analysis/mixed_orientation_summary.csv": {
+    "source_sha256": "38c96c238ea0447afe01f7fac43f2687e2f47648c6327aa1c6690c60129077ef",
+    "archive_sha256": "38c96c238ea0447afe01f7fac43f2687e2f47648c6327aa1c6690c60129077ef",
+    "path_portability_edit": false
+  },
+  "analysis/old_new_pair_split.csv": {
+    "source_sha256": "2c923fbbf813290a1d09a69ebdb83c0fefe6c94cd52d35f839018bcff99b1c21",
+    "archive_sha256": "2c923fbbf813290a1d09a69ebdb83c0fefe6c94cd52d35f839018bcff99b1c21",
+    "path_portability_edit": false
+  },
+  "analysis/output_manifest.json": {
+    "source_sha256": "ce893698cbdd6c8f724a0f13f1e9936db42a73920d611a1f9e47e47ab0af74d4",
+    "archive_sha256": "ce893698cbdd6c8f724a0f13f1e9936db42a73920d611a1f9e47e47ab0af74d4",
+    "path_portability_edit": false
+  },
+  "analysis/paired_species_sensitivity.csv": {
+    "source_sha256": "a1e148a5653b2c1b80366fc9f649163b0b8238d3fa4dcfba4538935a097e9d19",
+    "archive_sha256": "a1e148a5653b2c1b80366fc9f649163b0b8238d3fa4dcfba4538935a097e9d19",
+    "path_portability_edit": false
+  },
+  "analysis/reference_baseline.csv": {
+    "source_sha256": "d2e63b6b5d79643a11ba5e2d7317517832b0210da5c7fda6570d5349bb800cd9",
+    "archive_sha256": "d2e63b6b5d79643a11ba5e2d7317517832b0210da5c7fda6570d5349bb800cd9",
+    "path_portability_edit": false
+  },
+  "analysis/reference_baseline.jsonl": {
+    "source_sha256": "245472d17d3262d53aedb8ac02cb2e11fac2b8795ce3e534984776a367c71ff7",
+    "archive_sha256": "245472d17d3262d53aedb8ac02cb2e11fac2b8795ce3e534984776a367c71ff7",
+    "path_portability_edit": false
+  },
+  "analysis/reference_net_changes.csv": {
+    "source_sha256": "e64f6c75f96323c16e61b225db1e209cb8b42dcd321f5b14d37e1196f3975260",
+    "archive_sha256": "e64f6c75f96323c16e61b225db1e209cb8b42dcd321f5b14d37e1196f3975260",
+    "path_portability_edit": false
+  },
+  "analysis/reference_net_changes_jobs.csv": {
+    "source_sha256": "f13ec5fbd1395c0d0b0ced3002ca989b49c8d129f046a34727154073d58b6068",
+    "archive_sha256": "f13ec5fbd1395c0d0b0ced3002ca989b49c8d129f046a34727154073d58b6068",
+    "path_portability_edit": false
+  },
+  "accepted/auxiliary_read_length.csv": {
+    "source_sha256": "e993b089241cf1a839e276266c4567f761fe58fd91c707f9846a3923d75e2f75",
+    "archive_sha256": "e993b089241cf1a839e276266c4567f761fe58fd91c707f9846a3923d75e2f75",
+    "path_portability_edit": false
+  },
+  "accepted/auxiliary_real_reads.csv": {
+    "source_sha256": "f39add098592e08f0b8bdeb3ac48ac67c9c83cdaa5f50698263ede98047d4ad0",
+    "archive_sha256": "f39add098592e08f0b8bdeb3ac48ac67c9c83cdaa5f50698263ede98047d4ad0",
+    "path_portability_edit": false
+  },
+  "accepted/auxiliary_runtime.csv": {
+    "source_sha256": "e156df8f01dafe9aeb0f63786683afac6608c4223192e96c85e5784d20027b5e",
+    "archive_sha256": "e156df8f01dafe9aeb0f63786683afac6608c4223192e96c85e5784d20027b5e",
+    "path_portability_edit": false
+  },
+  "accepted/empirical_means.csv": {
+    "source_sha256": "986f5b0e1fcd4468ae534fbf3efdcc1efee6a2b5b6a8094263e39985cb0f3c13",
+    "archive_sha256": "986f5b0e1fcd4468ae534fbf3efdcc1efee6a2b5b6a8094263e39985cb0f3c13",
+    "path_portability_edit": false
+  },
+  "accepted/grid_execution_descriptive.csv": {
+    "source_sha256": "482f99edb78e41452d0d0d0044ced9fead20e7cc3087e474e71c6f5c6ace03ab",
+    "archive_sha256": "482f99edb78e41452d0d0d0044ced9fead20e7cc3087e474e71c6f5c6ace03ab",
+    "path_portability_edit": false
+  },
+  "accepted/high_depth_summary.csv": {
+    "source_sha256": "ba7fae002800ac642abec4033ca9fde5cd00d4e3842f4c1ae8d060fbd16d2a91",
+    "archive_sha256": "ba7fae002800ac642abec4033ca9fde5cd00d4e3842f4c1ae8d060fbd16d2a91",
+    "path_portability_edit": false
+  },
+  "accepted/main_by_tier_depth.csv": {
+    "source_sha256": "43b39464172d327428f397cdec297baf4ce6c1dcff5fec51f3c652d47edf58f4",
+    "archive_sha256": "43b39464172d327428f397cdec297baf4ce6c1dcff5fec51f3c652d47edf58f4",
+    "path_portability_edit": false
+  },
+  "accepted/main_overall.csv": {
+    "source_sha256": "0167f10140f3aee038719d8c01d888d23df5b4a7293690e52d121024283473c9",
+    "archive_sha256": "0167f10140f3aee038719d8c01d888d23df5b4a7293690e52d121024283473c9",
+    "path_portability_edit": false
+  },
+  "accepted/mixed_controls.csv": {
+    "source_sha256": "d6cafd690105ccb34498aff91b0ec9b4b5841fe78bf6c24e095b2243a63ea177",
+    "archive_sha256": "d6cafd690105ccb34498aff91b0ec9b4b5841fe78bf6c24e095b2243a63ea177",
+    "path_portability_edit": false
+  },
+  "accepted/mixed_orientation_summary.csv": {
+    "source_sha256": "38c96c238ea0447afe01f7fac43f2687e2f47648c6327aa1c6690c60129077ef",
+    "archive_sha256": "38c96c238ea0447afe01f7fac43f2687e2f47648c6327aa1c6690c60129077ef",
+    "path_portability_edit": false
+  },
+  "accepted/old_new_pair_split.csv": {
+    "source_sha256": "2c923fbbf813290a1d09a69ebdb83c0fefe6c94cd52d35f839018bcff99b1c21",
+    "archive_sha256": "2c923fbbf813290a1d09a69ebdb83c0fefe6c94cd52d35f839018bcff99b1c21",
+    "path_portability_edit": false
+  },
+  "accepted/paired_species_sensitivity.csv": {
+    "source_sha256": "a1e148a5653b2c1b80366fc9f649163b0b8238d3fa4dcfba4538935a097e9d19",
+    "archive_sha256": "a1e148a5653b2c1b80366fc9f649163b0b8238d3fa4dcfba4538935a097e9d19",
+    "path_portability_edit": false
+  },
+  "accepted/read_length_means.csv": {
+    "source_sha256": "174b72813f2c603809af2be9949a752c36a594b01c41d707b5b1d9443cb37451",
+    "archive_sha256": "174b72813f2c603809af2be9949a752c36a594b01c41d707b5b1d9443cb37451",
+    "path_portability_edit": false
+  },
+  "accepted/reference_baseline.csv": {
+    "source_sha256": "d2e63b6b5d79643a11ba5e2d7317517832b0210da5c7fda6570d5349bb800cd9",
+    "archive_sha256": "d2e63b6b5d79643a11ba5e2d7317517832b0210da5c7fda6570d5349bb800cd9",
+    "path_portability_edit": false
+  },
+  "accepted/reference_net_changes.csv": {
+    "source_sha256": "e64f6c75f96323c16e61b225db1e209cb8b42dcd321f5b14d37e1196f3975260",
+    "archive_sha256": "e64f6c75f96323c16e61b225db1e209cb8b42dcd321f5b14d37e1196f3975260",
+    "path_portability_edit": false
+  },
+  "accepted/runtime_means.csv": {
+    "source_sha256": "147428d6cf208199d72fbd4b11eb5a919c92c0cf9804a38fda20e66342c6ecd1",
+    "archive_sha256": "147428d6cf208199d72fbd4b11eb5a919c92c0cf9804a38fda20e66342c6ecd1",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/check_postprocess.py": {
+    "source_sha256": "743ef0befa9e478884ea423e7fd01f9011075cff4dd95acdbe47bd45b3d54965",
+    "archive_sha256": "743ef0befa9e478884ea423e7fd01f9011075cff4dd95acdbe47bd45b3d54965",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/dispatch_p8.py": {
+    "source_sha256": "a8dad1af5c6ec37c524e03111d2b5bcb8f69006e7874074308fc44afb93e0612",
+    "archive_sha256": "a8dad1af5c6ec37c524e03111d2b5bcb8f69006e7874074308fc44afb93e0612",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/prepare_manuscript.py": {
+    "source_sha256": "61a788d9f2aa6b0ebc932a3791527d8b8a0d7fdcc046b11274e0eade52280bf6",
+    "archive_sha256": "61a788d9f2aa6b0ebc932a3791527d8b8a0d7fdcc046b11274e0eade52280bf6",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/reference_baseline.py": {
+    "source_sha256": "6ab5fea6c9c2aa10269ef9a90f52b34b9c917d0bc668b7aa7c17dc10fc9a0cee",
+    "archive_sha256": "6ab5fea6c9c2aa10269ef9a90f52b34b9c917d0bc668b7aa7c17dc10fc9a0cee",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/run_postprocess.py": {
+    "source_sha256": "dd54960ad6e6d0a1591d338dfafa7851cee1148a7eab0508ea3e825140c59679",
+    "archive_sha256": "dd54960ad6e6d0a1591d338dfafa7851cee1148a7eab0508ea3e825140c59679",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/score_mitobim_parallel.py": {
+    "source_sha256": "506e15498567e0861bd876a7369be6831ce374df9dbf541d6cf452b8dbabc45d",
+    "archive_sha256": "506e15498567e0861bd876a7369be6831ce374df9dbf541d6cf452b8dbabc45d",
+    "path_portability_edit": false
+  },
+  "tools/panel30_refresh/validate_manuscript.py": {
+    "source_sha256": "4c3bd9b88bb802705f0de1904a6b5864bd41b7b566b449595197d497d2cd4055",
+    "archive_sha256": "4c3bd9b88bb802705f0de1904a6b5864bd41b7b566b449595197d497d2cd4055",
+    "path_portability_edit": false
+  },
+  "tools/mitobim_grid/prepare_inputs.py": {
+    "source_sha256": "6d49a53b1728deaa681cb8a21cd9b46f8e44c4989215d8669f1d2beebba7183c",
+    "archive_sha256": "6d49a53b1728deaa681cb8a21cd9b46f8e44c4989215d8669f1d2beebba7183c",
+    "path_portability_edit": false
+  },
+  "tools/mitobim_grid/run_mitobim_jobs.py": {
+    "source_sha256": "8fa73b9f00572fedbe5059bd65dc9fbc107af4157b8c4aec3711d44ef0b0f727",
+    "archive_sha256": "8fa73b9f00572fedbe5059bd65dc9fbc107af4157b8c4aec3711d44ef0b0f727",
+    "path_portability_edit": false
+  },
+  "tools/mitobim_grid/score_mitobim.py": {
+    "source_sha256": "5e2d411009d93e2ae8e256a09658319249416e35b03efdffe62f21e1449a80bc",
+    "archive_sha256": "5e2d411009d93e2ae8e256a09658319249416e35b03efdffe62f21e1449a80bc",
+    "path_portability_edit": false
+  },
+  "tools/followup_experiments/run_followup.py": {
+    "source_sha256": "a8c55bc029843022b354db8f232665e9779680230db9dbad4c56abd15a1da925",
+    "archive_sha256": "a8c55bc029843022b354db8f232665e9779680230db9dbad4c56abd15a1da925",
+    "path_portability_edit": false
+  },
+  "taxonomy/panel30_species.py": {
+    "source_sha256": "cf27670aa0ff7e968eb79d3f9b357acafdfea1ff91b6cc7438466cc294760301",
+    "archive_sha256": "cf27670aa0ff7e968eb79d3f9b357acafdfea1ff91b6cc7438466cc294760301",
+    "path_portability_edit": false
+  },
+  "taxonomy/correction.json": {
+    "source_sha256": "f0f25c5a81409242f2f960b76e58467ded863121d92442a756d9278226d4e1ca",
+    "archive_sha256": "f0f25c5a81409242f2f960b76e58467ded863121d92442a756d9278226d4e1ca",
+    "path_portability_edit": false
+  },
+  "supplementary/S1_Text.pdf": {
+    "source_sha256": "e7129ddef4f697c4005ba686aacbfd50f3e25c8aa9d197a6ea6336112dbeaa4e",
+    "archive_sha256": "e7129ddef4f697c4005ba686aacbfd50f3e25c8aa9d197a6ea6336112dbeaa4e",
+    "path_portability_edit": false
+  },
+  "supplementary/S1_Table.pdf": {
+    "source_sha256": "cb2ea8b52e057d6ed2cd52fbd6c3fd9d960e6cd16131361d20246af3ae04b395",
+    "archive_sha256": "cb2ea8b52e057d6ed2cd52fbd6c3fd9d960e6cd16131361d20246af3ae04b395",
+    "path_portability_edit": false
+  },
+  "supplementary/S1_Fig.pdf": {
+    "source_sha256": "6d00a6c5826a49b1d039665aba90ce3e0b6c81c96e5a7dbb1af18bd80633112a",
+    "archive_sha256": "6d00a6c5826a49b1d039665aba90ce3e0b6c81c96e5a7dbb1af18bd80633112a",
+    "path_portability_edit": false
+  },
+  "supplementary/S2_Table.xlsx": {
+    "source_sha256": "d5d54c196df17ddd474faead368c8a328b06d1453136d0f45692e7fd97710028",
+    "archive_sha256": "d5d54c196df17ddd474faead368c8a328b06d1453136d0f45692e7fd97710028",
+    "path_portability_edit": false
+  },
+  "supplementary/S3_Table.xlsx": {
+    "source_sha256": "c48c9dcd115b8bb56a215706f01fd598cf300c82607857874c544e888a5d4d79",
+    "archive_sha256": "c48c9dcd115b8bb56a215706f01fd598cf300c82607857874c544e888a5d4d79",
+    "path_portability_edit": false
+  },
+  "supplementary/S4_Table.xlsx": {
+    "source_sha256": "509cf9afb78366575d8d4076e853500f125ea2c16213cc1cac1cddf9fa6f71d7",
+    "archive_sha256": "509cf9afb78366575d8d4076e853500f125ea2c16213cc1cac1cddf9fa6f71d7",
+    "path_portability_edit": false
+  },
+  "supplementary/S5_Table.xlsx": {
+    "source_sha256": "0434df7250b16c2d2324a1511192d04f73396e2cd2833eca4d95ae2cefbdab67",
+    "archive_sha256": "0434df7250b16c2d2324a1511192d04f73396e2cd2833eca4d95ae2cefbdab67",
+    "path_portability_edit": false
+  },
+  "supplementary/S6_Table.xlsx": {
+    "source_sha256": "eba66539ab681549cae27493de5f973645cf480603b4599f310c65287db66f99",
+    "archive_sha256": "eba66539ab681549cae27493de5f973645cf480603b4599f310c65287db66f99",
+    "path_portability_edit": false
+  },
+  "LICENSE-benchmarks": {
+    "source_sha256": "bd71421dce260ea7d5fb551097c8157966cc4d41c1b1db396d6c646861eba766",
+    "archive_sha256": "bd71421dce260ea7d5fb551097c8157966cc4d41c1b1db396d6c646861eba766",
+    "path_portability_edit": false
+  },
+  "LICENSE-implementation": {
+    "source_sha256": "bd71421dce260ea7d5fb551097c8157966cc4d41c1b1db396d6c646861eba766",
+    "archive_sha256": "bd71421dce260ea7d5fb551097c8157966cc4d41c1b1db396d6c646861eba766",
+    "path_portability_edit": false
+  }
+}

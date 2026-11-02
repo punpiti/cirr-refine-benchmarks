@@ -1,0 +1,3 @@
+
+# Preserve all archived evidence bytes and recorded SHA-256 values.
+tcbb-20261102/** -text

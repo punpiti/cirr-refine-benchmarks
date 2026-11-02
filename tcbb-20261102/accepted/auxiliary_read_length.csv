@@ -1,0 +1,1475 @@
+method,reference,target,divergence,length_condition,replicate,depth,n_reads,mean_read_len,status,error,runtime_s,theta_len,identity_pct,recall,precision,f1,c_theta,w_theta,u_t,host,experiment,condition,n_ambiguous,theta_fasta,theta_sha256
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,50.0,completed,,29.309740781784058,16471,99.97571931528468,0.9998178838098708,0.9999392872321048,0.9998785818358428,16470.0,1.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,50.0,completed,,29.01022291183472,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,50.0,completed,,28.818799018859863,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,75.0,completed,,29.096068620681763,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,75.0,completed,,27.591012239456177,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,75.0,completed,,27.100202560424805,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,100.0,completed,,25.288481950759888,16471,99.96357897292704,0.9998178616963148,0.9998178616963148,0.9998178616963148,16468.0,3.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,100.0,completed,,24.061068534851078,16471,99.97571931528468,0.9998178838098708,0.9999392872321048,0.9998785818358428,16470.0,1.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,100.0,completed,,24.01689577102661,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,150.0,completed,,24.368009090423584,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,150.0,completed,,26.00186920166016,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,150.0,completed,,26.424046516418457,16471,99.97571931528468,0.9998178838098708,0.9999392872321048,0.9998785818358428,16470.0,1.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,250.0,completed,,25.86371397972107,16472,99.98785965764236,0.9998785965764234,1.0,0.9999392946032902,16472.0,0.0,2.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,250.0,completed,,25.583975791931152,16471,99.96358118361154,0.9997571784131608,0.9999392835458408,0.9998482226876726,16469.0,1.0,4.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,250.0,completed,,25.15760350227356,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,300.0,completed,,25.6443989276886,16472,99.97572078907436,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,300.0,completed,,25.51816201210022,16471,99.97571931528468,0.9998178838098708,0.9999392872321048,0.9998785818358428,16470.0,1.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,300.0,completed,,25.553648948669437,16471,99.97571931528468,0.9998178838098708,0.9999392872321048,0.9998785818358428,16470.0,1.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,131.0755467196819,completed,,25.078205108642575,16471,99.98178948646353,0.9998178948646352,1.0,0.9999089391409924,16471.0,0.0,3.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,131.912,completed,,24.43551993370056,16471,99.96965098634294,0.999757193152847,1.0,0.9998785818358428,16470.0,0.0,4.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,50.0,completed,,20.609442234039307,16569,89.07587662718424,0.969060984945139,0.9566723345298822,0.9628268103311678,15191.0,688.0,485.0,think,,,,,
+SRSC,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,130.56435643564356,completed,,22.482775688171387,16471,99.93929828821172,0.999817817453088,0.9995750106247344,0.9996963992956464,16464.0,7.0,3.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,50.0,completed,,20.20344114303589,16569,88.96446581447168,0.9690234399948904,0.955475785628818,0.9622019279553526,15172.0,707.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,50.0,completed,,19.728238582611084,16569,88.77682655095579,0.96896,0.9534605453743938,0.9611477907567292,15140.0,739.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,75.0,completed,,20.0218403339386,16569,89.96129940189985,0.9693561635180388,0.966181749480446,0.9677663533716016,15342.0,537.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,75.0,completed,,19.644275665283203,16569,89.83229740823268,0.969313508383423,0.9647962718055292,0.9670496149476075,15320.0,559.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,75.0,completed,,20.162941455841064,16569,89.86161604315703,0.9693232131562304,0.9651111530952832,0.9672125974312852,15325.0,554.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,100.0,completed,,20.32795524597168,16569,88.67714319221297,0.968926191696566,0.952389948989231,0.9605869088830312,15123.0,756.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,100.0,completed,,18.959763765335083,16569,88.45432156678785,0.9688503532434168,0.9499968511871024,0.9593309803173392,15085.0,794.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,100.0,completed,,19.19355821609497,16569,88.51882256362144,0.9688723445221744,0.9506895900245608,0.9596948506039416,15096.0,783.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,150.0,completed,,19.42986488342285,15669,86.77550524974207,0.946511320005296,0.9191308819748008,0.9326201813319418,14298.0,1258.0,808.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,150.0,completed,,19.516752004623413,15669,86.7026764580931,0.9464687955479,0.9183594754435588,0.9322022838499184,14286.0,1270.0,808.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,150.0,completed,,19.61262536048889,16569,85.60455025214026,0.9678467250066296,0.9193903898230368,0.9429964796692828,14599.0,1280.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,250.0,completed,,19.900336980819706,16569,84.26175677260467,0.9673510602490744,0.9049688267523144,0.9351207132166328,14370.0,1509.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,250.0,completed,,20.430869817733765,10719,56.99368625546381,0.6200383065847699,0.8847422486099331,0.7291084187635913,9388.0,1223.0,5753.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,250.0,completed,,20.318785905838013,16572,84.30866658848365,0.967563930013459,0.9053015992947993,0.9353978270769632,14378.0,1504.0,482.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,300.0,completed,,20.87644743919373,12519,66.86498300145702,0.7358856150197101,0.8874385625654662,0.8045876251004458,11014.0,1397.0,3953.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,300.0,completed,,21.04561448097229,16568,83.7917082038351,0.9671720590226072,0.8998677498583034,0.9323067888950508,14289.0,1590.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,300.0,completed,,20.944769859313965,12519,66.86498300145702,0.7358856150197101,0.8874385625654662,0.8045876251004458,11014.0,1397.0,3953.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,132.01209677419354,completed,,20.33103895187378,16569,86.77729564911458,0.9682674692488876,0.9319856414131872,0.9497801880435132,14799.0,1080.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,130.58764940239044,completed,,18.871007442474365,15669,87.89828245433029,0.9471584592243804,0.9310233993314476,0.9390216228482512,14483.0,1073.0,808.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,50.0,completed,,16.943835496902466,16569,70.63465223762823,0.914410798978475,0.7935663627152989,0.8497135301895107,12532.0,3260.0,1173.0,think,,,,,
+SRSC,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,132.21370967741936,completed,,18.90513610839844,16569,87.2053477190102,0.968418310868008,0.936582908243592,0.9522346011012932,14872.0,1007.0,485.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,50.0,completed,,16.87200140953064,16569,70.63599458728011,0.9147864184008764,0.7930117736422332,0.8495575221238939,12528.0,3270.0,1167.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,50.0,completed,,17.5840163230896,16569,70.46953384814836,0.914289893228024,0.7916165389729627,0.8485424373027454,12502.0,3291.0,1172.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,75.0,completed,,17.52733087539673,16569,70.8904302712457,0.9152530032763014,0.7955825580659452,0.8512323943661972,12571.0,3230.0,1164.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,75.0,completed,,17.502984046936035,16569,70.71891739498167,0.9149401809162532,0.7938477118804987,0.8501033653031482,12542.0,3257.0,1166.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,75.0,completed,,18.05219769477844,16569,71.14245416078984,0.9160249891035884,0.7976469099879815,0.8527472527472527,12610.0,3199.0,1156.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,100.0,completed,,18.913780212402344,16569,69.54142929663264,0.9140040032619172,0.7800695982284087,0.8417423363146036,12329.0,3476.0,1160.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,100.0,completed,,19.342958450317383,16569,69.34747053183689,0.9136573042056768,0.7780801113712587,0.8404360753221011,12296.0,3507.0,1162.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,100.0,completed,,19.271782636642456,16569,69.22122596289404,0.9133864126795148,0.776849566483134,0.8396032831737346,12275.0,3526.0,1164.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,150.0,completed,,19.65590763092041,16569,68.08474671775511,0.9111680868712768,0.7653765756635206,0.8319333516937483,12083.0,3704.0,1178.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,150.0,completed,,19.78990578651428,16569,68.58688912688123,0.912143928035982,0.7704679288292281,0.8353413654618475,12168.0,3625.0,1172.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,150.0,completed,,19.912946701049805,16569,68.16388638412985,0.9114544084400904,0.765991133628879,0.8324156916724019,12095.0,3695.0,1175.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,250.0,completed,,19.7734968662262,16569,67.50802862133078,0.9103479714329128,0.7590750712701932,0.8278578090993886,11982.0,3803.0,1180.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,250.0,completed,,19.79012179374695,16569,67.50802862133078,0.9103479714329128,0.7590750712701932,0.8278578090993886,11982.0,3803.0,1180.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,250.0,completed,,19.02501225471497,16569,67.50802862133078,0.9103479714329128,0.7590750712701932,0.8278578090993886,11982.0,3803.0,1180.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,300.0,completed,,19.150319576263428,16569,67.50802862133078,0.9103479714329128,0.7590750712701932,0.8278578090993886,11982.0,3803.0,1180.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,300.0,completed,,19.35565757751465,16569,67.50802862133078,0.9103479714329128,0.7590750712701932,0.8278578090993886,11982.0,3803.0,1180.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,300.0,completed,,19.31437969207764,16569,67.50802862133078,0.9103479714329128,0.7590750712701932,0.8278578090993886,11982.0,3803.0,1180.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,130.02868068833652,completed,,19.1367769241333,16569,68.59993236388232,0.9120953237410072,0.7707066869300911,0.8354612850082371,12171.0,3621.0,1173.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,132.07198443579767,completed,,19.110676527023315,16569,68.67463090273864,0.9119275665968272,0.7719153787686851,0.8361004390779363,12187.0,3601.0,1177.0,think,,,,,
+SRSC,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,133.53241650294694,completed,,19.126131534576416,16569,68.80883928068098,0.91252990430622,0.7727761949984172,0.8368585238764527,12206.0,3589.0,1170.0,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,50.0,no_output,"no scaffold produced; stdout tail:
+d.
+
+2026-10-28 20:04:44,433 - INFO: Extending ...
+2026-10-28 20:04:44,433 - INFO: Adding initial words ...
+2026-10-28 20:04:44,443 - INFO: AW 19504
+2026-10-28 20:04:44,444 - INFO: Round 1: 1/1269 AI 1 AW 195042026-10-28 20:04:44,453 - INFO: Round 1: 1269/1269 AI 1264 AW 19518
+2026-10-28 20:04:44,454 - INFO: Round 2: 1/1269 AI 1264 AW 19518",4.3817009925842285,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,50.0,no_output,"no scaffold produced; stdout tail:
+4:48,738 - INFO: Setting '--pre-w 40'
+2026-10-28 20:04:48,738 - INFO: 61/61 used/duplicated
+2026-10-28 20:04:48,739 - INFO: 3 groups made.
+2026-10-28 20:04:48,739 - INFO: Making read index finished.
+
+2026-10-28 20:04:48,739 - INFO: Extending ...
+2026-10-28 20:04:48,739 - INFO: Adding initial words ...
+2026-10-28 20:04:48,749 - INFO: AW 19176
+2026-10-28 20:04:48,750 - INFO: Round 1: 1/1255 AI 1 AW 19176",4.197899580001831,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,50.0,no_output,"no scaffold produced; stdout tail:
+4:52,474 - INFO: Setting '--pre-w 40'
+2026-10-28 20:04:52,474 - INFO: 41/41 used/duplicated
+2026-10-28 20:04:52,475 - INFO: 3 groups made.
+2026-10-28 20:04:52,475 - INFO: Making read index finished.
+
+2026-10-28 20:04:52,476 - INFO: Extending ...
+2026-10-28 20:04:52,476 - INFO: Adding initial words ...
+2026-10-28 20:04:52,486 - INFO: AW 19082
+2026-10-28 20:04:52,486 - INFO: Round 1: 1/1275 AI 1 AW 19082",4.487612009048462,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,75.0,no_output,"no scaffold produced; stdout tail:
+8 20:04:52,966 - INFO: Setting '--pre-w 41'
+2026-10-28 20:04:52,966 - INFO: 19/19 used/duplicated
+2026-10-28 20:04:52,967 - INFO: 0 groups made.
+2026-10-28 20:04:52,967 - INFO: Making read index finished.
+
+2026-10-28 20:04:52,967 - INFO: Extending ...
+2026-10-28 20:04:52,967 - INFO: Adding initial words ...
+2026-10-28 20:04:52,993 - INFO: AW 27854
+2026-10-28 20:04:52,994 - INFO: Round 1: 1/860 AI 1 AW 27854",4.520413637161255,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,75.0,no_output,"no scaffold produced; stdout tail:
+8 20:04:57,176 - INFO: Setting '--pre-w 41'
+2026-10-28 20:04:57,177 - INFO: 16/16 used/duplicated
+2026-10-28 20:04:57,178 - INFO: 0 groups made.
+2026-10-28 20:04:57,178 - INFO: Making read index finished.
+
+2026-10-28 20:04:57,178 - INFO: Extending ...
+2026-10-28 20:04:57,178 - INFO: Adding initial words ...
+2026-10-28 20:04:57,210 - INFO: AW 28100
+2026-10-28 20:04:57,210 - INFO: Round 1: 1/863 AI 1 AW 28100",4.518475770950317,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,75.0,no_output,"no scaffold produced; stdout tail:
+57,573 - INFO: 1 reads2026-10-28 20:04:57,578 - INFO: 859 candidates in all 879 reads
+2026-10-28 20:04:57,578 - INFO: Pre-grouping reads ...
+2026-10-28 20:04:57,578 - INFO: Setting '--pre-w 41'
+2026-10-28 20:04:57,578 - INFO: 20/20 used/duplicated
+2026-10-28 20:04:57,579 - INFO: 0 groups made.
+2026-10-28 20:04:57,579 - INFO: Making read index finished.
+
+2026-10-28 20:04:57,579 - INFO: Extending ...
+2026-10-28 20:04:57,580 ",4.442482948303223,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,100.0,no_output,"no scaffold produced; stdout tail:
+ - INFO: 1 reads2026-10-28 20:05:01,763 - INFO: 645 candidates in all 659 reads
+2026-10-28 20:05:01,764 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:01,764 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:01,764 - INFO: 13/13 used/duplicated
+2026-10-28 20:05:01,766 - INFO: 1 groups made.
+2026-10-28 20:05:01,766 - INFO: Making read index finished.
+
+2026-10-28 20:05:01,766 - INFO: Extending ...
+2026-10-28 20:05:01,766 - INFO",4.686325073242188,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,100.0,no_output,"no scaffold produced; stdout tail:
+ - INFO: 1 reads2026-10-28 20:05:02,081 - INFO: 644 candidates in all 659 reads
+2026-10-28 20:05:02,081 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:02,081 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:02,081 - INFO: 15/15 used/duplicated
+2026-10-28 20:05:02,082 - INFO: 1 groups made.
+2026-10-28 20:05:02,082 - INFO: Making read index finished.
+
+2026-10-28 20:05:02,083 - INFO: Extending ...
+2026-10-28 20:05:02,083 - INFO",4.802481174468994,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,150.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:06,497 - INFO: 436 candidates in all 440 reads
+2026-10-28 20:05:06,498 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:06,498 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:06,498 - INFO: 4/4 used/duplicated
+2026-10-28 20:05:06,499 - INFO: 1 groups made.
+2026-10-28 20:05:06,499 - INFO: Making read index finished.
+
+2026-10-28 20:05:06,500 - INFO: Extending ...
+2026-10-28 20:05:06,500 - INFO: Adding",4.883756399154663,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,100.0,no_output,"no scaffold produced; stdout tail:
+ - INFO: 1 reads2026-10-28 20:05:06,549 - INFO: 645 candidates in all 659 reads
+2026-10-28 20:05:06,550 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:06,550 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:06,550 - INFO: 13/13 used/duplicated
+2026-10-28 20:05:06,552 - INFO: 1 groups made.
+2026-10-28 20:05:06,552 - INFO: Making read index finished.
+
+2026-10-28 20:05:06,552 - INFO: Extending ...
+2026-10-28 20:05:06,552 - INFO",4.975451946258545,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,150.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:07,061 - INFO: 435 candidates in all 440 reads
+2026-10-28 20:05:07,061 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:07,061 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:07,061 - INFO: 5/5 used/duplicated
+2026-10-28 20:05:07,062 - INFO: 0 groups made.
+2026-10-28 20:05:07,062 - INFO: Making read index finished.
+
+2026-10-28 20:05:07,062 - INFO: Extending ...
+2026-10-28 20:05:07,062 - INFO: Adding",4.742258787155151,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,150.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:11,823 - INFO: 438 candidates in all 440 reads
+2026-10-28 20:05:11,824 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:11,824 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:11,824 - INFO: 2/2 used/duplicated
+2026-10-28 20:05:11,825 - INFO: 0 groups made.
+2026-10-28 20:05:11,825 - INFO: Making read index finished.
+
+2026-10-28 20:05:11,825 - INFO: Extending ...
+2026-10-28 20:05:11,825 - INFO: Adding",5.290754079818726,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,250.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:11,991 - INFO: 262 candidates in all 264 reads
+2026-10-28 20:05:11,992 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:11,992 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:11,993 - INFO: 2/2 used/duplicated
+2026-10-28 20:05:11,994 - INFO: 0 groups made.
+2026-10-28 20:05:11,994 - INFO: Making read index finished.
+
+2026-10-28 20:05:11,995 - INFO: Extending ...
+2026-10-28 20:05:11,995 - INFO: Adding",5.7832581996917725,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,250.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:14,101 - INFO: 259 candidates in all 264 reads
+2026-10-28 20:05:14,102 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:14,102 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:14,102 - INFO: 5/5 used/duplicated
+2026-10-28 20:05:14,103 - INFO: 0 groups made.
+2026-10-28 20:05:14,103 - INFO: Making read index finished.
+
+2026-10-28 20:05:14,103 - INFO: Extending ...
+2026-10-28 20:05:14,103 - INFO: Adding",7.3256285190582275,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,300.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:17,008 - INFO: 220 candidates in all 220 reads
+2026-10-28 20:05:17,008 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:17,008 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:17,008 - INFO: 0/0 used/duplicated
+2026-10-28 20:05:17,008 - INFO: 0 groups made.
+2026-10-28 20:05:17,008 - INFO: Making read index finished.
+
+2026-10-28 20:05:17,008 - INFO: Extending ...
+2026-10-28 20:05:17,009 - INFO: Adding",4.395745754241943,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,250.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:18,018 - INFO: 262 candidates in all 264 reads
+2026-10-28 20:05:18,019 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:18,019 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:18,019 - INFO: 2/2 used/duplicated
+2026-10-28 20:05:18,019 - INFO: 0 groups made.
+2026-10-28 20:05:18,020 - INFO: Making read index finished.
+
+2026-10-28 20:05:18,020 - INFO: Extending ...
+2026-10-28 20:05:18,020 - INFO: Adding",6.84920597076416,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,300.0,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:21,245 - INFO: 217 candidates in all 220 reads
+2026-10-28 20:05:21,245 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:21,245 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:21,245 - INFO: 3/3 used/duplicated
+2026-10-28 20:05:21,246 - INFO: 0 groups made.
+2026-10-28 20:05:21,246 - INFO: Making read index finished.
+
+2026-10-28 20:05:21,246 - INFO: Extending ...
+2026-10-28 20:05:21,247 - INFO: Adding",4.342211723327637,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,300.0,no_output,"no scaffold produced; stdout tail:
+: 1 reads2026-10-28 20:05:20,397 - INFO: 217 candidates in all 220 reads
+2026-10-28 20:05:20,397 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:20,397 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:20,397 - INFO: 3/3 used/duplicated
+2026-10-28 20:05:20,398 - INFO: 0 groups made.
+2026-10-28 20:05:20,398 - INFO: Making read index finished.
+
+2026-10-28 20:05:20,398 - INFO: Extending ...
+2026-10-28 20:05:20,398 - INFO: Adding ",7.265397548675537,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,131.0755467196819,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:23,116 - INFO: 484 candidates in all 503 reads
+2026-10-28 20:05:23,116 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:23,116 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:23,116 - INFO: 6/6 used/duplicated
+2026-10-28 20:05:23,117 - INFO: 1 groups made.
+2026-10-28 20:05:23,117 - INFO: Making read index finished.
+
+2026-10-28 20:05:23,117 - INFO: Extending ...
+2026-10-28 20:05:23,118 - INFO: Adding",4.172938108444214,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,50.0,no_output,"no scaffold produced; stdout tail:
+INFO: Round 1: 1/1250 AI 0 AW 45502026-10-28 20:05:27,327 - INFO: Round 1: 1250/1250 AI 366 AW 5116
+2026-10-28 20:05:27,328 - INFO: Round 2: 1/1250 AI 366 AW 51162026-10-28 20:05:27,330 - INFO: Round 2: 1250/1250 AI 389 AW 5306
+2026-10-28 20:05:27,330 - INFO: Round 3: 1/1250 AI 389 AW 5306",4.096322298049927,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,131.912,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:27,241 - INFO: 495 candidates in all 500 reads
+2026-10-28 20:05:27,242 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:27,242 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:27,242 - INFO: 0/0 used/duplicated
+2026-10-28 20:05:27,242 - INFO: 0 groups made.
+2026-10-28 20:05:27,242 - INFO: Making read index finished.
+
+2026-10-28 20:05:27,242 - INFO: Extending ...
+2026-10-28 20:05:27,242 - INFO: Adding",6.397171974182129,0,,,,,,,,think,,,,,
+GetOrganelle,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,130.56435643564356,no_output,"no scaffold produced; stdout tail:
+O: 1 reads2026-10-28 20:05:27,593 - INFO: 490 candidates in all 505 reads
+2026-10-28 20:05:27,593 - INFO: Pre-grouping reads ...
+2026-10-28 20:05:27,593 - INFO: Setting '--pre-w 41'
+2026-10-28 20:05:27,593 - INFO: 3/3 used/duplicated
+2026-10-28 20:05:27,594 - INFO: 0 groups made.
+2026-10-28 20:05:27,594 - INFO: Making read index finished.
+
+2026-10-28 20:05:27,594 - INFO: Extending ...
+2026-10-28 20:05:27,594 - INFO: Adding",6.880803346633911,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,50.0,no_output,"no scaffold produced; stdout tail:
+: Round 3: 1/1275 AI 379 AW 51862026-10-28 20:05:31,659 - INFO: Round 3: 1275/1275 AI 381 AW 5196
+2026-10-28 20:05:31,659 - INFO: Round 4: 1/1275 AI 381 AW 51962026-10-28 20:05:31,663 - INFO: Round 4: 1275/1275 AI 385 AW 5238
+2026-10-28 20:05:31,663 - INFO: Round 5: 1/1275 AI 385 AW 5238",4.427578449249268,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,50.0,no_output,"no scaffold produced; stdout tail:
+INFO: Round 1: 1/1256 AI 0 AW 46162026-10-28 20:05:31,669 - INFO: Round 1: 1256/1256 AI 364 AW 5060
+2026-10-28 20:05:31,669 - INFO: Round 2: 1/1256 AI 364 AW 50602026-10-28 20:05:31,671 - INFO: Round 2: 1256/1256 AI 373 AW 5110
+2026-10-28 20:05:31,671 - INFO: Round 3: 1/1256 AI 373 AW 5110",4.37985897064209,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,75.0,no_output,"no scaffold produced; stdout tail:
+Round 2: 1/848 AI 481 AW 135202026-10-28 20:05:32,286 - INFO: Round 2: 848/848 AI 535 AW 14626
+2026-10-28 20:05:32,286 - INFO: Round 3: 1/848 AI 535 AW 146262026-10-28 20:05:32,288 - INFO: Round 3: 848/848 AI 556 AW 15050
+2026-10-28 20:05:32,288 - INFO: Round 4: 1/848 AI 556 AW 15050",4.441514015197754,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,75.0,no_output,"no scaffold produced; stdout tail:
+Round 2: 1/852 AI 443 AW 129822026-10-28 20:05:33,197 - INFO: Round 2: 852/852 AI 504 AW 14206
+2026-10-28 20:05:33,197 - INFO: Round 3: 1/852 AI 504 AW 142062026-10-28 20:05:33,201 - INFO: Round 3: 852/852 AI 531 AW 14718
+2026-10-28 20:05:33,201 - INFO: Round 4: 1/852 AI 531 AW 14718",4.470221281051636,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,75.0,no_output,"no scaffold produced; stdout tail:
+Round 2: 1/845 AI 464 AW 135482026-10-28 20:05:35,963 - INFO: Round 2: 845/845 AI 555 AW 15310
+2026-10-28 20:05:35,963 - INFO: Round 3: 1/845 AI 555 AW 153102026-10-28 20:05:35,966 - INFO: Round 3: 845/845 AI 579 AW 15786
+2026-10-28 20:05:35,966 - INFO: Round 4: 1/845 AI 579 AW 15786",4.350827693939209,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,100.0,no_output,"no scaffold produced; stdout tail:
+2: 1/643 AI 401 AW 160642026-10-28 20:05:35,982 - INFO: Round 2: 643/643 AI 460 AW 18168
+2026-10-28 20:05:35,982 - INFO: Round 3: 1/643 AI 460 AW 181682026-10-28 20:05:35,984 - INFO: Round 3: 643/643 AI 483 AW 18908
+2026-10-28 20:05:35,984 - INFO: Round 4: 1/643 AI 483 AW 189082",4.534826993942261,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,100.0,no_output,"no scaffold produced; stdout tail:
+4: 1/640 AI 490 AW 196082026-10-28 20:05:36,720 - INFO: Round 4: 640/640 AI 498 AW 19836
+2026-10-28 20:05:36,720 - INFO: Round 5: 1/640 AI 498 AW 198362026-10-28 20:05:36,721 - INFO: Round 5: 640/640 AI 500 AW 19900
+2026-10-28 20:05:36,722 - INFO: Round 6: 1/640 AI 500 AW 199002",4.4165143966674805,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,100.0,no_output,"no scaffold produced; stdout tail:
+3: 1/643 AI 462 AW 189142026-10-28 20:05:37,544 - INFO: Round 3: 643/643 AI 489 AW 19804
+2026-10-28 20:05:37,545 - INFO: Round 4: 1/643 AI 489 AW 198042026-10-28 20:05:37,546 - INFO: Round 4: 643/643 AI 499 AW 20124
+2026-10-28 20:05:37,547 - INFO: Round 5: 1/643 AI 499 AW 201242",4.479881048202515,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,150.0,no_output,"no scaffold produced; stdout tail:
+ AI 328 AW 223422026-10-28 20:05:40,595 - INFO: Round 2: 434/434 AI 382 AW 25142
+2026-10-28 20:05:40,596 - INFO: Round 3: 1/434 AI 382 AW 251422026-10-28 20:05:40,597 - INFO: Round 3: 434/434 AI 407 AW 26572
+2026-10-28 20:05:40,598 - INFO: Round 4: 1/434 AI 407 AW 265722026-10-2",4.825662612915039,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,150.0,no_output,"no scaffold produced; stdout tail:
+ AI 312 AW 203122026-10-28 20:05:40,938 - INFO: Round 2: 427/427 AI 360 AW 23106
+2026-10-28 20:05:40,938 - INFO: Round 3: 1/427 AI 360 AW 231062026-10-28 20:05:40,941 - INFO: Round 3: 427/427 AI 393 AW 25024
+2026-10-28 20:05:40,941 - INFO: Round 4: 1/427 AI 393 AW 250242026-10-2",5.133381366729736,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,150.0,no_output,"no scaffold produced; stdout tail:
+ AI 311 AW 213862026-10-28 20:05:41,384 - INFO: Round 2: 432/432 AI 388 AW 25660
+2026-10-28 20:05:41,384 - INFO: Round 3: 1/432 AI 389 AW 257082026-10-28 20:05:41,387 - INFO: Round 3: 432/432 AI 413 AW 26446
+2026-10-28 20:05:41,387 - INFO: Round 4: 1/432 AI 413 AW 264462026-10-2",4.851786136627197,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,250.0,no_output,"no scaffold produced; stdout tail:
+/259 AI 1 AW 182142026-10-28 20:05:42,849 - INFO: Round 1: 259/259 AI 213 AW 25212
+2026-10-28 20:05:42,849 - INFO: Round 2: 1/259 AI 213 AW 252122026-10-28 20:05:42,852 - INFO: Round 2: 259/259 AI 248 AW 29124
+2026-10-28 20:05:42,853 - INFO: Round 3: 1/259 AI 248 AW 291242026-10-2",6.1982057094573975,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,250.0,no_output,"no scaffold produced; stdout tail:
+ AI 237 AW 261122026-10-28 20:05:45,188 - INFO: Round 3: 260/260 AI 248 AW 27532
+2026-10-28 20:05:45,188 - INFO: Round 4: 1/260 AI 248 AW 275322026-10-28 20:05:45,190 - INFO: Round 4: 260/260 AI 258 AW 28300
+2026-10-28 20:05:45,190 - INFO: Round 5: 1/260 AI 258 AW 283002026-10-2",4.628745079040527,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,250.0,no_output,"no scaffold produced; stdout tail:
+.
+
+2026-10-28 20:05:45,678 - INFO: Extending ...
+2026-10-28 20:05:45,678 - INFO: Adding initial words ...
+2026-10-28 20:05:45,694 - INFO: AW 17890
+2026-10-28 20:05:45,695 - INFO: Round 1: 1/259 AI 1 AW 179002026-10-28 20:05:45,715 - INFO: Round 1: 259/259 AI 208 AW 23044
+2026-10-28 20:05:45,715 - INFO: Round 2: 1/259 AI 208 AW 230442026-10-2",4.670943975448608,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,300.0,no_output,"no scaffold produced; stdout tail:
+/218 AI 1 AW 183662026-10-28 20:05:46,117 - INFO: Round 1: 218/218 AI 186 AW 26566
+2026-10-28 20:05:46,117 - INFO: Round 2: 1/218 AI 186 AW 265662026-10-28 20:05:46,121 - INFO: Round 2: 218/218 AI 215 AW 29184
+2026-10-28 20:05:46,122 - INFO: Round 3: 1/218 AI 215 AW 291842026-10-2",4.957252025604248,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,300.0,no_output,"no scaffold produced; stdout tail:
+ AI 181 AW 245442026-10-28 20:05:49,153 - INFO: Round 2: 219/219 AI 205 AW 27690
+2026-10-28 20:05:49,154 - INFO: Round 3: 1/219 AI 205 AW 276902026-10-28 20:05:49,155 - INFO: Round 3: 219/219 AI 211 AW 28370
+2026-10-28 20:05:49,156 - INFO: Round 4: 1/219 AI 211 AW 283702026-10-2",5.564919233322144,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,300.0,no_output,"no scaffold produced; stdout tail:
+ AI 192 AW 272502026-10-28 20:05:50,727 - INFO: Round 2: 216/216 AI 207 AW 29044
+2026-10-28 20:05:50,727 - INFO: Round 3: 1/216 AI 207 AW 290442026-10-28 20:05:50,728 - INFO: Round 3: 216/216 AI 214 AW 29752
+2026-10-28 20:05:50,728 - INFO: Round 4: 1/216 AI 214 AW 297522026-10-2",5.45839262008667,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,132.01209677419354,no_output,"no scaffold produced; stdout tail:
+ AI 374 AW 214842026-10-28 20:05:51,223 - INFO: Round 2: 487/487 AI 435 AW 24118
+2026-10-28 20:05:51,223 - INFO: Round 3: 1/487 AI 435 AW 241182026-10-28 20:05:51,224 - INFO: Round 3: 487/487 AI 443 AW 24630
+2026-10-28 20:05:51,225 - INFO: Round 4: 1/487 AI 443 AW 246302026-10-2",5.525535583496094,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,130.58764940239044,no_output,"no scaffold produced; stdout tail:
+ AI 391 AW 226382026-10-28 20:05:51,642 - INFO: Round 2: 489/489 AI 427 AW 24058
+2026-10-28 20:05:51,642 - INFO: Round 3: 1/489 AI 427 AW 240582026-10-28 20:05:51,643 - INFO: Round 3: 489/489 AI 439 AW 24658
+2026-10-28 20:05:51,644 - INFO: Round 4: 1/489 AI 439 AW 246582026-10-2",5.256198167800903,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,50.0,no_output,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 20:05:53,558 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:53,560 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:53,560 - INFO: Counting read lengths ...
+2026-10-28 20:05:53,561 - INFO: Mean = 50.0 bp, maximum = 50 bp.
+2026-10-28 20:05:53,561 - INFO: Reads used = 1358
+2026-10-28 20:05:53,561 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:53,561 - INFO: Making seed reads ...
+2026-10-28 20:05:53,565",2.239825963973999,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,50.0,no_output,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 20:05:54,188 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:54,190 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:54,191 - INFO: Counting read lengths ...
+2026-10-28 20:05:54,193 - INFO: Mean = 50.0 bp, maximum = 50 bp.
+2026-10-28 20:05:54,194 - INFO: Reads used = 1358
+2026-10-28 20:05:54,194 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:54,194 - INFO: Making seed reads ...
+2026-10-28 20:05:54,198",2.2580249309539795,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,132.21370967741936,no_output,"no scaffold produced; stdout tail:
+ AI 380 AW 223402026-10-28 20:05:53,953 - INFO: Round 2: 486/486 AI 438 AW 24670
+2026-10-28 20:05:53,954 - INFO: Round 3: 1/486 AI 438 AW 246702026-10-28 20:05:53,955 - INFO: Round 3: 486/486 AI 449 AW 24864
+2026-10-28 20:05:53,955 - INFO: Round 4: 1/486 AI 449 AW 248642026-10-2",4.596919775009155,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,50.0,no_output,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 20:05:54,456 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:54,458 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:54,458 - INFO: Counting read lengths ...
+2026-10-28 20:05:54,460 - INFO: Mean = 50.0 bp, maximum = 50 bp.
+2026-10-28 20:05:54,460 - INFO: Reads used = 1358
+2026-10-28 20:05:54,460 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:54,460 - INFO: Making seed reads ...
+2026-10-28 20:05:54,464",2.2933037281036377,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,75.0,no_output,"no scaffold produced; stdout tail:
+hred offset = 33
+2026-10-28 20:05:55,781 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:55,783 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:55,784 - INFO: Counting read lengths ...
+2026-10-28 20:05:55,785 - INFO: Mean = 75.0 bp, maximum = 75 bp.
+2026-10-28 20:05:55,785 - INFO: Reads used = 905
+2026-10-28 20:05:55,785 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:55,785 - INFO: Making seed reads ...
+2026-10-28 20:05:55,791",2.240553855895996,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,75.0,no_output,"no scaffold produced; stdout tail:
+Phred offset = 33
+2026-10-28 20:05:56,375 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:56,377 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:56,378 - INFO: Counting read lengths ...
+2026-10-28 20:05:56,379 - INFO: Mean = 75.0 bp, maximum = 75 bp.
+2026-10-28 20:05:56,380 - INFO: Reads used = 905
+2026-10-28 20:05:56,380 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:56,380 - INFO: Making seed reads ...
+2026-10-28 20:05:56,38",2.2372469902038574,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,75.0,no_output,"no scaffold produced; stdout tail:
+hred offset = 33
+2026-10-28 20:05:56,550 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:56,552 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:56,552 - INFO: Counting read lengths ...
+2026-10-28 20:05:56,553 - INFO: Mean = 75.0 bp, maximum = 75 bp.
+2026-10-28 20:05:56,553 - INFO: Reads used = 905
+2026-10-28 20:05:56,553 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:56,553 - INFO: Making seed reads ...
+2026-10-28 20:05:56,558",2.1860060691833496,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,100.0,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:05:56,612 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:56,614 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:56,614 - INFO: Counting read lengths ...
+2026-10-28 20:05:56,615 - INFO: Mean = 100.0 bp, maximum = 100 bp.
+2026-10-28 20:05:56,615 - INFO: Reads used = 679
+2026-10-28 20:05:56,615 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:56,615 - INFO: Making seed reads ...
+2026-10-28 20:05:56,619",2.1973423957824707,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,100.0,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:05:58,045 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:58,048 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:58,049 - INFO: Counting read lengths ...
+2026-10-28 20:05:58,050 - INFO: Mean = 100.0 bp, maximum = 100 bp.
+2026-10-28 20:05:58,050 - INFO: Reads used = 679
+2026-10-28 20:05:58,050 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:58,050 - INFO: Making seed reads ...
+2026-10-28 20:05:58,055",2.300905466079712,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,100.0,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:05:58,691 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:58,693 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:58,693 - INFO: Counting read lengths ...
+2026-10-28 20:05:58,694 - INFO: Mean = 100.0 bp, maximum = 100 bp.
+2026-10-28 20:05:58,694 - INFO: Reads used = 679
+2026-10-28 20:05:58,694 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:58,694 - INFO: Making seed reads ...
+2026-10-28 20:05:58,698",2.2750415802001958,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,150.0,no_output,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 20:05:58,790 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:58,792 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:58,792 - INFO: Counting read lengths ...
+2026-10-28 20:05:58,793 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 20:05:58,793 - INFO: Reads used = 453
+2026-10-28 20:05:58,793 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:58,793 - INFO: Making seed reads ...
+2026-10-28 20:05:58,79",2.183923959732056,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,150.0,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:05:58,806 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:05:58,808 - INFO: Mean error rate = 0.0006
+2026-10-28 20:05:58,808 - INFO: Counting read lengths ...
+2026-10-28 20:05:58,809 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 20:05:58,809 - INFO: Reads used = 453
+2026-10-28 20:05:58,809 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:05:58,809 - INFO: Making seed reads ...
+2026-10-28 20:05:58,813",2.158146858215332,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,150.0,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:06:00,314 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:00,317 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:00,317 - INFO: Counting read lengths ...
+2026-10-28 20:06:00,318 - INFO: Mean = 150.0 bp, maximum = 150 bp.
+2026-10-28 20:06:00,319 - INFO: Reads used = 453
+2026-10-28 20:06:00,319 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:06:00,319 - INFO: Making seed reads ...
+2026-10-28 20:06:00,324",2.228821277618408,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,250.0,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:06:00,911 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:00,913 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:00,913 - INFO: Counting read lengths ...
+2026-10-28 20:06:00,914 - INFO: Mean = 250.0 bp, maximum = 250 bp.
+2026-10-28 20:06:00,914 - INFO: Reads used = 272
+2026-10-28 20:06:00,914 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:06:00,914 - INFO: Making seed reads ...
+2026-10-28 20:06:00,917",2.240618705749512,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,250.0,no_output,"no scaffold produced; stdout tail:
+ad qualities ...
+2026-10-28 20:06:00,973 - INFO: Identified quality encoding format = Sanger
+2026-10-28 20:06:00,973 - INFO: Phred offset = 33
+2026-10-28 20:06:00,973 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:00,975 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:00,975 - INFO: Counting read lengths ...
+2026-10-28 20:06:00,976 - INFO: Mean = 250.0 bp, maximum = 250 bp.
+2026-10-28 20:06:00,976 - INFO: Reads used = 272
+2026-10-28",2.1603798866271973,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,250.0,no_output,"no scaffold produced; stdout tail:
+red offset = 33
+2026-10-28 20:06:01,042 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:01,044 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:01,044 - INFO: Counting read lengths ...
+2026-10-28 20:06:01,045 - INFO: Mean = 250.0 bp, maximum = 250 bp.
+2026-10-28 20:06:01,045 - INFO: Reads used = 272
+2026-10-28 20:06:01,045 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:06:01,045 - INFO: Making seed reads ...
+2026-10-28 20:06:01,04",2.2422454357147217,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,300.0,no_output,"no scaffold produced; stdout tail:
+ad qualities ...
+2026-10-28 20:06:02,463 - INFO: Identified quality encoding format = Sanger
+2026-10-28 20:06:02,464 - INFO: Phred offset = 33
+2026-10-28 20:06:02,464 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:02,466 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:02,466 - INFO: Counting read lengths ...
+2026-10-28 20:06:02,466 - INFO: Mean = 300.0 bp, maximum = 300 bp.
+2026-10-28 20:06:02,466 - INFO: Reads used = 227
+2026-10-28",2.1599442958831787,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,300.0,no_output,"no scaffold produced; stdout tail:
+ad qualities ...
+2026-10-28 20:06:03,028 - INFO: Identified quality encoding format = Sanger
+2026-10-28 20:06:03,028 - INFO: Phred offset = 33
+2026-10-28 20:06:03,029 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:03,030 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:03,031 - INFO: Counting read lengths ...
+2026-10-28 20:06:03,031 - INFO: Mean = 300.0 bp, maximum = 300 bp.
+2026-10-28 20:06:03,031 - INFO: Reads used = 227
+2026-10-28",2.1245040893554688,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,300.0,no_output,"no scaffold produced; stdout tail:
+ad qualities ...
+2026-10-28 20:06:03,084 - INFO: Identified quality encoding format = Sanger
+2026-10-28 20:06:03,084 - INFO: Phred offset = 33
+2026-10-28 20:06:03,084 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:03,086 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:03,087 - INFO: Counting read lengths ...
+2026-10-28 20:06:03,087 - INFO: Mean = 300.0 bp, maximum = 300 bp.
+2026-10-28 20:06:03,087 - INFO: Reads used = 227
+2026-10-28",2.1813197135925293,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,130.02868068833652,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:06:03,229 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:03,232 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:03,232 - INFO: Counting read lengths ...
+2026-10-28 20:06:03,233 - INFO: Mean = 130.0 bp, maximum = 150 bp.
+2026-10-28 20:06:03,233 - INFO: Reads used = 523
+2026-10-28 20:06:03,233 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:06:03,233 - INFO: Making seed reads ...
+2026-10-28 20:06:03,238",2.21551251411438,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,132.07198443579767,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:06:04,612 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:04,614 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:04,614 - INFO: Counting read lengths ...
+2026-10-28 20:06:04,614 - INFO: Mean = 132.1 bp, maximum = 150 bp.
+2026-10-28 20:06:04,614 - INFO: Reads used = 514
+2026-10-28 20:06:04,614 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:06:04,614 - INFO: Making seed reads ...
+2026-10-28 20:06:04,617",2.115428686141968,0,,,,,,,,think,,,,,
+GetOrganelle,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,133.53241650294694,no_output,"no scaffold produced; stdout tail:
+ed offset = 33
+2026-10-28 20:06:05,070 - INFO: Trimming bases with qualities (0.00%): 33..33  !
+2026-10-28 20:06:05,072 - INFO: Mean error rate = 0.0006
+2026-10-28 20:06:05,072 - INFO: Counting read lengths ...
+2026-10-28 20:06:05,073 - INFO: Mean = 133.5 bp, maximum = 150 bp.
+2026-10-28 20:06:05,073 - INFO: Reads used = 509
+2026-10-28 20:06:05,073 - INFO: Pre-reading fastq finished.
+
+2026-10-28 20:06:05,073 - INFO: Making seed reads ...
+2026-10-28 20:06:05,077",1.9358539581298828,0,,,,,,,,think,,,,,
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,,completed,,85.9477858543396,16473,98.56743960179676,0.9999384198534392,0.9857342317732046,0.9927855221325508,16238.0,235.0,1.0,think,read_length,,235.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__50__r0.fa.gz,5fdac0599f6e2f61df9084b3ae36a9f66d19c70fb31e38775af5f90748b05cd5
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,,completed,,89.90497922897339,16474,98.43389583586256,1.0,0.9843389583586256,0.9921076781890488,16216.0,258.0,0.0,think,read_length,,258.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__50__r1.fa.gz,bac5dfb1bc8fed6ad13048aa310f5fc5131a669605518476ed49033cd38da0a6
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,,completed,,105.4644739627838,16474,97.98470316862937,1.0,0.9798470316862936,0.9898209467745892,16142.0,332.0,0.0,think,read_length,,332.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__50__r2.fa.gz,cb30f1e2064c013bc18f613ea2664395f460e68510877009cc8e1969ce602eb3
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,,completed,,123.16245698928832,16474,97.84508923151633,1.0,0.9784508923151632,0.9891080906943208,16119.0,355.0,0.0,think,read_length,,355.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__75__r0.fa.gz,8ec98f5d4f992f544ea7050f806d84da1507b4486ed142b5b4f0e96cc9e918be
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,,completed,,109.32615232467651,16474,98.55529925943912,1.0,0.9855529925943912,0.9927239376337512,16236.0,238.0,0.0,think,read_length,,238.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__75__r1.fa.gz,47deaa8e42b912df3a89d9b6b24103a20312701e4fe34eab4f4145cdbeb01d3b
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,,completed,,98.42601919174194,16474,97.79045769090688,1.0,0.9779045769090688,0.9888288730665358,16110.0,364.0,0.0,think,read_length,,364.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__75__r2.fa.gz,bfe6259878a7b3dfadca4d8abc79835668ed66f9b6bbc2bbab48cf550990e283
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,,completed,,88.71062660217285,16474,98.58565011533324,1.0,0.9858565011533326,0.9928778847623414,16241.0,233.0,0.0,think,read_length,,233.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__100__r0.fa.gz,98631fbdd58d59c84716661e8e4e015fa67a776ab3d607870aea4756aba68bbc
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,,completed,,119.39553260803224,16474,97.88758042976812,1.0,0.9788758042976812,0.9893251533742332,16126.0,348.0,0.0,think,read_length,,348.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__100__r1.fa.gz,822dcb961b02f9b2a9ee08e0ff487070e7627ec974542687a2e0f5b01df526e3
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,,completed,,106.37942481040956,16474,98.06361539395412,1.0,0.9806361539395412,0.9902234208832632,16155.0,319.0,0.0,think,read_length,,319.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__100__r2.fa.gz,8fce79e26b4ba888be366f277075d1227a4c4ae20e56f855ca83d78f1e9f11d5
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,,completed,,124.0995762348175,16474,96.77673910404272,1.0,0.9677673910404272,0.9836197057099668,15943.0,531.0,0.0,think,read_length,,531.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__150__r0.fa.gz,59f661a56688ed1d8009b02b0320074575370b3a6d94c687a1364410f9b2ad11
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,,completed,,137.40155267715454,16474,98.17894864635184,1.0,0.9817894864635184,0.990811075716736,16174.0,300.0,0.0,think,read_length,,300.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__150__r1.fa.gz,0877a1c9b3371a748d07deedf849567ae4b78228c105ec44fb18e3ede4eb399f
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,,completed,,140.86145162582395,16474,97.8390190603375,1.0,0.9783901906033752,0.9890770741286206,16118.0,356.0,0.0,think,read_length,,356.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__150__r2.fa.gz,5cb8608dccc56170cfba7bb6c2d5b00325702057b52b93f4db6a2e6834aba143
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,,completed,,142.10810351371765,16474,97.505159645502,1.0,0.97505159645502,0.9873682269416356,16063.0,411.0,0.0,think,read_length,,411.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__250__r0.fa.gz,f04632ceb03bb8b75e823cd03deb8d2096bd056aeca8a03277955c3e98a4a682
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,,completed,,172.7509002685547,16474,98.16680830399416,1.0,0.9816680830399416,0.9907492495252098,16172.0,302.0,0.0,think,read_length,,302.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__250__r1.fa.gz,cdb6572e3309df3978ebb34a6db527616984ea2f1abf6dff1992df58bb6fcd3f
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,,completed,,171.53201460838318,16474,98.10003642102708,1.0,0.9810003642102708,0.9904090700168532,16161.0,313.0,0.0,think,read_length,,313.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__250__r2.fa.gz,991043bc04877ff7be1dad94c07b388fca9132b4a54e1073d891896c6441340d
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,,completed,,130.33336448669434,16474,94.9192667233216,1.0,0.949192667233216,0.9739341658621656,15637.0,837.0,0.0,think,read_length,,837.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__300__r0.fa.gz,ca5adb6e340fc58b54d74144e6582ea6c21e6fb4bb7faf0ed0b4d022b5813e51
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,,completed,,146.0983428955078,16473,95.4777224717737,0.9999364272091544,0.954835184847933,0.9768655094245876,15729.0,744.0,1.0,think,read_length,,744.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__300__r1.fa.gz,98d5bdf512f74f9c944e33df3b3a2c2518019e4aafbe2c7f419e45f96e92ab00
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,,completed,,132.38381838798523,16474,94.72502124559912,1.0,0.9472502124559912,0.9729106268898656,15605.0,869.0,0.0,think,read_length,,869.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__300__r2.fa.gz,4b4e249d63794b36852fb7ca75c636cc8734f0f4fc1aaef52646e9f703f4ca95
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,,completed,,126.6245949268341,16475,96.98330804248862,1.0,0.9698919509530168,0.984715888080858,15978.0,496.0,0.0,think,read_length,,488.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__variable__r0.fa.gz,3672d295b8d619e02d83efcdc2119bd0767e7e03c450bbe55d9471810fe54082
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,,completed,,129.48849153518677,16474,95.50834597875568,0.999936451448907,0.9551994172281916,0.9770561023316464,15735.0,738.0,1.0,think,read_length,,726.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__variable__r1.fa.gz,b9f06aa0d2c8808fd08b743106942156f2717ef910bee318415fe6078e93d978
+MIA,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,,completed,,111.99696946144104,16474,96.37940445145249,0.999057018922487,0.9655507625007594,0.9820181672125068,15892.0,567.0,15.0,think,read_length,,573.0,results/thetas/read_length/MIA/Saimiri_boliviensis__Saimiri_sciureus__variable__r2.fa.gz,13b23cbcb12630135596152a5ee3f1a2c64341de13fb9ea731bdb48220041cf7
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,,completed,,88.04609274864197,16586,96.41909814323608,0.9998749687421856,0.9775088619973108,0.9885654243154706,15994.0,368.0,2.0,think,read_length,,580.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__50__r0.fa.gz,ff498bae353464e49eb1ba8f240b2afe98ae955009bbec53d296f951dcac9d44
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,,completed,,89.87407326698303,16557,93.97489037063735,0.994279903393924,0.9612879439596904,0.9775056235941016,15644.0,630.0,90.0,think,read_length,,823.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__50__r1.fa.gz,4013bfc058bb1eb51e6cfcf038ddb41858951463f56f1229f461669ce621b464
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,,completed,,113.1719708442688,16558,93.98834904810522,0.9940926125897224,0.961833937680536,0.9776972574498656,15650.0,621.0,93.0,think,read_length,,807.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__50__r2.fa.gz,9daaa4c058d607e1da3f2093532364ee8209e3643059fdfaf08a36a673988f89
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,,completed,,124.84570860862732,16553,96.20031412347468,0.999937209594374,0.9732322923669254,0.9864040385270526,15925.0,438.0,1.0,think,read_length,,608.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__75__r0.fa.gz,f84387912d2a8c9b132102a0c145269f85a759b57c998c1148ae9e698137a8e0
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,,completed,,100.61285972595216,16562,95.8227695279488,0.9997480791031615,0.9702933985330072,0.9848005459395744,15874.0,486.0,4.0,think,read_length,,679.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__75__r1.fa.gz,977ded9ad7667ab61c9dfc43378088e91767486fcdd5ee9aeab1a0f64f1b1c4c
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,,completed,,93.96803498268127,16527,96.049367777845,0.9998740395515808,0.9702970297029704,0.9848635235732012,15876.0,486.0,2.0,think,read_length,,651.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__75__r2.fa.gz,7e16c6112838bfac587e8465c9a6d491ace2d246c5132a6720483cca2d8e3e45
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,,completed,,113.0822536945343,16549,95.97558764880053,1.0,0.9706062087509166,0.985083883772134,15883.0,481.0,0.0,think,read_length,,666.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__100__r0.fa.gz,c54ebd73aa3da30daa70ecd8e7c2e058ca67032f21aa33d3178bbf3113adce88
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,,completed,,112.6080253124237,16573,95.2990682296363,0.9961043041156142,0.9724573671942092,0.9841388087034796,15853.0,449.0,62.0,think,read_length,,658.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__100__r2.fa.gz,6b68554ecb44deeba1c23555d478f1c2c77f49475e805253ba156b41cb3b152c
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,,completed,,143.80081129074097,16573,95.09443070053702,1.0,0.9630897091175752,0.981197858299091,15760.0,604.0,0.0,think,read_length,,813.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__100__r1.fa.gz,dd4401957c9e60bf1489a5de3071f7e53ac5766d559fb52cc98a419113f44847
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,,completed,,127.83351588249208,16557,94.53486277100474,0.9940637827597096,0.9674861708666256,0.9805949229092042,15741.0,529.0,94.0,think,read_length,,724.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__150__r0.fa.gz,3181f781d5ee06aaf3fdba4036ab2a0743a29eb8ac92309203be6085e8c49f40
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,,completed,,128.31868314743042,16560,93.61638241652656,0.9941330272304062,0.9580260570304818,0.9757456263887584,15589.0,683.0,92.0,think,read_length,,869.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__150__r1.fa.gz,15b16513844d29a45f95fdf7c41633904006b510a1ba9951d8bac48f9d1c8dc7
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,,completed,,129.71894073486328,16560,94.22892145087675,0.9941709434201356,0.9642944936086528,0.979004835439089,15691.0,581.0,92.0,think,read_length,,777.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__150__r2.fa.gz,fc66de413f9e259bbe95b8728a8ba0339ec7e89262d34e7e544ff8bb4ed3e829
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,,completed,,162.1634600162506,16584,95.84357943981288,0.9944613852759971,0.981874039938556,0.9881276279990104,15980.0,295.0,89.0,think,read_length,,408.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__250__r0.fa.gz,0d4cfef491a00309e017c1f6d86d3fc037b13913c6cf98c0306dace91d364b90
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,,completed,,145.4934961795807,16585,92.44196508907685,0.994450538813964,0.9467379284924438,0.9700078678206135,15411.0,867.0,86.0,think,read_length,,1030.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__250__r1.fa.gz,baa6b6f0a93c170d9be1dbf3b816274b8194190b98b2d652edce37d4affedcf4
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,,completed,,147.26219177246094,16618,92.64556280294416,0.9940288924558588,0.9515088193718886,0.9723042140300197,15482.0,789.0,93.0,think,read_length,,955.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__250__r2.fa.gz,ce801ebc952eb25017fc1de829390949479ba1d6a687b51537b95e9bf0296bd2
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,,completed,,125.278870344162,16580,92.55638195777352,0.99407331057141,0.9483161258603736,0.9706557634848246,15431.0,841.0,92.0,think,read_length,,940.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__300__r0.fa.gz,bccf8061fed2df37aaf237b60983c66148b7900875a05ba49ae9bd05b2f98911
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,,completed,,138.84711742401123,16570,94.4789718216376,0.999808441351127,0.957031966261231,0.9779526575479358,15658.0,703.0,3.0,think,read_length,,849.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__300__r1.fa.gz,d18f9d9161d7b2846cdc9a4ec4b820209ea3c963f18fb76771acf447a75372fb
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,,completed,,146.31782913208008,16560,94.50516454479944,0.9941878829995576,0.967121435594887,0.980467898196318,15737.0,535.0,92.0,think,read_length,,731.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__300__r2.fa.gz,d85028281a6735cf80fd8b04cf0f6a0872c648534bcf8746b247a8a07c1f4dfe
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,,completed,,140.12963104248047,16579,86.52456863096305,0.9884054017187288,0.8948993454365815,0.939331086336531,14492.0,1702.0,170.0,think,read_length,,1732.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__variable__r0.fa.gz,ba898d65fda8f994a104dd4b83f9af4276ebe452125fd678d99bd5b0baa0018f
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,,completed,,156.83473348617554,16578,89.76602964815146,0.9856834673465386,0.9339114276865904,0.9590992939380446,15078.0,1067.0,219.0,think,read_length,,1277.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__variable__r1.fa.gz,42caeaa9f90aa9cd912cbe2ec82777c2f49de7bd13d8250ee024630557f036c9
+MIA,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,,completed,,162.9470090866089,16591,87.48670684154555,0.9778775671927624,0.9238255661613326,0.9500834081868345,14808.0,1221.0,335.0,think,read_length,,1467.0,results/thetas/read_length/MIA/Homo_sapiens__Gorilla_gorilla__variable__r2.fa.gz,2b98262d853f07483316556ebb22928da77617565e1c8d6e334c9a88be2cb928
+MIA,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,,completed,,120.46656107902528,16616,58.02418408077013,0.9592430858806404,0.5974614687216682,0.7363128491620112,9885.0,6660.0,420.0,think,read_length,,6725.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__50__r0.fa.gz,3e1b63059a78e133148e63899914ee5e966b3406ee16c75d007a87b1bb18a52f
+MIA,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,,completed,,120.9546995162964,16599,58.30496537152248,0.957678588643594,0.6011133970712816,0.7386148183947359,9934.0,6592.0,439.0,think,read_length,,6665.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__50__r1.fa.gz,21fc12ad552825756ab18d33873b91eca072c42ada7a78deb8ea01373fee0bce
+MIA,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,,completed,,94.5921688079834,17572,51.71800289113755,0.9573898723754632,0.5620204217267839,0.7082651235390414,9302.0,7249.0,414.0,think,read_length,,7694.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__50__r2.fa.gz,c0b08a8d65d54ed2e1cd91d528c2c9c526e4e42a10fa2beb7bc6edbe91fb8a4c
+MIA,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,,completed,,125.5557827949524,16625,57.29564553093965,0.9613488463813844,0.5883062813009111,0.7299270072992701,9750.0,6823.0,392.0,think,read_length,,6870.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__75__r0.fa.gz,578600873490e55fbd9d0a3a018ce0869054b4a6bea009af072fcd0d886eb063
+MIA,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,,completed,,141.69519305229187,16620,57.99542280382607,0.9591420807453416,0.5973766924564797,0.7362187127532777,9883.0,6661.0,421.0,think,read_length,,6735.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__75__r1.fa.gz,863efaa460f81a3a97f4c8c2fb22e41d5c65201e92fdfe222f4115b9570d8143
+MIA,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,,completed,,139.0163598060608,16583,57.07818930041152,0.9578729281767956,0.5870721973636474,0.7279748069280948,9709.0,6829.0,427.0,think,read_length,,6874.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__75__r2.fa.gz,28af02f19e202bb895d5e798375b8648e078baece0eb489efe36ac4c2f7a4b8e
+MIA,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,,completed,,129.89630007743835,18787,49.32711944284443,0.9681397738951696,0.5655959171419994,0.7140420693575896,9420.0,7235.0,310.0,think,read_length,,8943.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__100__r0.fa.gz,6e5e553f8ee023acd8fc46c82dfb5a4d783fd5716ca0ff8cb2f6387d36861171
+MIA,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,,error,"MIA exited -11; stdout tail:
+
+stderr tail:
+Starting assembly of /tmp/mia_vk0aahb8/reads.fasta
+using /tmp/mia_vk0aahb8/reference.fasta
+as reference at Wed Oct 28 22:55:57 2026
+
+Starting to align sequences to the reference...
+
+Repeat and score filtering
+Repeat and score filtering
+Generating new assembly consensus
+Starting assembly iteration 2
+Repeat and score filtering
+Starting assembly iteration 3
+Repeat and score filtering
+Starting assembly iteration 4
+Repeat and score filtering
+",115.63155937194824,0,,,,,,,,think,read_length,,,,
+MIA,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,,completed,,127.12257885932922,16952,55.629987767227824,0.9779825908858168,0.5701492537313433,0.7203469734112767,9550.0,7200.0,215.0,think,read_length,,7402.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__100__r2.fa.gz,748f1c14fc2ea31a323f336ad4152bcdb6b42f8f54e0efaba8a99821681ed033
+MIA,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,,completed,,151.36333441734314,16607,56.29703668861712,0.959803528468324,0.5780608548659744,0.7215523737754332,9575.0,6989.0,401.0,think,read_length,,7032.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__150__r0.fa.gz,bde5f25e8acf0925fcf9b78c0a69a9e6ece24b52a40009d3b54368f1c355e052
+MIA,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,,completed,,136.91893005371094,16638,54.08354846280216,0.9578137988362428,0.5566761277854942,0.704120994538441,9218.0,7341.0,406.0,think,read_length,,7415.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__150__r1.fa.gz,6c3ba38f54c16600c574c8f317141c3a9585c87475abee08b46f0560e22bb2dc
+MIA,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,,completed,,144.13043665885925,16624,52.455357142857146,0.9571275455519828,0.5390884394808331,0.6897084379223788,8930.0,7635.0,400.0,think,read_length,,7690.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__150__r2.fa.gz,bb1fa8bf9a20147600c713a6f94927e048b904a4868c8f148807f287908d717d
+MIA,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,,completed,,171.74314975738525,20665,22.337164750957854,0.9559335929493749,0.2784477611940298,0.4312728281473946,4664.0,12086.0,215.0,think,read_length,,15589.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__250__r0.fa.gz,82ff60bede8ec00c45532d4a64d0915533b688b5c486d4bdacdc88472281db93
+MIA,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,,completed,,149.93501210212708,17482,52.052366796249714,0.9989029072956664,0.5370097316425833,0.6985040276179516,9105.0,7850.0,10.0,think,read_length,,8134.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__250__r1.fa.gz,3679bbd8c72b617e7d420bde2180f5dc2ed6ad79cd68e272a95b34245ac7d347
+MIA,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,,completed,,178.7193591594696,18228,43.52734845993643,0.9977386934673368,0.4686375169646545,0.6377323643955514,7942.0,9005.0,18.0,think,read_length,,10094.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__250__r2.fa.gz,91072e2c0f68bc41503594fd69da0180fe7271a7a69e886466c78d0207c05660
+MIA,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,,completed,,144.3891053199768,16634,54.38101949729857,0.9591879013880256,0.5588075553678112,0.7061963775023832,9260.0,7311.0,394.0,think,read_length,,7374.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__300__r0.fa.gz,3cf1b5cc89d5dae601a887d240f9a2aa44fee2afbff47e106004f46537aaf46a
+MIA,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,,completed,,233.1426138877869,16604,51.99647162599236,0.9566158173753112,0.533808258874668,0.6852404386406789,8842.0,7722.0,401.0,think,read_length,,7762.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__300__r1.fa.gz,4994d6cad63902fec386c2ea2b22fb552106fca82be1f4b9bb9d00871135a94e
+MIA,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,,completed,,275.4596419334412,16607,52.94567262464722,0.957367637678078,0.5436488770828303,0.6934924913361572,9005.0,7559.0,401.0,think,read_length,,7602.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__300__r2.fa.gz,da4046428ebda3c742e65c98da29542b5fb2d40b1410707f7d8a64e6d3d7dcfc
+MIA,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,,completed,,293.29690408706665,16647,39.77401771519418,0.8789209535759097,0.4378125,0.5844806007509388,7005.0,8995.0,965.0,think,read_length,,8748.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__variable__r0.fa.gz,3472e3e140889a04916d24536b832f511a12b61cf29b92923597aa937cd46c29
+MIA,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,,completed,,285.44680643081665,16740,40.74938848120969,0.8545115411517836,0.4663739899471909,0.6034163408108664,7330.0,8387.0,1248.0,think,read_length,,8560.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__variable__r1.fa.gz,f369243fe746fca0c4988179528eda6f295b0d515e653c284ec191f91753f498
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,,completed,,1.4845128059387207,16471,99.87253414264036,0.9997569571029288,0.9990285367334548,0.9993926141885324,16454.0,16.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__50__r0.fa.gz,b4ab74052b062e417113bf3bae266a8af70952dabfd1e590addd0ce3b5941eaf
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,,completed,,1.7206518650054932,16471,99.87860394537178,0.999756971869494,0.999089253187614,0.9994230010021562,16455.0,15.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__50__r1.fa.gz,41b7260bd407ebc9ec51933ca972ba923af8b2235aa8a175e0c7585d9ce234fb
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,,completed,,1.570702314376831,16471,99.89680708995994,0.9998177399756988,0.9991500212494688,0.999483769092952,16457.0,14.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__50__r2.fa.gz,1d730a2e30780e2fb2732581cff370ef90554ec079912a232e9d6be14aaf5cd9
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,,completed,,1.7355496883392334,16472,99.896813353566,0.9998177510479316,0.9992107340173638,0.9995141503704604,16458.0,13.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__75__r0.fa.gz,85e99abf7f02ec5833ff33c3875f7b1c5143376014f13f97c8848e7ba99ee75d
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,,completed,,1.9170467853546145,16471,99.88467374810318,0.9997569866342648,0.9991499696417728,0.99945338597024,16456.0,14.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__75__r1.fa.gz,cc152881f301508afd529a1a949c621d95f64e3d92acb321baee1bb9355f6d07
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,,completed,,2.065081834793091,16472,99.91502276176024,0.9998177842565598,0.9993928723210492,0.9996052831334448,16461.0,10.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__75__r2.fa.gz,340661dfa85329dbac80b13ee3605fe5ee722d63b1b8fb0597c65f22f69b3c57
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,,completed,,1.7505099773406982,16471,99.896813353566,0.9997570161584256,0.9992714025500912,0.9995141503704604,16458.0,12.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__100__r0.fa.gz,e446792672163c9309e402d3bf58c1a18b5571bb342c8bd92e79628aff43be57
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,,completed,,2.076399087905884,16471,99.896813353566,0.9997570161584256,0.9992714025500912,0.9995141503704604,16458.0,12.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__100__r1.fa.gz,78d69052f83f3e41ee0a8314d5385c60efcc062754df48543962737ec5e27378
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,,completed,,1.7626981735229492,16473,99.90895295902884,0.9998785080792127,0.999271491015056,0.9995749073905386,16460.0,12.0,2.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__100__r2.fa.gz,c2e004da0b4e8ab742b90dc3fc95c7ffe90703588c55e97049545181a7ac220e
+MIA,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,,completed,,177.66133880615234,16695,39.82517677189466,0.8496258463000357,0.4556341168227276,0.5931669292644498,7153.0,8546.0,1266.0,think,read_length,,8582.0,results/thetas/read_length/MIA/Homo_sapiens__Varecia_variegata__variable__r2.fa.gz,f0f52bbb78fe6adf7fa75f82459610b51500040169ddb4bedc0aa0c8a3414310
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,,completed,,1.9709432125091555,16471,99.90288315629742,0.9997570309178158,0.99933211900425,0.9995445298029332,16459.0,11.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__150__r0.fa.gz,10e65d9252da33b7eabf049ac8551fcf4f112a368165b189c12bc18bcd40deb8
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,,completed,,2.061943769454956,16472,99.8907435508346,0.9998177399756988,0.9991500212494688,0.999483769092952,16457.0,14.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__150__r1.fa.gz,8d9c7f8694d24f98369c722d6f9caa41fe691d27b1890e7d0e3dd50929af2952
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,,completed,,2.380317687988281,16471,99.8907435508346,0.999757001397242,0.999210686095932,0.999483769092952,16457.0,13.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__150__r2.fa.gz,55def1422fd577f35571e0ec2aceb99b0bff744b95a4fcabe3d9e5782f8c91d3
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,,completed,,3.4159812927246094,16473,99.88467374810318,0.9998784785514644,0.9990286546867412,0.99945338597024,16456.0,16.0,2.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__250__r0.fa.gz,5ce7c3bbe9d08c8f65ce42a2446114998f4607f551dd143d3ead8decfb47e496
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,,completed,,3.413776397705078,16471,99.87860394537178,0.999756971869494,0.999089253187614,0.9994230010021562,16455.0,15.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__250__r1.fa.gz,17100f3272e3ab407a3e0860815a1efa347750e2bd30a6766e0eb42949deeee6
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,,completed,,2.8641717433929443,16473,99.93323216995448,0.9998785375926152,0.9995143273433704,0.9996963992956464,16464.0,8.0,2.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__250__r2.fa.gz,8d2eefe18cdf6bbcd87f3ebe84805f24079c8e8c7d9ee5847633a2b46830834e
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,,completed,,3.1409168243408203,16472,99.88467374810318,0.9998177289021204,0.9990893084815736,0.99945338597024,16456.0,15.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__300__r0.fa.gz,29910092bf2a47ac243b09b97438bca3805e7b9c12b2a6114143e22222271f68
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,,completed,,2.929868459701538,16472,99.90288315629742,0.9998177621188192,0.9992714467852588,0.9995445298029332,16459.0,12.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__300__r1.fa.gz,3d216079321746e1f5208ae2431a617218ffabceb2f9234c035377cf082e2222
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,,completed,,3.067352771759033,16472,99.88467374810318,0.9998177289021204,0.9990893084815736,0.99945338597024,16456.0,15.0,3.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__300__r2.fa.gz,71afb43e50cc13c6401aa3008cc674d043fa751496c7f7628c0b6721272a0e06
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,,completed,,2.043362617492676,16471,99.88467374810318,0.9997569866342648,0.9991499696417728,0.99945338597024,16456.0,14.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__variable__r0.fa.gz,f95c7578293a971e35f0de26fe60f0703726d555bb74f47f530b6823829a319f
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,,completed,,2.647144556045532,16471,99.896813353566,0.9997570161584256,0.9992714025500912,0.9995141503704604,16458.0,12.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__variable__r1.fa.gz,d5c3cc9aa129d664398a450c1cafecb18698ecab9522f70d62384fcabac658f9
+Pilon,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,,completed,,2.0426952838897705,16471,99.91502276176024,0.9997570604312176,0.9994535519125683,0.9996052831334448,16461.0,9.0,4.0,think,read_length,,0.0,results/thetas/read_length/Pilon/Saimiri_boliviensis__Saimiri_sciureus__variable__r2.fa.gz,3be7724e788568f53f8558dae90c1f82f6ee5e2dd059427b267906138dd7b426
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,,completed,,1.939058780670166,16569,88.37475868725869,0.9995223799126638,0.8955798740600355,0.9447006094218552,14649.0,1708.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__50__r0.fa.gz,4266350f7e699d998cf5480da65e82475608f4f800320d0a2d8ed471a46c9a54
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,,completed,,1.8037259578704836,16569,88.29633204633204,0.9995219558833572,0.8947851072935135,0.9442580645161288,14636.0,1721.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__50__r1.fa.gz,ec5c7f528673ea453a4cf4347c8a513aa4f71066da17babd6b7ad8f44d1600de
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,,completed,,1.6681828498840332,16569,88.36269305019304,0.9995223147263546,0.8954576022498013,0.9446325497404148,14647.0,1710.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__50__r2.fa.gz,2d800c50a90454f802991ef918b7f7155c192c4b3ab97db247296e2c16deea71
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,,completed,,1.7550418376922607,16570,88.75482625482626,0.999592335915206,0.899376451888984,0.9468400051486678,14712.0,1646.0,6.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__75__r0.fa.gz,aaa0d59da657917eddf761c878b05ee99b13fdcff305c070607bfd25eb74c75c
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,,completed,,1.9575636386871336,16565,88.77021482017861,0.9995243919010736,0.8993703001772941,0.9468061142397424,14711.0,1646.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__75__r1.fa.gz,c9180123222d4306194df90af270217e9a797d81b0a2aa1e76b5366829988f5c
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,,completed,,2.406809568405152,16569,88.76085907335907,0.9995244565217392,0.8994925719875283,0.9468738938765004,14713.0,1644.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__75__r2.fa.gz,f6218717ba69c34fb1fa86f9983bb9209d9f12bc641678994f011c4729b9698f
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,,completed,,1.8027729988098145,16569,89.50892857142857,0.99952842899488,0.9070734242220456,0.9510592609211242,14837.0,1520.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__100__r0.fa.gz,19766c7034c7628ee380cbe12459f942795ee5f7ac3948f62c612cad520949ff
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,,completed,,2.2152678966522217,16568,89.15771690599735,0.999594128390719,0.9033500427925174,0.949038245399955,14777.0,1581.0,6.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__100__r1.fa.gz,c903d91d990cfbafb8763eb19ae9d0e375743a9114b9029986801e081e7438dc
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,,completed,,2.170665740966797,16567,89.15771690599735,0.9995265151515152,0.9034052699150212,0.949038245399955,14777.0,1580.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__100__r2.fa.gz,c182fc9b38ed486f0e47f45b9a06c73676c8a08d72368ea63165ea9a58e3232f
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,,completed,,2.003992319107056,16572,89.99034632557017,0.9998659247838038,0.9115633785600782,0.953674989609642,14915.0,1447.0,2.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__150__r0.fa.gz,5a5466a398b215f8189da8d4bd837f632e18807ba8e2d5bd46a5d011bd9e34a4
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,,completed,,1.8330490589141848,16566,90.25347012673508,0.9997326024466876,0.914119804400978,0.9550113349723808,14955.0,1405.0,4.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__150__r1.fa.gz,18e8c9989255933f420bd7b2a6b1823cfece40bd763e0f9e8ab9a7bf677b4ee7
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,,completed,,1.9697036743164065,16564,89.80084490042245,0.9995969367190648,0.9096466560704244,0.9525028805530662,14880.0,1478.0,6.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__150__r2.fa.gz,bb77f1937d47a5a4520df6c92b33b163b3f03f65e8baa8a85146dd3230bcb38f
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,,completed,,3.3991963863372803,16564,91.03144426338342,0.9996686108165428,0.9220001222568616,0.959264794733997,15083.0,1276.0,5.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__250__r0.fa.gz,4085478de19d4645feda6452bd996807bb0739af6bab09db7d7f5bb6fb0caf63
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,,completed,,3.965378761291504,16564,91.2970004224757,0.9996695744118425,0.9246897732135216,0.9607189355688928,15127.0,1232.0,5.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__250__r1.fa.gz,af12a7aa1297ed9fde16cbe6e24732602d4b0f10fb970b892687ca29ab8be015
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,,completed,,3.165157556533813,16569,90.90141184988536,0.999668237011479,0.9209609389326976,0.9587018771874006,15066.0,1293.0,5.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__250__r2.fa.gz,4c0d2a797c70e3f6de219f32636ddbedad87ab96d5230d4544e9e64d2d39d10d
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,,completed,,2.8670971393585205,16572,91.17398648648648,0.9997353972349012,0.9237775061124694,0.9602566953648696,15113.0,1247.0,4.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__300__r0.fa.gz,efd92910e1870437bbd70b621f3c90d53682fff90cf911da661a2819f4205bb4
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,,completed,,3.930438041687012,16568,91.06485671191554,0.9995364545394344,0.922785351837134,0.9596287112976032,15094.0,1263.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__300__r1.fa.gz,4aead9fde9b0c379ed6d0863b9ef59fecb0ffeb07359c53adf19141fd127dad4
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,,completed,,3.4592092037200928,16567,90.8158339367608,0.9996678844237796,0.9199828840393668,0.9581715158846372,15050.0,1309.0,5.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__300__r2.fa.gz,ba0fa1cf5900143ded2d0795fb866d6b1156d8f183a556d4d5fe1d50f9cf1e59
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,,completed,,1.846279859542847,16564,89.70428485214242,0.9995965030262272,0.9086685413864776,0.9519661841936724,14864.0,1494.0,6.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__variable__r0.fa.gz,8eaf44686d4840652937fb623b17a53f7a4cc5939c31968d4b8c3b419096030c
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,,completed,,1.848177194595337,16558,89.6468457591307,0.9995288416234772,0.9078681909885676,0.9514961235343116,14850.0,1507.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__variable__r1.fa.gz,a5d2cf7c09daaca3a5544f287367537619a63bed4b0840b8a91228e26cec9be3
+Pilon,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,,completed,,1.649646282196045,16569,70.82082659893788,0.9420300982800984,0.7568784700801974,0.8393651228022166,12269.0,3941.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__50__r0.fa.gz,f156ff3f65bbcc80c7ebb9936dceb96b1477b4f8f535c4e1dbe7baea225cbc66
+Pilon,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,,completed,,2.0152833461761475,16564,89.57214410717519,0.9995286195286196,0.907440239652748,0.9512609350466242,14843.0,1514.0,7.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Gorilla_gorilla__variable__r2.fa.gz,42d9b36aead0c89567e6dc8786f19ced957cb064344c39788acdbd87e4e972a7
+Pilon,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,,completed,,1.7489440441131592,16569,70.82082659893788,0.9420300982800984,0.7568784700801974,0.8393651228022166,12269.0,3941.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__50__r1.fa.gz,f156ff3f65bbcc80c7ebb9936dceb96b1477b4f8f535c4e1dbe7baea225cbc66
+Pilon,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,,completed,,1.9075746536254885,16569,70.82082659893788,0.9420300982800984,0.7568784700801974,0.8393651228022166,12269.0,3941.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__50__r2.fa.gz,f156ff3f65bbcc80c7ebb9936dceb96b1477b4f8f535c4e1dbe7baea225cbc66
+Pilon,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,,completed,,1.813626050949097,16569,70.85377821393523,0.9421246545901136,0.7571402134353217,0.8395635965662299,12274.0,3937.0,754.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__75__r0.fa.gz,983c61038831841e42a217b85ca7a1ea6868b5e9cb41ba01e70d90915c39a168
+Pilon,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,,completed,,2.052342653274536,16569,70.82082659893788,0.9420300982800984,0.7568784700801974,0.8393651228022166,12269.0,3941.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__75__r1.fa.gz,f156ff3f65bbcc80c7ebb9936dceb96b1477b4f8f535c4e1dbe7baea225cbc66
+Pilon,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,,completed,,1.744368553161621,16569,70.83814361579311,0.9420434482229216,0.7570635410240593,0.8394842152067586,12272.0,3938.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__75__r2.fa.gz,eff2609c8d8c56d7660f2edb34e51baad12d4ed1e8b144084723da0e45b6c1aa
+Pilon,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,,completed,,2.07368803024292,16571,70.8900946663588,0.9422280190271596,0.7575252899087096,0.8398413458250702,12281.0,3931.0,753.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__100__r0.fa.gz,deaf5521517afdb789089103ca231af1ae9537490993ec901b097862d7e114de
+Pilon,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,,completed,,1.7936630249023438,16570,70.89586700531055,0.9421601718318504,0.7576337055086053,0.8398810134372757,12282.0,3929.0,754.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__100__r1.fa.gz,441745003ac83395473774f4e213a0e6d55b03ea7ab7747308f140a50c8fcf3c
+Pilon,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,,completed,,1.88067889213562,16569,70.85546063264835,0.9420567920184192,0.757248611967921,0.8396032831737346,12275.0,3935.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__100__r2.fa.gz,723ecaa7a95f313daa82d90ba23b7fc5adac10fe8a77534fdfafcfc6609deb0e
+Pilon,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,,completed,,2.0969314575195312,16565,70.90646651270208,0.9420834611844124,0.7576187538556447,0.8398413458250701,12281.0,3929.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__150__r0.fa.gz,4fef63714c484a6e994670f520eade1163b4758cae24ef51924f691e4ca001aa
+Pilon,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,,completed,,2.24798583984375,16571,70.91318402216578,0.9422457432121492,0.7577720207253886,0.84,12285.0,3927.0,753.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__150__r1.fa.gz,ccf07ff55b33a36fd48b86ca0daee88828f9fcb47be476d1255ccc9912af5b76
+Pilon,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,,completed,,2.143072366714477,16569,70.91727760780465,0.942173479561316,0.7578187650360866,0.84,12285.0,3926.0,754.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__150__r2.fa.gz,54d0a7d08303710371e04187276221048b08bf37e36d2586ac95e3d2f12818fd
+Pilon,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,,completed,,2.0426506996154785,16573,70.97500432950413,0.9425067075507856,0.7582485353068147,0.8403964456596036,12295.0,3920.0,750.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__250__r0.fa.gz,ac701f70d26e319c03a5627d26db0e3e4fc165b799bc6b597caea664e2a068c4
+Pilon,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,,completed,,1.709742307662964,16569,71.05749249595937,0.9422120168388826,0.7594077729796422,0.8409906063193853,12310.0,3900.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__250__r1.fa.gz,9d7a93ac71a38aeb6aa33d5493e7bb6b4ef688a66a97b4154b48da06cad82cc7
+Pilon,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,,completed,,2.08020544052124,16572,71.04017547910414,0.9424151925874876,0.7590822179732314,0.8408718229024323,12307.0,3906.0,752.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__250__r2.fa.gz,fc89be7ac7e8e1b9be450a4813662498e04e5d61783a7b514bd547fe671b47ae
+Pilon,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,,completed,,1.8924591541290283,16569,71.17871161394596,0.942304753171328,0.7607032695866749,0.841821409066084,12331.0,3879.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__300__r0.fa.gz,2b5528498ffc2954caa52e24c8482af286a9dfe9a79ae4b500ea2432c3702480
+Pilon,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,,completed,,1.7617218494415283,16572,70.98487472578225,0.9425111145178598,0.7583102065988282,0.8404360753221011,12296.0,3919.0,750.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__300__r1.fa.gz,3d7a1a55f451056123cbfb86f1ca376365614f97a5d48c89b0ca37143e2f0d71
+Pilon,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,,completed,,1.6592352390289309,16569,71.15229188315438,0.9424223887444564,0.7602393288921786,0.8415841584158416,12325.0,3887.0,753.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__300__r2.fa.gz,e9e30eaeaa4f9d578c5ed08d4fcfcf6cde95779c62fe1bc276a9f80fbb10efc3
+Pilon,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,,completed,,1.4512686729431152,16569,70.87277764950358,0.9420701296708356,0.7574336829117828,0.8397223267106657,12278.0,3932.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__variable__r0.fa.gz,bb8b87b114823c215375504eac85c20c051e88265ec98ee91f86d288f191ae3c
+Pilon,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,,completed,,1.4866294860839844,16568,70.96923165733418,0.942141160242164,0.7584207279457125,0.8403568132882189,12294.0,3916.0,755.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__variable__r1.fa.gz,665dafb1f30e98db02dcf6c66725ede1f75cfd9e513feae39cbad4f31191e578
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,,completed,,2.0799152851104736,50,0.3035085589413621,0.0030350855894136,1.0,0.0060518034374243,50.0,0.0,16424.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__50__r0.fa.gz,a37c404775fb98c432b0f8016dd61ebcd0695611c715e0fa506d991d23c7ec91
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,,completed,,1.9750678539276123,50,0.3035085589413621,0.0030350855894136,1.0,0.0060518034374243,50.0,0.0,16424.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__50__r1.fa.gz,4e259148dc3892e114f5951d61ae66452aff68208d52a8a1248aa1c221027796
+Pilon,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,,completed,,1.8796560764312744,16571,70.91895636111752,0.9422501725592454,0.7578337034295584,0.8400396567638713,12286.0,3926.0,753.0,think,read_length,,1.0,results/thetas/read_length/Pilon/Homo_sapiens__Varecia_variegata__variable__r2.fa.gz,a9ab82ccdf6a9e664b9acf9a610b4983368951a1a117e6108d0ff6b1fe24bdfd
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,,completed,,2.162874698638916,52,0.3156489012990166,0.0031564890129901,1.0,0.0062931138811569,52.0,0.0,16422.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__50__r2.fa.gz,66151f256c488082462e7af9bd32acb407b7bf8ca52067a719c35cd906c46615
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,,completed,,5.748155355453491,87,0.5281048925579701,0.0052810489255797,1.0,0.01050661191957,87.0,0.0,16387.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__75__r0.fa.gz,a644cc73e0656d1e25205b6bc0f6a5075b345e94c01e65fec0515a60d85b26e1
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,,completed,,8.382012128829956,108,0.6555784873133422,0.0065557848731334,1.0,0.0130261729586298,108.0,0.0,16366.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__75__r1.fa.gz,42040d77474941a2ff66a9fb93ac92e6f79a4ad0887fb52fbaeac0d8fa9f7f4a
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,,completed,,14.37062954902649,177,1.074420298652422,0.0107442029865242,1.0,0.0212599843853222,177.0,0.0,16297.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__75__r2.fa.gz,af180965658742597d86b87da39e74d0dfc20b424ecda45e9a490d599c8d5159
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,,completed,,13.659552812576294,129,0.7830520820687144,0.0078305208206871,1.0,0.015539360356562,129.0,0.0,16345.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__100__r1.fa.gz,408fe31f1fc3bff218da7f83461af647f055ee7e5dd202607241024beb12bbc7
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,,completed,,29.10720038414001,196,1.1897535510501396,0.0118975355105013,1.0,0.0235152969406118,196.0,0.0,16278.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__100__r0.fa.gz,a8011cb8e7bd7665bcc4ee3e9ff423a35a9b9ea9c890787d63b80e779afe08a5
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,,completed,,20.7289776802063,249,1.5114726235279834,0.0151147262352798,1.0,0.0297793458111582,249.0,0.0,16225.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__150__r0.fa.gz,8840e6edb1b595834c8e0499a44dad2ac3aef0b54cf6393373810b62152aa5e7
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,,completed,,37.90122056007385,275,1.6692970741774915,0.0166929707417749,1.0,0.0328377813600812,275.0,0.0,16199.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__100__r2.fa.gz,a32a4a3f2b755b4b74e4c091ee506febfa0a8014a73e95a450f0962cd2744841
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,,completed,,20.35784363746643,241,1.4629112540973654,0.0146291125409736,1.0,0.0288363745139096,241.0,0.0,16233.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__150__r2.fa.gz,570469ef3a65286badb388b27d080513d081cb1cb103f53507b06b0094be9be0
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,,no_output,"no contig produced for rl_Saimiri_sciureus_250_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Saimiri_sciureus_250_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer  ",0.8669042587280273,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,,no_output,"no contig produced for rl_Saimiri_sciureus_250_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Saimiri_sciureus_250_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer  ",0.919823408126831,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,,no_output,"no contig produced for rl_Saimiri_sciureus_250_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Saimiri_sciureus_250_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer  ",1.1682491302490234,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,,no_output,"no contig produced for rl_Saimiri_sciureus_300_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Saimiri_sciureus_300_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer  ",0.8659791946411133,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,,no_output,"no contig produced for rl_Saimiri_sciureus_300_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Saimiri_sciureus_300_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer  ",0.8623700141906738,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,,no_output,"no contig produced for rl_Saimiri_sciureus_300_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Saimiri_sciureus_300_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer  ",0.8997235298156738,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,,completed,,72.20255970954895,380,2.306665047954352,0.0230666504795435,1.0,0.0450931529607214,380.0,0.0,16094.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__150__r1.fa.gz,5b6669c76deccdddfee6121986d615b711a14d8e66b3a1f932257f599d96c3ed
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,,completed,,70.82948994636536,366,2.221682651450771,0.0222168265145077,1.0,0.0434679334916864,366.0,0.0,16108.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__variable__r0.fa.gz,b788939b3ae6a7139640251366008ce63d0f54703ccd5fac7e0f882326a22dc7
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,,completed,,40.438050270080566,244,1.4811217676338473,0.0148112176763384,1.0,0.0291900945089125,244.0,0.0,16230.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__variable__r2.fa.gz,c6f95a01e3cb7cc41c44f5652539c70553793c42839418959845175bdc14626c
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,,completed,,1.760803461074829,47,0.2872158396480078,0.00287215839648,1.0,0.0057278654560965,47.0,0.0,16317.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__50__r0.fa.gz,aa6b4df07d57516cbb9aeacadcef691da9a9bc15ade7aea32f1592d21ef71b43
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,,completed,,1.981271505355835,50,0.305548765582987,0.0030554876558298,1.0,0.0060923601803338,50.0,0.0,16314.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__50__r1.fa.gz,f4ae4817f4602e0b27a6255dcdda117cb10ac54211717d1fad8ac71a86747e71
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,,completed,,2.715841054916382,75,0.4583231483744805,0.0045832314837448,1.0,0.0091246426181641,75.0,0.0,16289.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__50__r2.fa.gz,9efb7b3f2f8b16e38c0db903595ee0abcbf64e1798eba3ea89d8df2323d520c7
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,,completed,,6.501627683639526,114,0.6966511855292105,0.0069665118552921,1.0,0.0138366306590605,114.0,0.0,16250.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__75__r0.fa.gz,9336c914747bb0ccf38dccab7bd71273b4229c2868336c53117f1af6d3a98e25
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,,completed,,5.817345380783081,90,0.5499877780493767,0.0054998777804937,1.0,0.0109395891576516,90.0,0.0,16274.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__75__r1.fa.gz,6cd10a128debc9950ca38d31d68e66403253a08ca84d8819a75cc9daae75f608
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,,no_output,"no contig produced for rl_Gorilla_gorilla_75_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_75_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer      ",0.866441011428833,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,,completed,,105.18389630317688,720,4.370523248755615,0.0437052324875561,1.0,0.0837501453995579,720.0,0.0,15754.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Saimiri_boliviensis__Saimiri_sciureus__variable__r1.fa.gz,3242880f69c559e5801a2999318ecbb7d666501233fcd6ae7f09fb304f2fb4d7
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,,completed,,9.836079835891724,116,0.7088731361525299,0.0070887313615252,1.0,0.0140776699029126,116.0,0.0,16248.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__100__r0.fa.gz,48956e45e8053dedefbfe735f3d23c4dee16dbadc45f27f91b45e4780efdb193
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,,completed,,13.432106733322144,189,1.154974333903691,0.0115497433390369,1.0,0.0228357397450613,189.0,0.0,16175.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__100__r1.fa.gz,3c5660cf0a58df64cabaa9d23a02817258675219f5a12aa10e66afdf296acfb2
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,,no_output,"no contig produced for rl_Gorilla_gorilla_150_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_150_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8569209575653076,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,,no_output,"no contig produced for rl_Gorilla_gorilla_150_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_150_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.9425606727600098,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,,completed,,18.268667936325077,191,1.1671962845270103,0.0116719628452701,1.0,0.0230745998187858,191.0,0.0,16173.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__100__r2.fa.gz,cedc0647005fccb6135d5983ef1a1707a1079ea85e7a7b166b0f59a631277615
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,,no_output,"no contig produced for rl_Gorilla_gorilla_250_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_250_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8310930728912354,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,,no_output,"no contig produced for rl_Gorilla_gorilla_250_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_250_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8271949291229248,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,,no_output,"no contig produced for rl_Gorilla_gorilla_250_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_250_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8106756210327148,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,,no_output,"no contig produced for rl_Gorilla_gorilla_300_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_300_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8414814472198486,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,,no_output,"no contig produced for rl_Gorilla_gorilla_300_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_300_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8140096664428711,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,,no_output,"no contig produced for rl_Gorilla_gorilla_300_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_300_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer    ",0.8788466453552246,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,,no_output,"no contig produced for rl_Gorilla_gorilla_variable_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_variable_0
+Type                  = mito
+Genome range          = 12000-22000",0.8561034202575684,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,,no_output,"no contig produced for rl_Gorilla_gorilla_variable_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_variable_1
+Type                  = mito
+Genome range          = 12000-22000",0.8330364227294922,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,,no_output,"no contig produced for rl_Gorilla_gorilla_variable_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Gorilla_gorilla_variable_2
+Type                  = mito
+Genome range          = 12000-22000",0.8334493637084961,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,,completed,,30.486860036849976,50,0.2947244326554671,0.0029472443265546,1.0,0.0058771672054069,50.0,0.0,16915.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Varecia_variegata__50__r0.fa.gz,ea8dc81a1e071cfdd1a0b4a4419cdd4ca4eed3aa390bbee6dbc6872e5e0c8df1
+NOVOPlasty,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,,completed,,43.270206451416016,235,1.4360791982400392,0.0143607919824003,1.0,0.0283149587324537,235.0,0.0,16129.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Gorilla_gorilla__150__r2.fa.gz,db240cb79534d6cef37d0b06d052f916ba555daeabcfa011445976860fb3801e
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,,completed,,75.07609581947327,57,0.3359858532272325,0.0033598585322723,1.0,0.0066972153683468,57.0,0.0,16908.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Varecia_variegata__50__r2.fa.gz,1632993885fb405dfab73cf1c09d9cb34c7951a6d5e527564c4d3329fc10b661
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,,completed,,77.58149433135986,53,0.3124078986147952,0.0031240789861479,1.0,0.0062286990245622,53.0,0.0,16912.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Varecia_variegata__50__r1.fa.gz,20b59004edc74132833356464ee69845021e196c0c3f1b42d8bd8af5040010b2
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,,completed,,12.428374767303469,137,0.80754494547598,0.0080754494547598,1.0,0.0160215179511168,137.0,0.0,16828.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Varecia_variegata__75__r0.fa.gz,0d92de2d5baa2a5d3d1baa3f90d78556d0dc123189cd03058b058fbb3ff4f68e
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,,completed,,45.59787058830261,92,0.5422929560860595,0.0054229295608605,1.0,0.0107873600281409,92.0,0.0,16873.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Varecia_variegata__75__r1.fa.gz,87d475d369369986b28b228ea959b5345566cd67d6781c37e5a2e60b099e446f
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,,no_output,"no contig produced for rl_Varecia_variegata_100_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_100_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",144.48598432540894,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,,completed,,245.29987692832947,81,0.4774535809018567,0.0047745358090185,1.0,0.0095036958817317,81.0,0.0,16884.0,think,read_length,,0.0,results/thetas/read_length/NOVOPlasty/Homo_sapiens__Varecia_variegata__75__r2.fa.gz,04dbed83b083404bc96a75b95965980bed81b52622c11e932e8e865e7d9138f1
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,,no_output,"no contig produced for rl_Varecia_variegata_100_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_100_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",134.9752562046051,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,,no_output,"no contig produced for rl_Varecia_variegata_100_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_100_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",127.65673041343688,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,,no_output,"no contig produced for rl_Varecia_variegata_150_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_150_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",130.39544367790222,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,,no_output,"no contig produced for rl_Varecia_variegata_150_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_150_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",138.85591435432434,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,,no_output,"no contig produced for rl_Varecia_variegata_150_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_150_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",137.5608994960785,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,,no_output,"no contig produced for rl_Varecia_variegata_250_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_250_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",137.41452646255493,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,,no_output,"no contig produced for rl_Varecia_variegata_250_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_250_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",135.8741750717163,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,,no_output,"no contig produced for rl_Varecia_variegata_250_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_250_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",132.31438565254211,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,,no_output,"no contig produced for rl_Varecia_variegata_300_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_300_0
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",136.2636034488678,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,,no_output,"no contig produced for rl_Varecia_variegata_300_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_300_1
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",133.63680362701416,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,,no_output,"no contig produced for rl_Varecia_variegata_300_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_300_2
+Type                  = mito
+Genome range          = 12000-22000
+K-mer",130.81232738494873,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,,no_output,"no contig produced for rl_Varecia_variegata_variable_0; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_variable_0
+Type                  = mito
+Genome range          = 12000-2",135.91881036758423,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,,no_output,"no contig produced for rl_Varecia_variegata_variable_1; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_variable_1
+Type                  = mito
+Genome range          = 12000-2",139.13723015785217,0,,,,,,,,think,read_length,,,,
+NOVOPlasty,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,,no_output,"no contig produced for rl_Varecia_variegata_variable_2; stdout tail:
+
+
+-----------------------------------------------
+NOVOPlasty: The Organelle Assembler
+Version 4.3.5
+Author: Nicolas Dierckxsens, (c) 2015-2024
+-----------------------------------------------
+
+
+Input parameters from the configuration file:   *** Verify if everything is correct ***
+
+Project:
+-----------------------
+Project name          = rl_Varecia_variegata_variable_2
+Type                  = mito
+Genome range          = 12000-2",129.72163462638855,0,,,,,,,,think,read_length,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,100.0,completed,,2.2976603507995605,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,100.0,completed,,2.401196241378784,16474,99.99392982882117,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,75.0,completed,,2.6735386848449707,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,75.0,completed,,2.693955183029175,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,75.0,completed,,2.820900678634644,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,50.0,completed,,3.31321120262146,16473,99.99392982882117,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,50.0,completed,,3.686246871948242,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,50.0,completed,,3.7902989387512207,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,150.0,completed,,2.726136922836304,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,250.0,completed,,2.4360880851745605,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,150.0,completed,,2.6079986095428467,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,250.0,completed,,2.307558059692383,16474,99.98179059180576,0.9999392946032902,0.9999392946032902,0.9999392946032902,16472.0,1.0,1.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,150.0,completed,,2.731255292892456,16474,99.99392982882117,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,100.0,completed,,3.306424856185913,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,250.0,completed,,3.1478428840637207,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,300.0,completed,,2.9344725608825684,16474,99.98786039453718,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,300.0,completed,,2.4636526107788086,16475,99.98786039453718,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,300.0,completed,,2.559382915496826,16474,99.99392982882117,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,131.0755467196819,completed,,3.162067174911499,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,131.912,completed,,3.2498176097869877,16474,99.98786039453718,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,130.56435643564356,completed,,3.362938165664673,16473,99.99392982882117,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,75.0,completed,,4.847104787826538,16553,92.85504608700758,0.9705449189985272,0.9957189624779652,0.9829707893101304,15816.0,68.0,480.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,100.0,completed,,5.685646295547485,16527,93.21415970833824,0.9706692792847956,0.997922568460812,0.9841072758877576,15852.0,33.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,50.0,completed,,10.344122886657717,16555,92.80850064576728,0.9705918467583498,0.9952156122127792,0.9827495104590808,15809.0,76.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,50.0,completed,,10.521369457244871,16555,92.88481859809792,0.9706152996748666,0.9960339943342776,0.9831603802895668,15822.0,63.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,50.0,completed,,13.148294687271118,16553,92.97833617096224,0.9705828277256848,0.9970410475950642,0.98363404863203,15837.0,47.0,480.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,100.0,completed,,6.9182538986206055,16553,92.72545796148428,0.970562930186824,0.9942083726786276,0.9822433684734272,15793.0,92.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,75.0,completed,,8.028934478759766,16553,92.87936601115352,0.9704367026496564,0.9962221382697394,0.9831603802895668,15822.0,60.0,482.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,75.0,completed,,8.0923011302948,16551,92.87265895614397,0.970431261885774,0.9960332451832264,0.9830655936363918,15819.0,63.0,482.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,100.0,completed,,5.72846245765686,16561,92.75234741784035,0.970584622942766,0.9949638023292414,0.9826230221641952,15805.0,80.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,150.0,completed,,5.120130777359009,16550,93.06477185976864,0.9706620934648128,0.9976707585772742,0.9839811250465664,15848.0,37.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,150.0,completed,,5.339663028717041,16552,92.97205260685767,0.9705792215752376,0.9969151347267692,0.9835709183515016,15835.0,49.0,480.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,250.0,completed,,5.10078501701355,16560,93.18035095956336,0.9707141110295916,0.9994963802329242,0.9848950094600044,15877.0,8.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,250.0,completed,,4.929511547088623,16562,92.835347963854,0.9705539537451692,0.9960337446487032,0.9831287867018798,15821.0,63.0,480.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,300.0,completed,,5.6353044509887695,16468,93.58588540744674,0.9706836403696676,0.998426188227888,0.9843594836146972,15860.0,25.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,150.0,completed,,7.225607633590698,16552,93.08907286712466,0.9706728708749158,0.9980484734025812,0.9841703395617356,15854.0,31.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,250.0,completed,,7.345343112945557,16504,93.08761186999529,0.9705340699815838,0.99534122387308,0.982781127618574,15810.0,74.0,480.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,300.0,completed,,4.021570920944214,16562,92.9359305327388,0.970469305232202,0.9973554967888176,0.9837287293503912,15840.0,42.0,482.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,300.0,completed,,5.662525177001953,16396,94.1037037037037,0.9707194816309064,0.9996852376455776,0.9849894554025556,15880.0,5.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,132.01209677419354,completed,,6.536052703857422,16559,92.97452752670502,0.9706495098039216,0.9972300912810828,0.983760285669927,15841.0,44.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,130.58764940239044,completed,,6.816297054290772,16528,93.185159052155,0.9706620934648128,0.9976707585772742,0.9839811250465664,15848.0,37.0,479.0,think,,,,,
+ASEM,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,132.21370967741936,completed,,9.454163312911987,16472,93.534686172723,0.970617042115573,0.998237219843868,0.9842333954065796,15856.0,28.0,480.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,50.0,completed,,12.41539978981018,16605,78.63551718300322,0.925852102850309,0.8792352829831536,0.9019417475728156,13935.0,1914.0,1116.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,75.0,completed,,9.866537094116213,16598,78.51053017898481,0.925888933280064,0.8771763815291446,0.9008746355685132,13905.0,1947.0,1113.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,50.0,completed,,13.589123964309692,16588,77.92068595927117,0.9238228999464956,0.8728042461771768,0.8975891870816817,13813.0,2013.0,1139.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,50.0,completed,,13.54084038734436,16596,79.18807520749816,0.9263540290620872,0.8848580441640379,0.90513068731849,14025.0,1825.0,1115.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,75.0,completed,,9.538886308670044,16607,79.01422764227642,0.92682119205298,0.8824085750315258,0.9040697674418604,13995.0,1865.0,1105.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,100.0,completed,,7.980461597442627,16600,78.97056330866151,0.9271026797559034,0.8809403756460356,0.903432228039558,13977.0,1889.0,1099.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,75.0,completed,,10.362010955810549,16596,78.51291033391718,0.9264617641176078,0.8760559828520994,0.9005540974044911,13896.0,1966.0,1103.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,100.0,completed,,9.608167886734009,16595,79.04638156036383,0.9267452642734136,0.8822750488681506,0.903963562360694,13992.0,1867.0,1106.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,150.0,completed,,9.20067048072815,16614,79.07673183410554,0.928111943762849,0.8812417354070903,0.9040697674418604,13995.0,1886.0,1084.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,150.0,completed,,9.225040674209597,16608,79.9570305874371,0.9291110965113988,0.8902178018380964,0.90924872215257,14142.0,1744.0,1079.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,150.0,completed,,9.00107455253601,16595,78.7777714964102,0.9272073990285448,0.8780165080965283,0.9019417475728156,13935.0,1936.0,1094.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,250.0,completed,,7.975766897201538,16604,78.73387644263408,0.9284808859830542,0.8756685333165545,0.9013017291626192,13917.0,1976.0,1072.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,100.0,completed,,11.044435262680054,16601,78.53069060929471,0.9262071262071262,0.8770259191524248,0.9009458408914228,13907.0,1950.0,1108.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,250.0,completed,,8.275906801223755,16606,79.04083248501301,0.928514483125166,0.8796022405437725,0.9033967874341488,13976.0,1913.0,1076.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,250.0,completed,,7.7240519523620605,16610,79.33627317955676,0.9286612401561776,0.8833008119846415,0.9054132524679012,14033.0,1854.0,1078.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,300.0,completed,,7.268359899520874,16602,73.92533936651584,0.9238054848741872,0.8226852143261786,0.8703179623772266,13070.0,2817.0,1078.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,0,4.0,1318,50.0,completed,,4.9830405712127686,16473,99.99392982882117,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,300.0,completed,,7.681285858154297,16611,79.58363975787746,0.9295625743359324,0.884835524246808,0.906647762059743,14068.0,1831.0,1066.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,1,4.0,1318,50.0,completed,,6.11645770072937,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,300.0,completed,,7.806102275848389,16597,78.40606781004132,0.9282937943975338,0.8714690154136521,0.8989843268325923,13852.0,2043.0,1070.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,50,2,4.0,1318,50.0,completed,,5.874601364135742,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,132.07198443579767,completed,,9.796835660934448,16603,79.41991293040086,0.9283589980834048,0.884516088407531,0.9059073906874758,14047.0,1834.0,1084.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,130.02868068833652,completed,,9.953607559204102,16613,80.5992085924251,0.9297685034235408,0.8974068479355488,0.913301092143612,14258.0,1630.0,1077.0,think,,,,,
+ASEM,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,133.53241650294694,completed,,10.046954154968262,16609,80.42175486205338,0.929495556717198,0.8954425280120861,0.912151330554665,14225.0,1661.0,1079.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,0,4.0,879,75.0,completed,,4.935296297073364,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,1,4.0,879,75.0,completed,,4.807216644287109,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,0,4.0,659,100.0,completed,,3.6402876377105713,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,1,4.0,659,100.0,completed,,3.821691751480103,16474,99.99392982882117,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,75,2,4.0,879,75.0,completed,,5.049114942550659,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,0,4.0,440,150.0,completed,,3.7633306980133057,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,1,4.0,440,150.0,completed,,3.415193557739258,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,100,2,4.0,659,100.0,completed,,4.333554744720459,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,150,2,4.0,440,150.0,completed,,3.872241735458374,16474,99.99392982882117,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,0,4.0,264,250.0,completed,,3.094014406204224,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,1,4.0,264,250.0,completed,,3.364205837249756,16474,99.98179059180576,0.9999392946032902,0.9999392946032902,0.9999392946032902,16472.0,1.0,1.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,250,2,4.0,264,250.0,completed,,3.4983556270599365,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,0,4.0,220,300.0,completed,,3.378278970718384,16474,99.98786039453718,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,1,4.0,220,300.0,completed,,3.3044421672821045,16474,99.99392982882117,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,300,2,4.0,220,300.0,completed,,3.1638455390930176,16475,99.98786039453718,1.0,0.9999392982882116,0.9999696482229034,16473.0,1.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,0,4.0,503,131.0755467196819,completed,,4.124682664871216,16474,100.0,1.0,1.0,1.0,16474.0,0.0,0.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,1,4.0,500,131.912,completed,,3.2250986099243164,16474,99.98786039453718,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM_Hybrid,Saimiri_boliviensis,Saimiri_sciureus,same-genus,variable,2,4.0,505,130.56435643564356,completed,,3.090421199798584,16473,99.99392982882117,0.9999392982882116,1.0,0.9999696482229034,16473.0,0.0,1.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,75,0,4.0,873,75.0,completed,,5.05996298789978,16553,92.85504608700758,0.9705449189985272,0.9957189624779652,0.9829707893101304,15816.0,68.0,480.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,75,1,4.0,873,75.0,completed,,8.258111953735352,16553,92.87936601115352,0.9704367026496564,0.9962221382697394,0.9831603802895668,15822.0,60.0,482.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,100,0,4.0,655,100.0,completed,,5.84332537651062,16527,93.21415970833824,0.9706692792847956,0.997922568460812,0.9841072758877576,15852.0,33.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,50,1,4.0,1310,50.0,completed,,11.391478061676024,16555,92.88481859809792,0.9706152996748666,0.9960339943342776,0.9831603802895668,15822.0,63.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,100,1,4.0,655,100.0,completed,,7.26464319229126,16554,92.77872365408324,0.9705810097039675,0.9948378973874724,0.9825597662200392,15803.0,82.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,75,2,4.0,873,75.0,completed,,8.250123262405396,16551,92.87265895614397,0.970431261885774,0.9960332451832264,0.9830655936363918,15819.0,63.0,482.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,50,0,4.0,1310,50.0,completed,,12.464747428894045,16553,92.97833617096224,0.9705828277256848,0.9970410475950642,0.98363404863203,15837.0,47.0,480.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,50,2,4.0,1310,50.0,completed,,10.717182397842407,16555,92.80850064576728,0.9705918467583498,0.9952156122127792,0.9827495104590808,15809.0,76.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,100,2,4.0,655,100.0,completed,,5.12706732749939,16469,93.255841397215,0.970584622942766,0.9949638023292414,0.9826230221641952,15805.0,80.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,150,0,4.0,437,150.0,completed,,4.839590549468994,16467,93.5205948306385,0.9706620934648128,0.9976707585772742,0.9839811250465664,15848.0,37.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,150,1,4.0,437,150.0,completed,,5.184760570526123,16467,93.4383666725674,0.9705792215752376,0.9969151347267692,0.9835709183515016,15835.0,49.0,480.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,250,0,4.0,262,250.0,completed,,4.426306247711182,16560,93.18035095956336,0.9707141110295916,0.9994963802329242,0.9848950094600044,15877.0,8.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,300,0,4.0,219,300.0,completed,,4.185203790664673,16468,93.58588540744674,0.9706836403696676,0.998426188227888,0.9843594836146972,15860.0,25.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,250,1,4.0,262,250.0,completed,,5.903882741928101,16504,93.08761186999529,0.9705340699815838,0.99534122387308,0.982781127618574,15810.0,74.0,480.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,250,2,4.0,262,250.0,completed,,6.0540080070495605,16396,93.90850912538517,0.9706026457618814,0.9977335683706876,0.9839811250465664,15848.0,36.0,480.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,150,2,4.0,437,150.0,completed,,6.937868595123291,16500,93.37416808999352,0.9706728708749158,0.9980484734025812,0.9841703395617356,15854.0,31.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,300,1,4.0,219,300.0,completed,,4.635551929473877,16548,93.01233118027012,0.970469305232202,0.9973554967888176,0.9837287293503912,15840.0,42.0,482.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,300,2,4.0,219,300.0,completed,,5.0569908618927,16396,94.1037037037037,0.9707194816309064,0.9996852376455776,0.9849894554025556,15880.0,5.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,variable,0,4.0,496,132.01209677419354,completed,,6.339589357376099,16468,93.47377116893846,0.9706495098039216,0.9972300912810828,0.983760285669927,15841.0,44.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,variable,1,4.0,502,130.58764940239044,completed,,5.913393259048462,16528,93.185159052155,0.9706620934648128,0.9976707585772742,0.9839811250465664,15848.0,37.0,479.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Gorilla_gorilla,same-family,variable,2,4.0,496,132.21370967741936,completed,,8.510573148727417,16472,93.534686172723,0.970617042115573,0.998237219843868,0.9842333954065796,15856.0,28.0,480.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,75,0,4.0,905,75.0,completed,,10.19030737876892,16581,82.94578039927404,0.9329548354171984,0.9190021364835992,0.925925925925926,14625.0,1289.0,1051.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,100,0,4.0,679,100.0,completed,,6.637954711914063,16587,86.18771989558506,0.9362016889601184,0.9534212178279976,0.9447329953659068,15188.0,742.0,1035.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,50,0,4.0,1358,50.0,completed,,14.664977312088013,16588,78.46987136086662,0.9244881680404148,0.8786404700233749,0.9009814400932854,13908.0,1921.0,1136.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,50,1,4.0,1358,50.0,completed,,14.389086484909058,16606,79.21652743282908,0.926703645007924,0.8851466414380321,0.9054485628568664,14034.0,1821.0,1110.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,50,2,4.0,1358,50.0,completed,,14.349706649780272,16596,79.18807520749816,0.9263540290620872,0.8848580441640379,0.90513068731849,14025.0,1825.0,1115.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,75,1,4.0,905,75.0,completed,,12.139162302017212,16589,83.31350892098556,0.9324247226624406,0.9251525253160576,0.9287743890888426,14709.0,1190.0,1066.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,75,2,4.0,905,75.0,completed,,11.881556272506714,16582,82.05854045179188,0.9305939004815408,0.912490556534878,0.921453320194539,14494.0,1390.0,1081.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,100,1,4.0,679,100.0,completed,,8.05373501777649,16608,85.20955027505246,0.9361370716510904,0.9425972396486826,0.9393560487652391,15025.0,915.0,1025.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,100,2,4.0,679,100.0,completed,,8.608452081680298,16607,86.27473212767164,0.9364923076923076,0.955124584196322,0.9457166827206912,15218.0,715.0,1032.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,150,1,4.0,453,150.0,completed,,5.851912260055542,16592,88.74609041796987,0.9401771191035604,0.977084898572502,0.9582757667864052,15606.0,366.0,993.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,250,0,4.0,272,250.0,completed,,5.349753379821777,16621,88.55325914149444,0.9402544161090012,0.976336546888694,0.957955836737201,15596.0,378.0,991.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,250,1,4.0,272,250.0,completed,,5.2152204513549805,16597,89.8605974395448,0.9416850515771272,0.9878651404265966,0.9642224800048844,15793.0,194.0,978.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,150,0,4.0,453,150.0,completed,,7.787140607833862,16598,89.1277152280223,0.9407033969511464,0.9810352381548476,0.96044609209841,15674.0,303.0,988.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,300,0,4.0,227,300.0,completed,,5.762485504150391,16597,89.36472729340841,0.9409545481765376,0.9833531510107016,0.9616867617357244,15713.0,266.0,986.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,250,2,4.0,272,250.0,completed,,5.92586612701416,16600,89.28246531726177,0.9408064226229704,0.9828503473743506,0.9613689237173992,15703.0,274.0,988.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,150,2,4.0,453,150.0,completed,,9.266923189163208,16586,87.16696017724252,0.93783998533097,0.962126912465513,0.9498282212386642,15344.0,604.0,1017.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,300,1,4.0,227,300.0,completed,,4.848299503326416,16623,89.19563735514656,0.9411976263262004,0.9823573573573574,0.9613371292129672,15702.0,282.0,981.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,300,2,4.0,227,300.0,completed,,4.683616399765015,16587,89.6751806132317,0.9407973263308664,0.9869154197708632,0.9633047144734028,15764.0,209.0,992.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,variable,0,4.0,523,130.02868068833652,completed,,7.183377027511597,16593,87.0621629293216,0.937522924562905,0.9619268644546196,0.9495681248258568,15336.0,607.0,1022.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,variable,2,4.0,509,133.53241650294694,completed,,8.292166471481323,16621,86.43270212042182,0.9374615668429468,0.9559192375219464,0.946600434647625,15245.0,703.0,1017.0,think,,,,,
+ASEM_Hybrid,Homo_sapiens,Varecia_variegata,same-order,variable,1,4.0,514,132.07198443579767,completed,,9.67721939086914,16605,88.21357568872479,0.939503932244404,0.9727528969621048,0.9558393599015234,15530.0,435.0,1000.0,think,,,,,

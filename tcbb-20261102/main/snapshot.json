@@ -1,0 +1,1991 @@
+{
+  "bench_commit": "226a2892a6dd481deb1e6539ffc97320e998f690",
+  "environments": {
+    "genome": [
+      {
+        "build": "20_gnu",
+        "name": "_openmp_mutex",
+        "version": "4.5"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "alsa-lib",
+        "version": "1.2.16.1"
+      },
+      {
+        "build": "pyhc364b38_0",
+        "name": "array-api-compat",
+        "version": "1.15.0"
+      },
+      {
+        "build": "py314h680f03e_0",
+        "name": "backports.zstd",
+        "version": "1.7.0"
+      },
+      {
+        "build": "py314h31f8a6b_1",
+        "name": "biom-format",
+        "version": "2.1.17"
+      },
+      {
+        "build": "h505cf86_3",
+        "name": "brotli",
+        "version": "1.2.0"
+      },
+      {
+        "build": "h9908984_3",
+        "name": "brotli-bin",
+        "version": "1.2.0"
+      },
+      {
+        "build": "py314hcd2bdb6_3",
+        "name": "brotli-python",
+        "version": "1.2.0"
+      },
+      {
+        "build": "hda65f42_10",
+        "name": "bzip2",
+        "version": "1.0.8"
+      },
+      {
+        "build": "h280c20c_1",
+        "name": "c-ares",
+        "version": "1.34.8"
+      },
+      {
+        "build": "hbd8a1cb_0",
+        "name": "ca-certificates",
+        "version": "2026.7.22"
+      },
+      {
+        "build": "hd8ed1ab_2",
+        "name": "cached-property",
+        "version": "1.5.2"
+      },
+      {
+        "build": "pyha770c72_2",
+        "name": "cached_property",
+        "version": "1.5.2"
+      },
+      {
+        "build": "he90730b_1",
+        "name": "cairo",
+        "version": "1.18.4"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "certifi",
+        "version": "2026.7.22"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "charset-normalizer",
+        "version": "3.5.1"
+      },
+      {
+        "build": "pyhc90fa1f_0",
+        "name": "click",
+        "version": "8.4.2"
+      },
+      {
+        "build": "pyhd8ed1ab_1",
+        "name": "colorama",
+        "version": "0.4.6"
+      },
+      {
+        "build": "py314h97ea11e_4",
+        "name": "contourpy",
+        "version": "1.3.3"
+      },
+      {
+        "build": "h4e3cde8_0",
+        "name": "curl",
+        "version": "8.18.0"
+      },
+      {
+        "build": "pyhcf101f3_2",
+        "name": "cycler",
+        "version": "0.12.1"
+      },
+      {
+        "build": "hd9c7081_0",
+        "name": "cyrus-sasl",
+        "version": "2.1.28"
+      },
+      {
+        "build": "h24cb091_1",
+        "name": "dbus",
+        "version": "1.16.2"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "decorator",
+        "version": "5.3.1"
+      },
+      {
+        "build": "hecca717_0",
+        "name": "double-conversion",
+        "version": "3.4.0"
+      },
+      {
+        "build": "2",
+        "name": "emboss",
+        "version": "6.5.7"
+      },
+      {
+        "build": "pyhd8ed1ab_1",
+        "name": "et_xmlfile",
+        "version": "2.0.0"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "exceptiongroup",
+        "version": "1.3.1"
+      },
+      {
+        "build": "hab24e00_0",
+        "name": "font-ttf-dejavu-sans-mono",
+        "version": "2.37"
+      },
+      {
+        "build": "h77eed37_0",
+        "name": "font-ttf-inconsolata",
+        "version": "3.000"
+      },
+      {
+        "build": "h77eed37_0",
+        "name": "font-ttf-source-code-pro",
+        "version": "2.038"
+      },
+      {
+        "build": "h77eed37_3",
+        "name": "font-ttf-ubuntu",
+        "version": "0.83"
+      },
+      {
+        "build": "h4db4eae_1",
+        "name": "fontconfig",
+        "version": "2.18.3"
+      },
+      {
+        "build": "0",
+        "name": "fonts-conda-ecosystem",
+        "version": "1"
+      },
+      {
+        "build": "hc364b38_1",
+        "name": "fonts-conda-forge",
+        "version": "1"
+      },
+      {
+        "build": "pyh7db6752_0",
+        "name": "fonttools",
+        "version": "4.63.0"
+      },
+      {
+        "build": "ha770c72_2",
+        "name": "freetype",
+        "version": "2.14.3"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "fribidi",
+        "version": "1.0.16"
+      },
+      {
+        "build": "h54a6638_1",
+        "name": "graphite2",
+        "version": "1.3.15"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "h2",
+        "version": "4.4.1"
+      },
+      {
+        "build": "nompi_py314he0d6181_103",
+        "name": "h5py",
+        "version": "3.16.0"
+      },
+      {
+        "build": "ha770c72_0",
+        "name": "harfbuzz",
+        "version": "14.3.1"
+      },
+      {
+        "build": "nompi_h19486de_106",
+        "name": "hdf5",
+        "version": "1.14.6"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "hpack",
+        "version": "4.2.0"
+      },
+      {
+        "build": "h566b1c6_0",
+        "name": "htslib",
+        "version": "1.23"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "hyperframe",
+        "version": "6.1.0"
+      },
+      {
+        "build": "py310h44b86e0_2",
+        "name": "icu",
+        "version": "78.3"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "idna",
+        "version": "3.18"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "iniconfig",
+        "version": "2.3.0"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "keyutils",
+        "version": "1.6.3"
+      },
+      {
+        "build": "py314h97ea11e_0",
+        "name": "kiwisolver",
+        "version": "1.5.0"
+      },
+      {
+        "build": "h659f571_0",
+        "name": "krb5",
+        "version": "1.21.3"
+      },
+      {
+        "build": "h0c24ade_1",
+        "name": "lcms2",
+        "version": "2.19.1"
+      },
+      {
+        "build": "default_hbd61a6d_102",
+        "name": "ld_impl_linux-64",
+        "version": "2.46.1"
+      },
+      {
+        "build": "hdb68285_0",
+        "name": "lerc",
+        "version": "4.2.0"
+      },
+      {
+        "build": "h088129d_0",
+        "name": "libaec",
+        "version": "1.1.5"
+      },
+      {
+        "build": "9_h4a7cf45_openblas",
+        "name": "libblas",
+        "version": "3.11.0"
+      },
+      {
+        "build": "h39a168f_3",
+        "name": "libbrotlicommon",
+        "version": "1.2.0"
+      },
+      {
+        "build": "ha411449_3",
+        "name": "libbrotlidec",
+        "version": "1.2.0"
+      },
+      {
+        "build": "h018ffa1_3",
+        "name": "libbrotlienc",
+        "version": "1.2.0"
+      },
+      {
+        "build": "9_h0358290_openblas",
+        "name": "libcblas",
+        "version": "3.11.0"
+      },
+      {
+        "build": "default_h4f0048e_5",
+        "name": "libclang-cpp21.1",
+        "version": "21.1.8"
+      },
+      {
+        "build": "default_h08c5240_6",
+        "name": "libclang-cpp22.1",
+        "version": "22.1.8"
+      },
+      {
+        "build": "default_hd70ba2e_6",
+        "name": "libclang13",
+        "version": "22.1.8"
+      },
+      {
+        "build": "hb8b1518_5",
+        "name": "libcups",
+        "version": "2.3.3"
+      },
+      {
+        "build": "h4e3cde8_0",
+        "name": "libcurl",
+        "version": "8.18.0"
+      },
+      {
+        "build": "hd45a770_1",
+        "name": "libdeflate",
+        "version": "1.25"
+      },
+      {
+        "build": "h7cc23a3_0",
+        "name": "libdrm",
+        "version": "2.4.129"
+      },
+      {
+        "build": "h46ee950_2",
+        "name": "libedit",
+        "version": "3.1.20191231"
+      },
+      {
+        "build": "ha4b6fd6_3",
+        "name": "libegl",
+        "version": "1.7.0"
+      },
+      {
+        "build": "h280c20c_3",
+        "name": "libev",
+        "version": "4.33"
+      },
+      {
+        "build": "hecca717_1",
+        "name": "libexpat",
+        "version": "2.8.1"
+      },
+      {
+        "build": "h3435931_0",
+        "name": "libffi",
+        "version": "3.7.0"
+      },
+      {
+        "build": "ha770c72_2",
+        "name": "libfreetype",
+        "version": "2.14.3"
+      },
+      {
+        "build": "h5e6c136_2",
+        "name": "libfreetype6",
+        "version": "2.14.3"
+      },
+      {
+        "build": "ha9f2e26_1",
+        "name": "libgcc",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h69a702a_1",
+        "name": "libgcc-ng",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h69a702a_1",
+        "name": "libgfortran",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h79bb938_1",
+        "name": "libgfortran5",
+        "version": "16.1.0"
+      },
+      {
+        "build": "ha4b6fd6_3",
+        "name": "libgl",
+        "version": "1.7.0"
+      },
+      {
+        "build": "h45c3219_1",
+        "name": "libglib",
+        "version": "2.88.3"
+      },
+      {
+        "build": "ha4b6fd6_3",
+        "name": "libglvnd",
+        "version": "1.7.0"
+      },
+      {
+        "build": "ha4b6fd6_3",
+        "name": "libglx",
+        "version": "1.7.0"
+      },
+      {
+        "build": "he0feb66_1",
+        "name": "libgomp",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h23af247_0",
+        "name": "libharfbuzz",
+        "version": "14.3.1"
+      },
+      {
+        "build": "h23af247_0",
+        "name": "libharfbuzz-devel",
+        "version": "14.3.1"
+      },
+      {
+        "build": "h3b78370_2",
+        "name": "libiconv",
+        "version": "1.18"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "libjpeg-turbo",
+        "version": "3.2.0"
+      },
+      {
+        "build": "9_h47877c9_openblas",
+        "name": "liblapack",
+        "version": "3.11.0"
+      },
+      {
+        "build": "hf7376ad_0",
+        "name": "libllvm21",
+        "version": "21.1.8"
+      },
+      {
+        "build": "hf7376ad_1",
+        "name": "libllvm22",
+        "version": "22.1.8"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "liblzma",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "liblzma-devel",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hb03c661_2",
+        "name": "libmpdec",
+        "version": "4.0.0"
+      },
+      {
+        "build": "h877daf1_0",
+        "name": "libnghttp2",
+        "version": "1.68.1"
+      },
+      {
+        "build": "hb9d3cd8_0",
+        "name": "libntlm",
+        "version": "1.8"
+      },
+      {
+        "build": "pthreads_h94d23a6_0",
+        "name": "libopenblas",
+        "version": "0.3.34"
+      },
+      {
+        "build": "ha4b6fd6_3",
+        "name": "libopengl",
+        "version": "1.7.0"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "libpciaccess",
+        "version": "0.19"
+      },
+      {
+        "build": "h922cc85_1",
+        "name": "libpng",
+        "version": "1.6.58"
+      },
+      {
+        "build": "hb80d175_0",
+        "name": "libpq",
+        "version": "18.2"
+      },
+      {
+        "build": "h6406941_0",
+        "name": "libraqm",
+        "version": "0.11.0"
+      },
+      {
+        "build": "hf4e2dac_0",
+        "name": "libsqlite",
+        "version": "3.53.4"
+      },
+      {
+        "build": "h6154650_1",
+        "name": "libssh2",
+        "version": "1.11.1"
+      },
+      {
+        "build": "h934c35e_1",
+        "name": "libstdcxx",
+        "version": "16.1.0"
+      },
+      {
+        "build": "hdf11a46_1",
+        "name": "libstdcxx-ng",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h9d88235_0",
+        "name": "libtiff",
+        "version": "4.7.2"
+      },
+      {
+        "build": "h5347b49_0",
+        "name": "libuuid",
+        "version": "2.42.2"
+      },
+      {
+        "build": "h5279c79_0",
+        "name": "libvulkan-loader",
+        "version": "1.4.357.0"
+      },
+      {
+        "build": "hd42ef1d_1",
+        "name": "libwebp-base",
+        "version": "1.6.0"
+      },
+      {
+        "build": "h8a09558_0",
+        "name": "libxcb",
+        "version": "1.17.0"
+      },
+      {
+        "build": "h280c20c_0",
+        "name": "libxcrypt",
+        "version": "4.4.38"
+      },
+      {
+        "build": "hca5e8e5_0",
+        "name": "libxkbcommon",
+        "version": "1.13.2"
+      },
+      {
+        "build": "hca6bf5a_0",
+        "name": "libxml2-16",
+        "version": "2.15.3"
+      },
+      {
+        "build": "h49c6c72_0",
+        "name": "libxml2",
+        "version": "2.15.3"
+      },
+      {
+        "build": "h711ed8c_1",
+        "name": "libxslt",
+        "version": "1.1.43"
+      },
+      {
+        "build": "h25fd6f3_3",
+        "name": "libzlib",
+        "version": "1.3.2"
+      },
+      {
+        "build": "py314h815e797_2",
+        "name": "matplotlib",
+        "version": "3.11.1"
+      },
+      {
+        "build": "py314h9a9c090_2",
+        "name": "matplotlib-base",
+        "version": "3.11.1"
+      },
+      {
+        "build": "pyhd8ed1ab_1",
+        "name": "munkres",
+        "version": "1.1.4"
+      },
+      {
+        "build": "pyhcf101f3_2",
+        "name": "natsort",
+        "version": "8.4.0"
+      },
+      {
+        "build": "hdb14827_1",
+        "name": "ncurses",
+        "version": "6.6"
+      },
+      {
+        "build": "pl5321hdfd78af_0",
+        "name": "novoplasty",
+        "version": "4.3.5"
+      },
+      {
+        "build": "py314h2b28147_0",
+        "name": "numpy",
+        "version": "2.5.2"
+      },
+      {
+        "build": "h55fea9a_0",
+        "name": "openjpeg",
+        "version": "2.5.4"
+      },
+      {
+        "build": "he970967_0",
+        "name": "openldap",
+        "version": "2.6.10"
+      },
+      {
+        "build": "py314h035d240_4",
+        "name": "openpyxl",
+        "version": "3.1.5"
+      },
+      {
+        "build": "h35e630c_1",
+        "name": "openssl",
+        "version": "3.6.3"
+      },
+      {
+        "build": "pyhc364b38_0",
+        "name": "packaging",
+        "version": "26.3"
+      },
+      {
+        "build": "py314hb4ffadd_1",
+        "name": "pandas",
+        "version": "3.0.5"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "patsy",
+        "version": "1.0.2"
+      },
+      {
+        "build": "haa7fec5_0",
+        "name": "pcre2",
+        "version": "10.47"
+      },
+      {
+        "build": "7_hd590300_perl5",
+        "name": "perl",
+        "version": "5.32.1"
+      },
+      {
+        "build": "py314h8ec4b1a_0",
+        "name": "pillow",
+        "version": "12.3.0"
+      },
+      {
+        "build": "pyh145f28c_0",
+        "name": "pip",
+        "version": "26.2.1"
+      },
+      {
+        "build": "h54a6638_3",
+        "name": "pixman",
+        "version": "0.46.4"
+      },
+      {
+        "build": "pyhf9edf01_1",
+        "name": "pluggy",
+        "version": "1.6.0"
+      },
+      {
+        "build": "hb03c661_1003",
+        "name": "pthread-stubs",
+        "version": "0.4"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "pygments",
+        "version": "2.21.0"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "pyparsing",
+        "version": "3.3.2"
+      },
+      {
+        "build": "py314h3987850_3",
+        "name": "pyside6",
+        "version": "6.10.2"
+      },
+      {
+        "build": "pyha55dd90_7",
+        "name": "pysocks",
+        "version": "1.7.1"
+      },
+      {
+        "build": "pyhc364b38_2",
+        "name": "pytest",
+        "version": "9.1.1"
+      },
+      {
+        "build": "h242f9ac_102_cp314",
+        "name": "python",
+        "version": "3.14.6"
+      },
+      {
+        "build": "pyhe01879c_2",
+        "name": "python-dateutil",
+        "version": "2.9.0.post0"
+      },
+      {
+        "build": "8_cp314",
+        "name": "python_abi",
+        "version": "3.14"
+      },
+      {
+        "build": "h434a139_5",
+        "name": "qhull",
+        "version": "2020.2"
+      },
+      {
+        "build": "hb82b983_4",
+        "name": "qt6-main",
+        "version": "6.10.2"
+      },
+      {
+        "build": "h853b02a_0",
+        "name": "readline",
+        "version": "8.3"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "requests",
+        "version": "2.34.2"
+      },
+      {
+        "build": "h96c455f_1",
+        "name": "samtools",
+        "version": "1.21"
+      },
+      {
+        "build": "py314hc02f841_0",
+        "name": "scikit-bio",
+        "version": "0.7.3"
+      },
+      {
+        "build": "py314hf07bd8e_0",
+        "name": "scipy",
+        "version": "1.18.0"
+      },
+      {
+        "build": "hd8ed1ab_3",
+        "name": "seaborn",
+        "version": "0.13.2"
+      },
+      {
+        "build": "pyhd8ed1ab_3",
+        "name": "seaborn-base",
+        "version": "0.13.2"
+      },
+      {
+        "build": "pyh332efcf_0",
+        "name": "setuptools",
+        "version": "84.0.0"
+      },
+      {
+        "build": "pyhe01879c_1",
+        "name": "six",
+        "version": "1.17.0"
+      },
+      {
+        "build": "py314hc02f841_0",
+        "name": "statsmodels",
+        "version": "0.14.6"
+      },
+      {
+        "build": "noxft_h4845f30_101",
+        "name": "tk",
+        "version": "8.6.13"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "tomli",
+        "version": "2.4.1"
+      },
+      {
+        "build": "py314h5bd0f2a_0",
+        "name": "tornado",
+        "version": "6.5.8"
+      },
+      {
+        "build": "pyhcf101f3_0",
+        "name": "typing_extensions",
+        "version": "4.16.0"
+      },
+      {
+        "build": "h151e31d_0",
+        "name": "tzdata",
+        "version": "2026c"
+      },
+      {
+        "build": "py314h5bd0f2a_0",
+        "name": "unicodedata2",
+        "version": "17.0.1"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "urllib3",
+        "version": "2.7.0"
+      },
+      {
+        "build": "h1964d1d_1",
+        "name": "wayland",
+        "version": "1.26.0"
+      },
+      {
+        "build": "h4f16b4b_2",
+        "name": "xcb-util",
+        "version": "0.4.1"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xcb-util-cursor",
+        "version": "0.1.6"
+      },
+      {
+        "build": "hb711507_2",
+        "name": "xcb-util-image",
+        "version": "0.4.0"
+      },
+      {
+        "build": "hb711507_0",
+        "name": "xcb-util-keysyms",
+        "version": "0.4.1"
+      },
+      {
+        "build": "hb711507_0",
+        "name": "xcb-util-renderutil",
+        "version": "0.3.10"
+      },
+      {
+        "build": "hb711507_0",
+        "name": "xcb-util-wm",
+        "version": "0.4.2"
+      },
+      {
+        "build": "h280c20c_0",
+        "name": "xkeyboard-config",
+        "version": "2.48"
+      },
+      {
+        "build": "h280c20c_0",
+        "name": "xorg-libice",
+        "version": "1.1.2"
+      },
+      {
+        "build": "h0d788c3_1",
+        "name": "xorg-libsm",
+        "version": "1.2.6"
+      },
+      {
+        "build": "he1eb515_0",
+        "name": "xorg-libx11",
+        "version": "1.8.13"
+      },
+      {
+        "build": "hb03c661_2",
+        "name": "xorg-libxau",
+        "version": "1.0.12"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xorg-libxcomposite",
+        "version": "0.4.7"
+      },
+      {
+        "build": "hb9d3cd8_0",
+        "name": "xorg-libxcursor",
+        "version": "1.2.3"
+      },
+      {
+        "build": "hb9d3cd8_0",
+        "name": "xorg-libxdamage",
+        "version": "1.1.6"
+      },
+      {
+        "build": "hb03c661_2",
+        "name": "xorg-libxdmcp",
+        "version": "1.1.5"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xorg-libxext",
+        "version": "1.3.7"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xorg-libxfixes",
+        "version": "6.0.2"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xorg-libxi",
+        "version": "1.8.3"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xorg-libxrandr",
+        "version": "1.5.5"
+      },
+      {
+        "build": "hb9d3cd8_0",
+        "name": "xorg-libxrender",
+        "version": "0.9.12"
+      },
+      {
+        "build": "hb9d3cd8_3",
+        "name": "xorg-libxtst",
+        "version": "1.2.5"
+      },
+      {
+        "build": "hb03c661_0",
+        "name": "xorg-libxxf86vm",
+        "version": "1.1.7"
+      },
+      {
+        "build": "ha02ee65_1",
+        "name": "xz",
+        "version": "5.8.3"
+      },
+      {
+        "build": "ha02ee65_1",
+        "name": "xz-gpl-tools",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "xz-tools",
+        "version": "5.8.3"
+      },
+      {
+        "build": "h25fd6f3_3",
+        "name": "zlib",
+        "version": "1.3.2"
+      },
+      {
+        "build": "hce19668_1",
+        "name": "zlib-ng",
+        "version": "2.3.3"
+      },
+      {
+        "build": "hb78ec9c_7",
+        "name": "zstd",
+        "version": "1.5.7"
+      }
+    ],
+    "getorganelle": [
+      {
+        "build": "20_gnu",
+        "name": "_openmp_mutex",
+        "version": "4.5"
+      },
+      {
+        "build": "hc155240_3",
+        "name": "blast",
+        "version": "2.16.0"
+      },
+      {
+        "build": "h7071971_4",
+        "name": "bowtie2",
+        "version": "2.5.4"
+      },
+      {
+        "build": "hda65f42_10",
+        "name": "bzip2",
+        "version": "1.0.8"
+      },
+      {
+        "build": "h470a237_1",
+        "name": "c-ares",
+        "version": "1.11.0"
+      },
+      {
+        "build": "hbd8a1cb_0",
+        "name": "ca-certificates",
+        "version": "2026.7.22"
+      },
+      {
+        "build": "he644dc0_8",
+        "name": "curl",
+        "version": "7.71.1"
+      },
+      {
+        "build": "he881be0_0",
+        "name": "entrez-direct",
+        "version": "22.4"
+      },
+      {
+        "build": "pyh7cba7a3_0",
+        "name": "getorganelle",
+        "version": "1.7.7.0"
+      },
+      {
+        "build": "hfd2156b_3",
+        "name": "gmp",
+        "version": "6.3.0"
+      },
+      {
+        "build": "py36h3f4d9dc_0",
+        "name": "gmpy2",
+        "version": "2.1.0b5"
+      },
+      {
+        "build": "he073ed8_18",
+        "name": "kernel-headers_linux-64",
+        "version": "3.10.0"
+      },
+      {
+        "build": "h926e7f8_0",
+        "name": "krb5",
+        "version": "1.17.2"
+      },
+      {
+        "build": "bootstrap_ha15bf96_2",
+        "name": "ld_impl_linux-64",
+        "version": "2.46.1"
+      },
+      {
+        "build": "20_linux64_openblas",
+        "name": "libblas",
+        "version": "3.9.0"
+      },
+      {
+        "build": "20_linux64_openblas",
+        "name": "libcblas",
+        "version": "3.9.0"
+      },
+      {
+        "build": "hcdd3856_8",
+        "name": "libcurl",
+        "version": "7.71.1"
+      },
+      {
+        "build": "pl5321h373387f_1",
+        "name": "libedit",
+        "version": "3.1.20250104"
+      },
+      {
+        "build": "h280c20c_3",
+        "name": "libev",
+        "version": "4.33"
+      },
+      {
+        "build": "h2dba641_1",
+        "name": "libffi",
+        "version": "3.4.6"
+      },
+      {
+        "build": "ha9f2e26_1",
+        "name": "libgcc",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h69a702a_1",
+        "name": "libgcc-ng",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h69a702a_1",
+        "name": "libgfortran",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h69a702a_1",
+        "name": "libgfortran-ng",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h79bb938_1",
+        "name": "libgfortran5",
+        "version": "16.1.0"
+      },
+      {
+        "build": "he0feb66_1",
+        "name": "libgomp",
+        "version": "16.1.0"
+      },
+      {
+        "build": "hfac485b_1",
+        "name": "libidn2",
+        "version": "2.3.8"
+      },
+      {
+        "build": "20_linux64_openblas",
+        "name": "liblapack",
+        "version": "3.9.0"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "liblzma",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "liblzma-devel",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hab1572f_1",
+        "name": "libnghttp2",
+        "version": "1.41.0"
+      },
+      {
+        "build": "hb9d3cd8_1",
+        "name": "libnsl",
+        "version": "2.0.1"
+      },
+      {
+        "build": "pthreads_h413a1c8_0",
+        "name": "libopenblas",
+        "version": "0.3.25"
+      },
+      {
+        "build": "hde9e2c9_0",
+        "name": "libsqlite",
+        "version": "3.46.0"
+      },
+      {
+        "build": "haa6b8db_3",
+        "name": "libssh2",
+        "version": "1.10.0"
+      },
+      {
+        "build": "h934c35e_1",
+        "name": "libstdcxx",
+        "version": "16.1.0"
+      },
+      {
+        "build": "hdf11a46_1",
+        "name": "libstdcxx-ng",
+        "version": "16.1.0"
+      },
+      {
+        "build": "h7f98852_0",
+        "name": "libunistring",
+        "version": "0.9.10"
+      },
+      {
+        "build": "h4ab18f5_6",
+        "name": "libzlib",
+        "version": "1.2.13"
+      },
+      {
+        "build": "hc9558a2_0",
+        "name": "llvm-openmp",
+        "version": "8.0.1"
+      },
+      {
+        "build": "he0a73b1_0",
+        "name": "mpc",
+        "version": "1.4.0"
+      },
+      {
+        "build": "he0a73b1_0",
+        "name": "mpfr",
+        "version": "4.2.2"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "mpmath",
+        "version": "1.3.0"
+      },
+      {
+        "build": "hd63eeec_0",
+        "name": "ncbi-vdb",
+        "version": "3.4.1"
+      },
+      {
+        "build": "hdb14827_1",
+        "name": "ncurses",
+        "version": "6.6"
+      },
+      {
+        "build": "py36hfc0c790_2",
+        "name": "numpy",
+        "version": "1.19.5"
+      },
+      {
+        "build": "0",
+        "name": "openmp",
+        "version": "8.0.1"
+      },
+      {
+        "build": "hd590300_0",
+        "name": "openssl",
+        "version": "1.1.1w"
+      },
+      {
+        "build": "h36c2ea0_1008",
+        "name": "perl",
+        "version": "5.26.2"
+      },
+      {
+        "build": "pl526_0",
+        "name": "perl-archive-tar",
+        "version": "2.32"
+      },
+      {
+        "build": "pl526_3",
+        "name": "perl-carp",
+        "version": "1.38"
+      },
+      {
+        "build": "pl526_2",
+        "name": "perl-common-sense",
+        "version": "3.74"
+      },
+      {
+        "build": "pl526he1b5a44_0",
+        "name": "perl-compress-raw-bzip2",
+        "version": "2.087"
+      },
+      {
+        "build": "pl526hc9558a2_0",
+        "name": "perl-compress-raw-zlib",
+        "version": "2.087"
+      },
+      {
+        "build": "pl526_1",
+        "name": "perl-exporter",
+        "version": "5.72"
+      },
+      {
+        "build": "pl526_0",
+        "name": "perl-exporter-tiny",
+        "version": "1.002001"
+      },
+      {
+        "build": "pl526_1",
+        "name": "perl-extutils-makemaker",
+        "version": "7.36"
+      },
+      {
+        "build": "pl526he1b5a44_0",
+        "name": "perl-io-compress",
+        "version": "2.087"
+      },
+      {
+        "build": "pl526_2",
+        "name": "perl-io-zlib",
+        "version": "1.10"
+      },
+      {
+        "build": "pl526_0",
+        "name": "perl-json",
+        "version": "4.02"
+      },
+      {
+        "build": "pl526h6bb024c_3",
+        "name": "perl-json-xs",
+        "version": "2.34"
+      },
+      {
+        "build": "pl526_1",
+        "name": "perl-list-moreutils",
+        "version": "0.428"
+      },
+      {
+        "build": "pl526_0",
+        "name": "perl-list-moreutils-xs",
+        "version": "0.428"
+      },
+      {
+        "build": "pl526h14c3975_1",
+        "name": "perl-pathtools",
+        "version": "3.75"
+      },
+      {
+        "build": "pl526h516909a_0",
+        "name": "perl-scalar-list-utils",
+        "version": "1.52"
+      },
+      {
+        "build": "pl526_2",
+        "name": "perl-types-serialiser",
+        "version": "1.0"
+      },
+      {
+        "build": "pl526_0",
+        "name": "perl-xsloader",
+        "version": "0.24"
+      },
+      {
+        "build": "h2797004_0",
+        "name": "pigz",
+        "version": "2.8"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "pip",
+        "version": "21.3.1"
+      },
+      {
+        "build": "hb7a2778_0_cpython",
+        "name": "python",
+        "version": "3.6.15"
+      },
+      {
+        "build": "2_cp36m",
+        "name": "python_abi",
+        "version": "3.6"
+      },
+      {
+        "build": "hd6e31c0_1",
+        "name": "readline",
+        "version": "8.3"
+      },
+      {
+        "build": "py36_0",
+        "name": "requests",
+        "version": "2.13.0"
+      },
+      {
+        "build": "h6a68c12_1",
+        "name": "rpsbproc",
+        "version": "0.5.0"
+      },
+      {
+        "build": "py36h81d768a_1",
+        "name": "scipy",
+        "version": "1.5.3"
+      },
+      {
+        "build": "py36h5fab9bb_2",
+        "name": "setuptools",
+        "version": "58.0.4"
+      },
+      {
+        "build": "h95f258a_1",
+        "name": "spades",
+        "version": "3.15.5"
+      },
+      {
+        "build": "h6d4b2fc_0",
+        "name": "sqlite",
+        "version": "3.46.0"
+      },
+      {
+        "build": "py36h5fab9bb_0",
+        "name": "sympy",
+        "version": "1.8"
+      },
+      {
+        "build": "h0157908_18",
+        "name": "sysroot_linux-64",
+        "version": "2.17"
+      },
+      {
+        "build": "h4bd325d_4",
+        "name": "tbb",
+        "version": "2020.2"
+      },
+      {
+        "build": "noxft_h4845f30_101",
+        "name": "tk",
+        "version": "8.6.13"
+      },
+      {
+        "build": "h151e31d_0",
+        "name": "tzdata",
+        "version": "2026c"
+      },
+      {
+        "build": "ha56f1ee_1",
+        "name": "wget",
+        "version": "1.20.3"
+      },
+      {
+        "build": "pyhd8ed1ab_0",
+        "name": "wheel",
+        "version": "0.37.1"
+      },
+      {
+        "build": "ha02ee65_1",
+        "name": "xz",
+        "version": "5.8.3"
+      },
+      {
+        "build": "ha02ee65_1",
+        "name": "xz-gpl-tools",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "xz-tools",
+        "version": "5.8.3"
+      },
+      {
+        "build": "h4ab18f5_6",
+        "name": "zlib",
+        "version": "1.2.13"
+      },
+      {
+        "build": "ha6fb4c9_0",
+        "name": "zstd",
+        "version": "1.5.6"
+      }
+    ],
+    "mia-assembler": [
+      {
+        "build": "20_gnu",
+        "name": "_openmp_mutex",
+        "version": "4.5"
+      },
+      {
+        "build": "ha9f2e26_7",
+        "name": "libgcc",
+        "version": "16.2.0"
+      },
+      {
+        "build": "he0feb66_7",
+        "name": "libgomp",
+        "version": "16.2.0"
+      },
+      {
+        "build": "h934c35e_7",
+        "name": "libstdcxx",
+        "version": "16.2.0"
+      },
+      {
+        "build": "h503566f_7",
+        "name": "mapping-iterative-assembler",
+        "version": "1.0"
+      }
+    ],
+    "pilon-benchmark": [
+      {
+        "build": "20_gnu",
+        "name": "_openmp_mutex",
+        "version": "4.5"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "alsa-lib",
+        "version": "1.2.16.1"
+      },
+      {
+        "build": "h577a1d6_1",
+        "name": "bwa",
+        "version": "0.7.19"
+      },
+      {
+        "build": "hda65f42_10",
+        "name": "bzip2",
+        "version": "1.0.8"
+      },
+      {
+        "build": "hebe6cf0_2",
+        "name": "c-ares",
+        "version": "1.34.8"
+      },
+      {
+        "build": "hbd8a1cb_0",
+        "name": "ca-certificates",
+        "version": "2026.7.22"
+      },
+      {
+        "build": "h3c89d7e_0",
+        "name": "cairo",
+        "version": "1.18.6"
+      },
+      {
+        "build": "hab24e00_0",
+        "name": "font-ttf-dejavu-sans-mono",
+        "version": "2.37"
+      },
+      {
+        "build": "h77eed37_0",
+        "name": "font-ttf-inconsolata",
+        "version": "3.000"
+      },
+      {
+        "build": "h77eed37_0",
+        "name": "font-ttf-source-code-pro",
+        "version": "2.038"
+      },
+      {
+        "build": "h77eed37_3",
+        "name": "font-ttf-ubuntu",
+        "version": "0.83"
+      },
+      {
+        "build": "h4db4eae_1",
+        "name": "fontconfig",
+        "version": "2.18.3"
+      },
+      {
+        "build": "0",
+        "name": "fonts-conda-ecosystem",
+        "version": "1"
+      },
+      {
+        "build": "hc364b38_1",
+        "name": "fonts-conda-forge",
+        "version": "1"
+      },
+      {
+        "build": "hebe6cf0_2",
+        "name": "giflib",
+        "version": "6.1.3"
+      },
+      {
+        "build": "h54a6638_1",
+        "name": "graphite2",
+        "version": "1.3.15"
+      },
+      {
+        "build": "ha79157c_0",
+        "name": "htslib",
+        "version": "1.24"
+      },
+      {
+        "build": "py310h44b86e0_2",
+        "name": "icu",
+        "version": "78.3"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "keyutils",
+        "version": "1.6.3"
+      },
+      {
+        "build": "hbc21106_2",
+        "name": "krb5",
+        "version": "1.22.2"
+      },
+      {
+        "build": "h9073bf1_3",
+        "name": "lcms2",
+        "version": "2.19.1"
+      },
+      {
+        "build": "default_hbd61a6d_102",
+        "name": "ld_impl_linux-64",
+        "version": "2.46.1"
+      },
+      {
+        "build": "hdb68285_0",
+        "name": "lerc",
+        "version": "4.2.0"
+      },
+      {
+        "build": "h7a8fb5f_6",
+        "name": "libcups",
+        "version": "2.3.3"
+      },
+      {
+        "build": "ha042cf0_0",
+        "name": "libcurl",
+        "version": "8.22.0"
+      },
+      {
+        "build": "hd45a770_1",
+        "name": "libdeflate",
+        "version": "1.25"
+      },
+      {
+        "build": "pl5321h373387f_1",
+        "name": "libedit",
+        "version": "3.1.20250104"
+      },
+      {
+        "build": "h280c20c_3",
+        "name": "libev",
+        "version": "4.33"
+      },
+      {
+        "build": "hd2095e1_0",
+        "name": "libexpat",
+        "version": "2.8.5"
+      },
+      {
+        "build": "h81df57d_1",
+        "name": "libffi",
+        "version": "3.7.0"
+      },
+      {
+        "build": "ha770c72_2",
+        "name": "libfreetype",
+        "version": "2.14.3"
+      },
+      {
+        "build": "h5e6c136_2",
+        "name": "libfreetype6",
+        "version": "2.14.3"
+      },
+      {
+        "build": "ha9f2e26_7",
+        "name": "libgcc",
+        "version": "16.2.0"
+      },
+      {
+        "build": "h569388d_0",
+        "name": "libglib",
+        "version": "2.90.0"
+      },
+      {
+        "build": "he0feb66_7",
+        "name": "libgomp",
+        "version": "16.2.0"
+      },
+      {
+        "build": "h23af247_0",
+        "name": "libharfbuzz",
+        "version": "14.5.0"
+      },
+      {
+        "build": "h0cb94f2_3",
+        "name": "libiconv",
+        "version": "1.18"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "libjpeg-turbo",
+        "version": "3.2.0"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "liblzma",
+        "version": "5.8.3"
+      },
+      {
+        "build": "hb03c661_2",
+        "name": "libmpdec",
+        "version": "4.0.0"
+      },
+      {
+        "build": "h74cf4be_1",
+        "name": "libnghttp2",
+        "version": "1.68.1"
+      },
+      {
+        "build": "h922cc85_1",
+        "name": "libpng",
+        "version": "1.6.58"
+      },
+      {
+        "build": "hd9e3e90_1",
+        "name": "libpsl",
+        "version": "0.23.1"
+      },
+      {
+        "build": "hdc7f604_106_cp314",
+        "name": "libpython",
+        "version": "3.14.7"
+      },
+      {
+        "build": "h13e7031_1",
+        "name": "libsqlite",
+        "version": "3.53.4"
+      },
+      {
+        "build": "h6154650_1",
+        "name": "libssh2",
+        "version": "1.11.1"
+      },
+      {
+        "build": "h934c35e_7",
+        "name": "libstdcxx",
+        "version": "16.2.0"
+      },
+      {
+        "build": "hcc2c06a_1",
+        "name": "libtiff",
+        "version": "4.7.2"
+      },
+      {
+        "build": "hcfc3c73_0",
+        "name": "libuuid",
+        "version": "2.42.4"
+      },
+      {
+        "build": "hd42ef1d_1",
+        "name": "libwebp-base",
+        "version": "1.6.0"
+      },
+      {
+        "build": "hb83e432_2",
+        "name": "libxcb",
+        "version": "1.17.0"
+      },
+      {
+        "build": "h280c20c_0",
+        "name": "libxcrypt",
+        "version": "4.4.38"
+      },
+      {
+        "build": "h25fd6f3_3",
+        "name": "libzlib",
+        "version": "1.3.2"
+      },
+      {
+        "build": "hdb14827_1",
+        "name": "ncurses",
+        "version": "6.6"
+      },
+      {
+        "build": "h1602c4f_26",
+        "name": "openjdk",
+        "version": "25.0.2"
+      },
+      {
+        "build": "h781a0a9_0",
+        "name": "openssl",
+        "version": "3.6.4"
+      },
+      {
+        "build": "h8b3dc9c_1",
+        "name": "pcre2",
+        "version": "10.47"
+      },
+      {
+        "build": "1_h7cc23a3_perl5",
+        "name": "perl",
+        "version": "5.44.0"
+      },
+      {
+        "build": "hdfd78af_0",
+        "name": "pilon",
+        "version": "1.24"
+      },
+      {
+        "build": "pyh145f28c_0",
+        "name": "pip",
+        "version": "26.2.1"
+      },
+      {
+        "build": "h54a6638_3",
+        "name": "pixman",
+        "version": "0.46.4"
+      },
+      {
+        "build": "h7cc23a3_1004",
+        "name": "pthread-stubs",
+        "version": "0.4"
+      },
+      {
+        "build": "hcd007b5_106_cp314",
+        "name": "python",
+        "version": "3.14.7"
+      },
+      {
+        "build": "9_cp314",
+        "name": "python_abi",
+        "version": "3.14"
+      },
+      {
+        "build": "hd6e31c0_1",
+        "name": "readline",
+        "version": "8.3"
+      },
+      {
+        "build": "h9dcdb79_1",
+        "name": "samtools",
+        "version": "1.24"
+      },
+      {
+        "build": "noxft_h1df4ec4_4",
+        "name": "tk",
+        "version": "8.6.13"
+      },
+      {
+        "build": "h151e31d_0",
+        "name": "tzdata",
+        "version": "2026c"
+      },
+      {
+        "build": "h280c20c_0",
+        "name": "xorg-libice",
+        "version": "1.1.2"
+      },
+      {
+        "build": "h0d788c3_1",
+        "name": "xorg-libsm",
+        "version": "1.2.6"
+      },
+      {
+        "build": "he1eb515_1",
+        "name": "xorg-libx11",
+        "version": "1.8.13"
+      },
+      {
+        "build": "h7cc23a3_2",
+        "name": "xorg-libxau",
+        "version": "1.0.12"
+      },
+      {
+        "build": "h7cc23a3_2",
+        "name": "xorg-libxdmcp",
+        "version": "1.1.5"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "xorg-libxext",
+        "version": "1.3.7"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "xorg-libxfixes",
+        "version": "6.0.2"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "xorg-libxi",
+        "version": "1.8.3"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "xorg-libxrandr",
+        "version": "1.5.5"
+      },
+      {
+        "build": "hb03c661_1",
+        "name": "xorg-libxrender",
+        "version": "0.9.12"
+      },
+      {
+        "build": "h7cc23a3_1",
+        "name": "xorg-libxt",
+        "version": "1.3.1"
+      },
+      {
+        "build": "h7cc23a3_4",
+        "name": "xorg-libxtst",
+        "version": "1.2.5"
+      },
+      {
+        "build": "hb78ec9c_7",
+        "name": "zstd",
+        "version": "1.5.7"
+      }
+    ]
+  },
+  "input_sha256": {
+    "data/NA07000_chrM.bam": "d265d1b08d8e668928d5be8389ea435e305309622efb8e2ea1a7663eceeb54f3",
+    "data/ieee2021_mtdna_panel/10_Pygathrix_cinerea_NC_018063.fasta": "6ece51e92446750330bd524fa5883f6c18c63b2890f74a09b8a617734392a0ef",
+    "data/ieee2021_mtdna_panel/11_Procolobus_verus_NC_020666.fasta": "80b7005ef611476cb8ae1033e549a8a38a359e5db576c533d8e8b78e65920a5e",
+    "data/ieee2021_mtdna_panel/12_Rhinopithecus_strykeri_NC_018059.fasta": "ef0993c2461cf6171d7ecbd84b192890d70b4c0302816a5cf9c73f2e8ab56785",
+    "data/ieee2021_mtdna_panel/13_Rhinopithecus_brelichi_NC_018057.fasta": "3802ab1e27e9450fc4de3af9abc0a4b8b554d098814f7051f0283947992a1e84",
+    "data/ieee2021_mtdna_panel/14_Simias_concolor_NC_020667.fasta": "fc9a55ebbb9c602c3145c4e0f14c26ad82b1164bd769d9c3d8c7fffd47f56901",
+    "data/ieee2021_mtdna_panel/15_Cercocebus_torquatus_NC_023964.fasta": "ca6905356d41e6d757d557b3ef9760768fb4c9e611963615bbfef98da39ab509",
+    "data/ieee2021_mtdna_panel/16_Allenopithecus_nigroviridis_NC_023965.fasta": "bb352d1913952aa96dd1e3e65aa601272528ae85736d859fbc193b7fe7dbaab6",
+    "data/ieee2021_mtdna_panel/17_Macaca_silenus_NC_025221.fasta": "c4962a11acbf3c8955a41bcc32a6a02c8611827f21830075a80133dc11c5cae9",
+    "data/ieee2021_mtdna_panel/18_Macaca_arctoides_NC_025201.fasta": "6a4033f6220e2a95c8511b9dd1d83f3de896bfdfb9b4a6ef21c0003f2205b4b6",
+    "data/ieee2021_mtdna_panel/19_Macaca_tonkeana_NC_025222.fasta": "16c4a3c4866d17f8e5d90baad1b776d9f15a292c5b08925f776200a0eec15078",
+    "data/ieee2021_mtdna_panel/1_Lagothrix_lagotricha_NC_021951.fasta": "6e545ea740d70bce583329e5a96a3277cc424239ea76715546ac55e38c9c24a8",
+    "data/ieee2021_mtdna_panel/20_Papio_papio_NC_020009.fasta": "88d517b394d9bd6e7b6053cbf8a68914185b6525436f01e9039553f9eb3cae6b",
+    "data/ieee2021_mtdna_panel/21_Homo_sapiens_NC_012920.fasta": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "data/ieee2021_mtdna_panel/22_Gorilla_gorilla_NC_001645.fasta": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "data/ieee2021_mtdna_panel/23_Cephalopachus_bancanus_NC_002811.fasta": "d358a7b9eb099d669b17e6876d5b90c6f0fcf3688bb2510552baa4aac40eb904",
+    "data/ieee2021_mtdna_panel/24_Varecia_variegata_NC_012773.fasta": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "data/ieee2021_mtdna_panel/25_Lemur_catta_NC_004025.fasta": "15a19c953056f71045923292a5e8748e594f89429ed824346bd6d7fe615f2951",
+    "data/ieee2021_mtdna_panel/26_Galeopterus_variegatus_NC_004031.fasta": "7455bdef128993cb6c6147fd7f1f255fd37aa2da751e3865396d49b8f9c5e19e",
+    "data/ieee2021_mtdna_panel/27_Oryctolagus_cuniculus_NC_001913.fasta": "fd063e5454a6bdb1a0155c30b20eb68ae6c12d6e8ab3ee2d7fe57317860d898b",
+    "data/ieee2021_mtdna_panel/28_Mus_musculus_KF937876.fasta": "0eb01ad5094cf671bdc73cec20f3e77cb9a5065c280e8e410666be2b13be27b7",
+    "data/ieee2021_mtdna_panel/29_Tupaia_belangeri_AF217811.fasta": "e151b7cb65a24df7546a5d3ba364e45e8196247ae0894a707598a14dc6b31f28",
+    "data/ieee2021_mtdna_panel/2_Ateles_belzebuth_NC_019800.fasta": "164afb481d8ebf0419cd2c9e409890379240d1ef1465ba45adbca85f862efb28",
+    "data/ieee2021_mtdna_panel/30_Sphaerias_blanfordi_NC_046933.fasta": "2e1b677601f352dffd7df70d1170c3cdd81b0efc886ce2cab2af29852510fdb0",
+    "data/ieee2021_mtdna_panel/3_Alouatta_seniculus_NC_027825.fasta": "05e0bac41d3ed4b0aab86298309014a61365bae1b1c587eb547d768ce6d420dd",
+    "data/ieee2021_mtdna_panel/4_Aotus_azarai_NC_021939.fasta": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "data/ieee2021_mtdna_panel/5_Callithrix_penicillata_NC_030788.fasta": "d485351301fe7a377993cc365cff79bfe64de423def6375db6397775b4ddaa92",
+    "data/ieee2021_mtdna_panel/6_Callimico_goeldii_NC_024628.fasta": "084acc0279e801b189c06eca6a94379da39561c5892ad0f8000c87f7c95e4918",
+    "data/ieee2021_mtdna_panel/7_Leontopithecus_rosalia_NC_021952.fasta": "92aa18175dac3f637e52d9b7b3935256d8d71e9f0030c3e904346eba7fb3c59d",
+    "data/ieee2021_mtdna_panel/8_Saguinus_oedipus_NC_021960.fasta": "6199991f4139bcaa270b302267227d677f9aa34b180c222e97fce71d58d4d0c2",
+    "data/ieee2021_mtdna_panel/9_Saimiri_boliviensis_NC_021966.fasta": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "data/phase1_reproduction/Aotus_azarai_NC_021939.fasta": "aa54035f40886ffec7214b5d18881521854c60240513683cbe24e9c7e3122185",
+    "data/phase1_reproduction/Gorilla_gorilla_NC_001645.fasta": "30b137486548162d7b9651ed30eb5d639ec336fb51af0bf7c67a2a67e42a3b16",
+    "data/phase1_reproduction/Homo_sapiens_NC_012920.fasta": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92",
+    "data/phase1_reproduction/Saimiri_boliviensis_NC_021966.fasta": "3cf47b89569e552b98ac5603729c7c96a5c2aa9a760aefe6aacc95fab267af18",
+    "data/phase1_reproduction/Saimiri_sciureus_NC_012775.fasta": "5d899ac03cc65da6986b2a16eddfb7f75fe53c59d1de1311eb997b195346c8b7",
+    "data/phase1_reproduction/Varecia_variegata_NC_012773.fasta": "4149b6e305a1cfa7dfadfb3e47249130e9f1d80b1c39970cac8c92277282585b",
+    "data/refs/chimp_NC_001643.fasta": "e52fe9f13500456584afdde0822e21880ae5991c41aceb3457f0e942796663db",
+    "data/refs/chrM_for_cram.fasta": "0cea8b5e3d8c6de1e8c3bf51c99984a7ce285b45c90d6e49ed90c471df7c1b6b",
+    "data/refs/chrM_for_cram.fasta.fai": "9c7bc6eed38be0f0caea41fb8d0cd52147e999890249a82750547f97b9526a34",
+    "data/refs/chrM_rCRS.fasta": "fc392cde8e63b4d2e3a870bb97cc0626dea33d46dfb8abdebffada040f42ec92"
+  },
+  "package_commit": "ad319e584aa3ad6172bcf9d8fb2d089d36db86f5",
+  "project_commit": "659513196e36ff858c8c645197aab591d7d66bcf",
+  "source_sha256": {
+    "package/src/asem_refine/__init__.py": "9879eaf2fb5bef35385fd120bc0269f9a2c7dd71920689c24a4182fb5070b1b1",
+    "package/src/asem_refine/align.py": "ce258a746b50f04b038d93840c1f8c405d5e6930c3c259595808934a25192eb6",
+    "package/src/asem_refine/cli.py": "628cad3f887dba21c8e60ec279ab796e1211986a6c87d2223480cde528f206cc",
+    "package/src/asem_refine/core.py": "d7aa602473468eb511c52f8cd6b4b5a0bd2b19a080ec14ef47a88f2a18f9e8f5",
+    "package/src/asem_refine/estep.py": "532eca880d8f05388641c6bb04b181b6d2a309ad0ddba86a948572480667cb0f",
+    "package/src/asem_refine/hybrid.py": "b6275cd3acbdd37aa2891b0283f804766026b6920d56adac4da6cdd4a8ab690d",
+    "package/src/asem_refine/ncbi.py": "682cf84422ff799e1a9c7f00108e799404cada2d210d2008e755277dcd5141f1",
+    "package/src/asem_refine/novoplasty_config.py": "cd3b3dfc623c70d636c35265a8a14f6681ce2d984b662d1ec1d0bbc2a5bc4ae1",
+    "package/src/asem_refine/seqio.py": "49241bfa2e049eaaa77cf680f35e2526e4c000a2eed463d1ae81d3fae5e40c43",
+    "package/tests/test_hybrid_boundary.py": "1f845e1b650b89cf66411731c70ae08adecf00532b05219377e5e02653edcb34",
+    "package/tests/test_indel_consensus.py": "dd038b3e7185426e30a4250dc88724f5054695aceaa16a7bda2e93563246c470",
+    "package/tests/test_reverse_complement.py": "cbbe6d47297ae74ef85272807db3240a73f1abc6ab03ee5c829a9b09e8157695",
+    "plos-one/analysis/evaluator_n_fix/nsafe.py": "3ac65b152d06e39b2ce60241b1d610ee56c78e812f16a4db25bf59172ed3c9a3",
+    "plos-one/analysis/panel30_grid/panel30_species.py": "0447ffb0d52001a9e8b428dd83929045f6c1283f595621d934643048989e3613",
+    "plos-one/analysis/panel30_grid/preflight_think.py": "dfa33aea2946d443fa7d18d0a1daff62dfff810c8b6518edbb00ab3ab25d4dde",
+    "plos-one/analysis/panel30_grid/prepare_think_run.py": "4d9ada55c8fb461b4befa378978709c04d08822e0e563bb04815e03d8b532960",
+    "plos-one/analysis/panel30_grid/resume_io.py": "33fa4fd47ac8df44fde40f4f30bfc797c7e2b82cabf2ed6f4bca7b8e04ce9f53",
+    "plos-one/analysis/panel30_grid/run_panel30_grid.py": "71645c5da152635a4a12fdc3fb7825a8888cf2d793e98a595e3eba9234a9d6be",
+    "plos-one/analysis/panel30_grid/run_think_pipeline.py": "c63084812827150ae89468b88486ab37caf8cc7d858a78b5e9d9be9e4847d015",
+    "plos-one/analysis/panel30_grid/status_think_run.py": "8b8e1b77769187d82bcbfb20ab19f20cfb438c2cf712b2b56e076719ee1281f3",
+    "plos-one/analysis/panel30_grid/test_resume_io.py": "2d3e83b12b2748fb4e99b0c48996031d94bca9d2cde5523d73f4d6a72eb0508a",
+    "plos-one/analysis/read_length_all_methods/make_table_read_length.py": "3f622fe440999ede1b9dfade2ff482cbe85c48e8d8e0fe273affe838c3e2d54d",
+    "plos-one/analysis/read_length_all_methods/run_read_length_all_methods.py": "bcb4285f8e3da0ea7738a672fe59e5d7cf85a8c969515a7220d33ce46e2ecc60",
+    "plos-one/analysis/real_reads_all_methods/make_table_real_reads.py": "e81c81c4514301666a5c727f7fd8a143408205efc1b6ee858739bd0d869d6845",
+    "plos-one/analysis/real_reads_all_methods/run_real_reads_all_methods.py": "3c92ef62dd8f67be274a8aa0e7052302695f06bd3fc2c4fe4c11bdd2d71b52bd",
+    "plos-one/analysis/runtime_benchmark/make_table_runtime.py": "353965dd4cbc1b65edefe21945b74d9adc76ebdeb0ea6c295ad74736d4d526fd",
+    "plos-one/analysis/runtime_benchmark/run_runtime_benchmark.py": "d8a28aa5d1b856a8baabb11e995cc2fcec8c08c44eb63b1ff31b087f0e63dbd8",
+    "plos-one/analysis/runtime_benchmark/runtime_worker.py": "54a9c5751cd226ab517eaee4dffbedf4246cbaed1bda029164b123a4b8ee4516",
+    "scripts/asem_core.py": "9b15fb43264dbdead1be68f337ff1fe3ca7368fee612049d28139d6f018514a6",
+    "scripts/asem_hybrid.py": "3e28409425be47131fa73136f673c8662ba50fc787c6738a2ac4db93e43af629",
+    "scripts/asem_hybrid_boundary.py": "714cd962b4c257b2beeae6baac2de41d0070001afc721eb6849e5bd1ca3f0445",
+    "scripts/baseline_ecticon.py": "93b7855bccf02d4fb8e4677a83348595b8b1e013cf8d98b751beeed5c9cae12d",
+    "scripts/baseline_ieee_access.py": "778804f521f9856aebb11d2d7e7f54580559ff09c4c1faef01f010b651de3db2",
+    "scripts/baseline_ojemb.py": "696861fc2060e149dc8cf97de9a614c24274424afe5e14f0181496b7454911ff",
+    "scripts/common.py": "badfdd7fda9f21b46187ab76f321c66d5959e22a88ef6ba9b8bd078fb429cd5a",
+    "scripts/ext_getorganelle.py": "f91a26d67c375f9f0a22ef15410fca9e92b686d7f93c86983ac91acce29a690a",
+    "scripts/ext_mia.py": "09bf35d2cbeb6e227a5f190faa0ef745e8b12b5d1727f4e615c283cc05c72bf0",
+    "scripts/ext_novoplasty.py": "1d79594568ce89d4e435cd6983a4eabd9c19ad4521cf15fead3d1234de750ea4",
+    "scripts/ext_pilon.py": "0ac76a1dc28d1c98ead7ae241665a63cdf33de6a410d08598802f1fdb0c2b10d",
+    "scripts/fetch_data.py": "17eccc775e0b77cc5ea4362276c477ce952eeff73c33003bd1170067651eb33a",
+    "scripts/full_panel_species.py": "bf4673baf2b0270b5356f7f704406c4d448f51391bb894827b5feb335d924ba6",
+    "scripts/grid_run_guard.py": "29023acc6ffe7e23c0c00293f180bb45299dd10124f776d5d750c0c65ac81c3a",
+    "scripts/make_algo_figures.py": "c2387b348bc8714fada20ebab1402976fa18a5a47145c413aafbe3e44bdfc051",
+    "scripts/make_computational_cost_table.py": "48cd290dc969e413292cbc02273671d113f5652e1f3b6bcebfb966bbd147f9f5",
+    "scripts/make_depth_iteration_grid_v2.py": "a206844a7e373f683bd936179e78c8d17886b614abe18f5627b035efe24bcac1",
+    "scripts/make_external_tools_depth_chart.py": "54f7da40f3bf4356f6253d9ddeaa62c109caf3dafde71e6dd04109f4f52d5456",
+    "scripts/make_external_tools_depth_chart_english.py": "f2e79f7ec44fab992f9cb17bccbe4e8aefedba3f3d2d65fb53e12da2afc7755d",
+    "scripts/make_full_panel_clustermap.py": "edb23ffc94f5136aa6d62832d871b4478cbd75393ac9a1a3040d01844b62d443",
+    "scripts/make_hybrid_comparison_figure.py": "d07a1d7751c1463ba73516237a180a0935bb348133050e7aa6b82f9aa24e6e75",
+    "scripts/make_read_length_figure.py": "ad6f1137a3ae121c13e34b1e6418702d9ed24238657bd4c989610bb78b090dea",
+    "scripts/make_real_wgs_depth_chart.py": "47a64f6b0de62c2954fd202316909a344aeaa58a2bf665e784e3c5b54d203714",
+    "scripts/make_report.py": "c250a6ecc6959b491f22448fcab3fb78f9fd375149b472a51acd504b40fff2eb",
+    "scripts/manuscript_figures/make_vector_figures.py": "2b8692d76b652291fd4e0ca252e0b89ccd4bc62b048e3abb2997ed49f23e43c1",
+    "scripts/manuscript_figures/make_worked_example.py": "25ffe046728495c9c6d007c6ecdfdae59273ff5549c16803edbf89093ad0b900",
+    "scripts/phase1_species.py": "5bc805707190d645da5b8142575d89ab83fb9854be909d711e7682bbb46b9611",
+    "scripts/profile_computational_cost.py": "9693ae8b6f9ec62eb418a2e01b5eb83eec73a92d0a84777d2002f73cf08e80c4",
+    "scripts/rerun_external_successes_normalized.py": "bb87dcead8e2f03cdd80acdd2d733ea7c9809cadede793e87e69a0f220bd10fd",
+    "scripts/run_circular_boundary_diagnostic.py": "e9b1dd2b3be0d45a57553f2fdb5a04e8dc91c153a17abe106eae217b88212eee",
+    "scripts/run_evaluator_endgap_sanity.py": "e5e5107c518a65f298fb67e46c640ccb03678b329463067ab42b84aee8bd8109",
+    "scripts/run_grid_baseline1.py": "d59f5baaef7cf3d3a33c93a7a3c997eb29254fbeeb432e65120fad6642cdd06e",
+    "scripts/run_grid_baseline2.py": "76bf5efd26f5815ae2531fb33b3662a773fb02431756d388d03418a0cba34fc4",
+    "scripts/run_grid_baseline3.py": "af05fe2783c02002cbf6ca97d4e1b6513f0516957539e614c16d852add6af7fc",
+    "scripts/run_grid_baseline_hybrid.py": "2bdb0e95b07e1e67f4532531d39e65eadc9a9f09bc17e78fa954b7f3329edc70",
+    "scripts/run_grid_ext_getorganelle.py": "f954d3df7602188c9a65b2babebc97bd536eee0f210bd0249ba287fa9607de75",
+    "scripts/run_grid_ext_mia.py": "e2a59679d4caa5852f68eddbf0e3f5c9f83ca114e509fb27ae6b2707717437be",
+    "scripts/run_grid_ext_novoplasty.py": "35b1d4a648dec58a0306b22d4dcc08bdbbcea4879fff0eb4b55adb3fee19e318",
+    "scripts/run_grid_ext_pilon.py": "048e0617e55213b8d9f873fccae9b3b1e325f55b10d0bd42a8d83dd3001e76d4",
+    "scripts/run_orientation_experiment.py": "b9a83a6876e19341b2687202d12a4629ef105c987487932bebf747257925aeb2",
+    "scripts/run_parameter_sensitivity.py": "8d36736b750f8a555658127669aaa861c6cce50f7095ff808e83be09964c45b2",
+    "scripts/run_read_length_experiment.py": "bafc8bfdce4349d2c1fc0ee79e6e5ea38a48ae3d3c0604bbf841d78ea71421ac",
+    "scripts/run_real_wgs_benchmark.py": "693c800de93ec8eb33cfe68a9f023fad7ba1b9dd7765e690e8ee2340ba093f47",
+    "scripts/run_real_wgs_hybrid_benchmark.py": "59a96b6198167dd27f63a9652490d776bdc5bca5aee04ace20c7e0691bf7fc21",
+    "scripts/run_secondary_placement_check.py": "e84ef618614086770b6a2ad87d305bc60a27e61f7c64817f95e8f55910fba6c4",
+    "scripts/summarize_normalized_external.py": "79655c3135134385398f850ad827c7b08bad422582f3f9b8c56b62f55433fddf",
+    "scripts/summarize_post_tie_rule.py": "0c03156a7e73e840e4c8dc6699cd53c68caffd857f3a3ba9ebba73d74bcdba49",
+    "scripts/summarize_real_wgs_hybrid.py": "b04cdcfba9f509e465a143f4c7927653d2ced668d7040432bfecdb4c403b3522",
+    "scripts/summarize_shared_cross_method.py": "8fd1ac92e63d0fdb1443c2055c5f222170718644edbde24a4e514ad92cf4b366",
+    "scripts/test_asem_hybrid_boundary.py": "206224e71d78ea9f3f5fb33b4debfdc4e7419ba3aec209fb3ba7afec365f7e47",
+    "scripts/test_asem_indels.py": "2bece3d419ccbbd6e58b14f969d230ca6368b92782633093ca2c9126e3bba416",
+    "scripts/test_common_evaluator.py": "3908158fad17b8c577885160809fa10e798f331c8e248efd611424c5b9e6889a"
+  },
+  "taxonomy": "original-panel"
+}

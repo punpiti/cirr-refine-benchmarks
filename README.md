@@ -1,14 +1,27 @@
 # asem-refine-benchmarks
 
-Current frozen benchmark release: **v1.4.0**.
+Current frozen benchmark release: **v1.5.0**.
 
-Version 1.4.0 adds `plos-one/` (see `plos-one/README.md`): the analyses of the
-revised manuscript, including neutral scoring of ambiguous (N) bases, reruns of
-all main-grid MIA jobs with retained outputs, every method on the read-length
-and NA07000 experiments, a controlled run-time and memory benchmark, paired
-summaries with cluster-bootstrap intervals, and the scripts that draw the data
-figures and build the supporting tables. The v1.3.0 code in `scripts/` is
-unchanged.
+Version 1.5.0 adds `tcbb-20261102/`: the accepted 30-species mitochondrial
+benchmark with eight methods and 167,040 main-grid rows, including MITObim;
+the separate strand-aware follow-up source; reference baseline/net changes;
+species-deletion sensitivity; and updated read-length, empirical and controlled
+cost results. CIRR and CIRR-Hybrid retain their ASEM working names in source
+and result tables. The main grid uses the frozen forward-only snapshot. The
+strand-aware snapshot is archived separately and was used for the follow-up.
+
+Start with [`tcbb-20261102/RELEASE.txt`](tcbb-20261102/RELEASE.txt).
+The exact author-approved ZIP is a GitHub release asset with SHA-256
+`5ac0804a28d239d3649bc273b45fc459ccf0966f1415b93a9e8c2f2c95a5ca8d`.
+The files under `tcbb-20261102/` reproduce that ZIP without alteration.
+Its README and S1 Text record the status at candidate preparation, before this
+release; the deposit status is documented in RELEASE.txt. No experimental
+result was changed during publication.
+
+The preceding v1.4.0 added `plos-one/` for the earlier six-species manuscript.
+The top-level `scripts/` and `plos-one/` remain historical reproduction paths.
+The instructions below describe those earlier experiments; use the new release
+folder for the current 30-species evidence.
 
 Reproduction package for the benchmarks reported in the ASEM/ASEM-Hybrid
 paper: the 720-job Phase-1 simulation grid, the

@@ -1,0 +1,32 @@
+asem-refine-benchmarks v1.5.0 — 30-species CIRR benchmark and strand-aware follow-up
+Release date: 2 November 2026
+
+This folder preserves the complete contents of the author-approved archive
+cirr-panel30-strand-aware-20261102-candidate.zip, whose SHA-256 is
+5ac0804a28d239d3649bc273b45fc459ccf0966f1415b93a9e8c2f2c95a5ca8d.
+The ZIP is also attached to the GitHub release. SHA256SUMS verifies the candidate
+contents; RELEASE.txt is the only added file in this folder.
+
+Main grid: 30 species, 870 ordered pairs, depths 1–8X, three replicates,
+eight methods, 167,040 rows. Seven methods are in results/main_grid_seven_methods.csv;
+MITObim is in results/mitobim_scored.csv. Accuracy remains conditional on output.
+Separate main/ and followup/ snapshots preserve the forward-only main experiment
+and the strand-aware follow-up. No reruns or numerical revisions accompany release.
+
+The bundled README.txt and S1 Text reflect preparation before publication and
+therefore contain pending-release wording. That wording is historical for this
+archived snapshot. The current manuscript and supplement will cite the published
+version after the DOI is minted. S3/S4 retain explicitly historical diagnostics.
+
+Mus musculus has family Muridae in taxonomy/panel30_species.py and S1 Table.
+Frozen snapshots retain the original Muroidea label for provenance. All 870
+pair tiers are unchanged by this correction; see taxonomy/correction.json.
+
+The public empirical BAM and retained per-job assembly/work directories are not
+included. INPUTS_NOT_BUNDLED.json supplies input hashes; README.txt describes
+reproduction limits and environment/machine-path requirements. SOURCE_HASHES.json
+records source and packaged hashes, including one metadata-only path replacement.
+Software is MIT licensed; retain both included license notices.
+
+Repository/release: https://github.com/punpiti/asem-refine-benchmarks/releases/tag/v1.5.0
+Zenodo software-series DOI: https://doi.org/10.5281/zenodo.22049057

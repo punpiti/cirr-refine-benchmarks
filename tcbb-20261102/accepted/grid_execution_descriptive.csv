@@ -1,0 +1,14 @@
+method,status,count,min,median,max,interpretation
+ASEM,completed,20880,0.59,4.99,34.38,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+ASEM_Hybrid,completed,20880,0.73,3.75,35.52,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+GetOrganelle,completed,111,5.42,8.5,13.88,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+GetOrganelle,no_output,20769,0.69,2.86,17.63,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+MIA,completed,19930,18.57,59.47,428.38,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+MIA,error,950,22.99,64.89500000000001,415.4,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+MITObim,completed,20737,1.47,23.7,148.13,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+MITObim,no_output,143,0.11,1.97,4.7,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+NOVOPlasty,completed,6886,0.81,71.995,3478.16,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+NOVOPlasty,no_output,13989,0.15,116.65,404.02,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+NOVOPlasty,timeout,5,3600.01,3600.01,3600.02,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+Pilon,completed,20880,0.26,1.36,9.17,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison
+SRSC,completed,20880,5.93,17.49,43.57,parallel-grid observed duration; timeouts right-censored; not controlled runtime comparison

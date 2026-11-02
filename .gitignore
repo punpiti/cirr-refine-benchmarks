@@ -13,3 +13,18 @@ plos-one/assets/
 plos-one/generated/
 plos-one/supporting/*.xlsx
 plos-one/**/*.log
+
+# Local/private state and credentials
+.ai/
+local-profiles/
+private/
+internal/
+*.private.md
+*.private.json
+.env
+.env.*
+*.p12
+*.pfx
+*.pem
+*.key
+*.kdbx
