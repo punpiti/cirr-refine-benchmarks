@@ -42,7 +42,7 @@ and the real-WGS (NA07000) validation.
 
 This repository preserves the research snapshots and raw results used to
 produce the archived tables and figures. The current
-[cirr-refine package](https://github.com/punpiti/cirr-refine) version 0.5.0
+[cirr-refine package](https://github.com/punpiti/cirr-refine) 
 packages the strand-aware engine from `tcbb-20261102/followup/`, with source
 fingerprints and CLI parity checks. Exact reproduction of older tables still
 requires their own frozen snapshot and settings, including the separate
