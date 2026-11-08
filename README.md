@@ -1,4 +1,15 @@
-# asem-refine-benchmarks
+# cirr-refine-benchmarks
+
+CIRR and CIRR-Hybrid are the current method names. Install the general-use
+Python package from [cirr-refine](https://github.com/punpiti/cirr-refine).
+This repository preserves the code and results that generated the archived
+research outputs. Historical filenames, environment variables, raw method IDs
+and frozen snapshot documentation retain their original spelling so that
+recorded hashes and reproduction commands remain valid.
+
+The frozen v1.5.0 archive is available at
+[DOI 10.5281/zenodo.23874553](https://doi.org/10.5281/zenodo.23874553).
+It does not contain all subsequent manuscript experiments.
 
 Current frozen benchmark release: **v1.5.0**.
 
@@ -23,18 +34,19 @@ The top-level `scripts/` and `plos-one/` remain historical reproduction paths.
 The instructions below describe those earlier experiments; use the new release
 folder for the current 30-species evidence.
 
-Reproduction package for the benchmarks reported in the ASEM/ASEM-Hybrid
-paper: the 720-job Phase-1 simulation grid, the
+Historical reproduction package for the CIRR/CIRR-Hybrid
+experiments: the 720-job Phase-1 simulation grid, the
 external-tool comparison, the read-length experiment, the computational-cost
 profiling, parameter and circular-boundary diagnostics, MIA/Pilon comparisons,
 and the real-WGS (NA07000) validation.
 
-This is the exact research code and raw results that produced the numbers
-in the paper -- not the `asem-refine` package (https://github.com/punpiti/asem-refine),
-which is a separately maintained, independent reimplementation meant for
-general use rather than as a frozen benchmark harness. Where the two
-differ, this repository is the one that generated the reported tables and
-figures.
+This repository preserves the research snapshots and raw results used to
+produce the archived tables and figures. The current
+[cirr-refine package](https://github.com/punpiti/cirr-refine) version 0.5.0
+packages the strand-aware engine from `tcbb-20261102/followup/`, with source
+fingerprints and CLI parity checks. Exact reproduction of older tables still
+requires their own frozen snapshot and settings, including the separate
+original forward-only main grid.
 
 Version 1.2.0 contains the insertion-aware combined-alignment consensus used
 by the revision manuscript and complete result CSVs regenerated with that
@@ -46,7 +58,7 @@ retained between reference positions.
 
 ## Layout
 
-- `scripts/` -- all benchmark/grid-runner code, the ASEM/ASEM-Hybrid/SRSC
+- `scripts/` -- all benchmark/grid-runner code, the CIRR/CIRR-Hybrid/SRSC
   implementations as actually run, external-tool wrapper scripts, and the
   plotting/table-generation scripts that turned the raw CSVs into the
   paper's figures and tables.
@@ -104,8 +116,8 @@ example:
 
 ```bash
 cd scripts
-python3 run_grid_baseline1.py   # non-recursive ASEM, full 720-job grid
-python3 run_grid_baseline2.py   # recursive ASEM, full 720-job grid
+python3 run_grid_baseline1.py   # non-recursive CIRR, full 720-job grid
+python3 run_grid_baseline2.py   # recursive CIRR, full 720-job grid
 python3 run_grid_baseline3.py   # SRSC, same grid
 ASEM_HYBRID_VARIANT=boundary python3 run_grid_baseline_hybrid.py
 ```
@@ -163,7 +175,7 @@ CSVs in `scripts/results/`.
   live somewhere else or aren't on `PATH`.
 - `scripts/asem_hybrid.py` and `scripts/asem_hybrid_boundary.py` are the
   exact algorithm implementations used to generate the reported results,
-  kept here even though `asem-refine` now also implements the
+  kept here even though `cirr-refine` now also implements the
   boundary-recruited variant, for byte-for-byte reproducibility of this
   paper's specific numbers.
 - License: MIT (see `LICENSE`).
